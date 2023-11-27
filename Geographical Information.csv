@@ -1,0 +1,10325 @@
+id,country
+1,Côte d'Ivoire
+3,Vietnam
+4,Côte d'Ivoire
+15,Vietnam
+16,Vietnam
+23,Nigeria
+44,Zambia
+45,Tanzania
+46,Nigeria
+47,Zambia
+60,Zambia
+61,Zambia
+62,Nigeria
+64,Rwanda
+65,Haiti
+68,Zimbabwe
+69,Nigeria
+80,Rwanda
+81483,Vietnam
+87,Tanzania
+92,Nigeria
+96,Nigeria
+108,Côte d'Ivoire
+115,Vietnam
+116,Vietnam
+130,Haiti
+134,Haiti
+138,Tanzania
+139,Tanzania
+140,Tanzania
+161,Ethiopia
+176,Nigeria
+262,South Africa
+269,Vietnam
+270,Vietnam
+284,Rwanda
+305,Nigeria
+343,South Africa
+361,Haiti
+391,Côte d'Ivoire
+392,Côte d'Ivoire
+398,Guyana
+399,Guyana
+400,Ethiopia
+410,Zimbabwe
+411,Nigeria
+414,Namibia
+420,Vietnam
+422,South Africa
+423,South Africa
+438,Vietnam
+459,South Africa
+464,Nigeria
+465,Nigeria
+466,Ethiopia
+530,Vietnam
+531,South Africa
+532,South Africa
+533,South Africa
+535,Tanzania
+543,Haiti
+551,Haiti
+598,South Africa
+610,Vietnam
+630,Nigeria
+637,Vietnam
+646,South Africa
+660,Vietnam
+668,Guyana
+670,Zambia
+712,Namibia
+717,Côte d'Ivoire
+719,Côte d'Ivoire
+772,Nigeria
+791,Namibia
+796,Botswana
+797,Zambia
+835,South Africa
+836,South Africa
+837,South Africa
+838,South Africa
+2947,Vietnam
+839,South Africa
+849,Guyana
+858,Tanzania
+914,Côte d'Ivoire
+937,Mozambique
+960,Vietnam
+961,Vietnam
+962,Vietnam
+979,Vietnam
+985,Tanzania
+986,Tanzania
+993,Rwanda
+1037,Nigeria
+1046,Haiti
+1047,Haiti
+1048,Haiti
+1063,South Africa
+1065,South Africa
+1066,South Africa
+1067,South Africa
+1068,South Africa
+1070,South Africa
+1077,South Africa
+1078,South Africa
+1079,South Africa
+1080,South Africa
+1084,South Africa
+1085,South Africa
+1086,South Africa
+1095,Botswana
+1109,Côte d'Ivoire
+1110,Côte d'Ivoire
+1111,South Africa
+1114,South Africa
+1115,South Africa
+1122,Haiti
+1134,Kenya
+1140,Nigeria
+1156,Rwanda
+1162,Côte d'Ivoire
+1179,Vietnam
+1183,Vietnam
+1196,Botswana
+1198,Namibia
+1213,Vietnam
+1215,Namibia
+1221,South Africa
+1222,South Africa
+1223,South Africa
+1245,Côte d'Ivoire
+1246,Côte d'Ivoire
+1251,Vietnam
+1262,Haiti
+1279,Zimbabwe
+1281,Nigeria
+1282,Vietnam
+1283,Vietnam
+1285,Guyana
+1295,Mozambique
+1298,Vietnam
+1299,Rwanda
+1300,Rwanda
+1303,Ethiopia
+1306,Vietnam
+1307,Nigeria
+1309,Ethiopia
+1337,Côte d'Ivoire
+1347,Nigeria
+1350,Côte d'Ivoire
+1356,Vietnam
+1357,Vietnam
+1358,Vietnam
+1359,Vietnam
+1360,Vietnam
+1361,Vietnam
+1383,Tanzania
+1502,Rwanda
+1512,South Africa
+1513,South Africa
+1519,Vietnam
+1527,Nigeria
+1529,Rwanda
+1530,Vietnam
+1531,Kazakhstan
+1549,Nigeria
+1587,South Africa
+1593,Botswana
+1594,Nigeria
+1618,Mozambique
+1628,Zambia
+1634,Zambia
+1637,Côte d'Ivoire
+1638,Mozambique
+1643,Côte d'Ivoire
+1644,Côte d'Ivoire
+1645,Côte d'Ivoire
+1646,Guyana
+1647,Guyana
+1648,Botswana
+1861,Rwanda
+1660,Zimbabwe
+1673,South Africa
+1674,South Africa
+1675,South Africa
+1691,Vietnam
+1693,Vietnam
+1719,Côte d'Ivoire
+1722,South Africa
+1723,South Africa
+1724,South Africa
+1730,Nigeria
+1797,Vietnam
+1798,Vietnam
+1801,South Africa
+1802,South Africa
+1803,South Africa
+1804,South Africa
+1820,Haiti
+1888,Rwanda
+1889,Rwanda
+1905,Vietnam
+1919,Vietnam
+1926,South Africa
+1927,South Africa
+1928,South Africa
+1929,South Africa
+1939,Zambia
+1940,Guyana
+1941,Nigeria
+1942,Nigeria
+1954,Vietnam
+1955,Vietnam
+1956,Vietnam
+1957,Vietnam
+1971,Guyana
+1972,Ethiopia
+1973,Ethiopia
+2008,Ethiopia
+2014,South Africa
+2015,South Africa
+2146,Ethiopia
+2147,Ethiopia
+2148,Zimbabwe
+2153,Vietnam
+2156,South Africa
+2157,South Africa
+2158,South Africa
+2159,South Africa
+2171,Nigeria
+2173,Namibia
+2257,Guyana
+2295,Namibia
+2297,Vietnam
+2298,Vietnam
+2305,Nigeria
+2328,Haiti
+2399,Haiti
+2417,Mozambique
+2429,South Africa
+2430,South Africa
+2431,South Africa
+2432,South Africa
+2436,South Africa
+2437,South Africa
+2438,South Africa
+2439,South Africa
+2440,South Africa
+2441,Uganda
+2447,South Africa
+2450,South Africa
+2451,South Africa
+2463,Rwanda
+2474,South Africa
+2475,South Africa
+2476,South Africa
+2477,Guyana
+2478,Guyana
+2481,South Africa
+2499,Nigeria
+2502,Kenya
+2503,Kenya
+2506,Nigeria
+2536,Rwanda
+2539,Côte d'Ivoire
+2558,Namibia
+2559,Vietnam
+2562,Côte d'Ivoire
+2571,Namibia
+2588,Vietnam
+2601,South Africa
+2602,South Africa
+2603,Zambia
+2632,Guyana
+2647,Côte d'Ivoire
+2654,Haiti
+2655,Vietnam
+2656,Vietnam
+2657,Vietnam
+2661,Nigeria
+2662,Nigeria
+2680,Zambia
+2681,Zambia
+2683,Nigeria
+2684,Nigeria
+2685,Zambia
+2686,Vietnam
+2687,Vietnam
+2705,Haiti
+2708,Vietnam
+2721,Zambia
+2733,Côte d'Ivoire
+2740,Nigeria
+2741,Nigeria
+2756,Nigeria
+2765,Vietnam
+2766,Vietnam
+2767,Vietnam
+2785,Vietnam
+2794,Tanzania
+2795,Tanzania
+2796,Namibia
+2808,Ethiopia
+2823,Guyana
+2892,Uganda
+2921,South Africa
+2922,South Africa
+2923,South Africa
+2927,Rwanda
+2960,Haiti
+2965,Haiti
+2993,South Africa
+2994,South Africa
+2995,South Africa
+2996,South Africa
+3007,Côte d'Ivoire
+3008,Nigeria
+3009,Nigeria
+3010,Nigeria
+3026,South Africa
+3037,Ethiopia
+3039,Mozambique
+3040,Zambia
+3049,Côte d'Ivoire
+3050,Côte d'Ivoire
+3055,Uganda
+3080,South Africa
+3081,South Africa
+3094,Vietnam
+3096,Vietnam
+3097,Vietnam
+3152,Botswana
+3153,Botswana
+3154,Botswana
+3159,Ethiopia
+3191,South Africa
+3192,South Africa
+3193,South Africa
+3202,Haiti
+3245,Zambia
+3261,Vietnam
+3282,South Africa
+3292,Nigeria
+3294,Uganda
+3302,Vietnam
+3313,Zambia
+3354,Ethiopia
+3357,South Africa
+3358,South Africa
+3359,South Africa
+3360,Namibia
+3375,Côte d'Ivoire
+3378,Mozambique
+3386,Mozambique
+3419,Côte d'Ivoire
+3421,Nigeria
+3441,Zambia
+3456,Vietnam
+3457,Namibia
+3470,Uganda
+3479,Ethiopia
+3490,South Africa
+3499,Tanzania
+3507,Nigeria
+3508,Namibia
+3551,Guyana
+3552,Guyana
+3615,Vietnam
+3616,Vietnam
+3674,Rwanda
+3718,Haiti
+3719,Haiti
+3735,South Africa
+3736,South Africa
+3737,South Africa
+3738,South Africa
+3739,South Africa
+3743,South Africa
+3745,South Africa
+3746,South Africa
+3747,South Africa
+3748,South Africa
+3749,South Africa
+3751,South Africa
+3752,South Africa
+3753,South Africa
+3754,South Africa
+3763,South Africa
+3767,South Africa
+4020,Vietnam
+3768,South Africa
+3769,South Africa
+3770,South Africa
+3771,South Africa
+3772,South Africa
+3781,Botswana
+3787,South Africa
+3808,Kenya
+3828,Rwanda
+3839,Namibia
+3840,Côte d'Ivoire
+3846,Vietnam
+3848,Vietnam
+3851,Vietnam
+3852,Vietnam
+3870,Botswana
+3880,Vietnam
+3894,South Africa
+3895,South Africa
+3896,South Africa
+3897,South Africa
+3898,South Africa
+3899,South Africa
+3926,Côte d'Ivoire
+3955,Uganda
+3956,Vietnam
+3970,Rwanda
+3971,Rwanda
+3972,Zambia
+3976,Zambia
+3989,Haiti
+3992,Nigeria
+4021,Vietnam
+4023,Guyana
+4025,Côte d'Ivoire
+4044,Tanzania
+4045,Tanzania
+4085,Guyana
+4100,Côte d'Ivoire
+4189,South Africa
+4190,South Africa
+4192,Rwanda
+4193,Rwanda
+4198,Vietnam
+4215,Vietnam
+4257,South Africa
+4258,South Africa
+4259,South Africa
+4283,Haiti
+4290,South Africa
+4301,Zambia
+4302,Côte d'Ivoire
+4303,Rwanda
+4311,Côte d'Ivoire
+4312,Guyana
+4321,Botswana
+4331,Kyrgyzstan
+4333,Namibia
+4347,South Africa
+4367,Vietnam
+4368,Vietnam
+4369,Vietnam
+4372,Vietnam
+4373,Vietnam
+4432,Haiti
+4456,Vietnam
+4457,Vietnam
+4458,Vietnam
+4459,Vietnam
+4460,Vietnam
+4461,South Africa
+4470,Haiti
+4531,South Africa
+4534,Zambia
+4567,Tanzania
+4593,Zambia
+4594,Guyana
+4611,Botswana
+4615,Botswana
+4635,Vietnam
+4646,Nigeria
+4647,Ethiopia
+4648,Ethiopia
+4649,Ethiopia
+4650,Mozambique
+4709,Rwanda
+4722,Namibia
+4794,Zambia
+4798,South Africa
+4804,Tanzania
+4818,Ethiopia
+4824,Tanzania
+4854,Guyana
+4921,Vietnam
+4929,Zambia
+4947,Senegal
+4949,Tanzania
+5032,South Africa
+5033,South Africa
+5034,South Africa
+5035,South Africa
+5036,South Africa
+5037,South Africa
+5041,South Africa
+5042,South Africa
+5043,South Africa
+5044,South Africa
+5045,South Africa
+5046,South Africa
+5047,South Africa
+5048,South Africa
+5049,South Africa
+5050,South Africa
+5051,South Africa
+5052,South Africa
+5053,South Africa
+5058,South Africa
+5059,South Africa
+5066,Botswana
+5076,South Africa
+5081,South Africa
+5083,South Africa
+5113,Rwanda
+5114,Nigeria
+5119,Côte d'Ivoire
+5120,Côte d'Ivoire
+5147,Namibia
+5175,Tanzania
+5194,South Africa
+5195,South Africa
+5199,Namibia
+5201,Côte d'Ivoire
+5233,Côte d'Ivoire
+5243,Côte d'Ivoire
+5249,Vietnam
+5253,Nigeria
+5260,Côte d'Ivoire
+5261,Côte d'Ivoire
+5268,Guyana
+5277,Uganda
+5278,Zambia
+5279,Vietnam
+5280,Vietnam
+5281,Vietnam
+5282,Vietnam
+5283,Vietnam
+5293,Guyana
+5294,Nigeria
+5295,Nigeria
+5303,Zimbabwe
+5304,Tanzania
+5324,Guyana
+5352,Guyana
+5353,Guyana
+5364,Côte d'Ivoire
+5365,Haiti
+5366,Haiti
+5428,Côte d'Ivoire
+5446,Rwanda
+5507,South Africa
+5508,South Africa
+5509,South Africa
+5510,South Africa
+5522,Vietnam
+5532,Rwanda
+5534,Vietnam
+5551,Haiti
+5575,South Africa
+5589,Botswana
+5590,Nigeria
+5595,Benin
+5596,Benin
+5622,Zambia
+5634,Côte d'Ivoire
+5635,Lesotho
+5645,Botswana
+5646,Nigeria
+5647,Uganda
+5657,Uganda
+5658,Uganda
+5661,Côte d'Ivoire
+5675,South Africa
+5676,South Africa
+5677,South Africa
+5678,South Africa
+5701,Vietnam
+5703,Vietnam
+5713,Côte d'Ivoire
+5717,South Africa
+5769,Botswana
+5793,Vietnam
+5794,Vietnam
+5796,Vietnam
+5799,South Africa
+5800,South Africa
+5801,South Africa
+5802,South Africa
+5815,Haiti
+5818,Haiti
+5821,Haiti
+5857,Rwanda
+5860,Zimbabwe
+5894,Vietnam
+5895,Vietnam
+5905,Tanzania
+5916,South Africa
+5917,Nigeria
+5928,Nigeria
+5935,Vietnam
+5936,Vietnam
+5937,Vietnam
+5976,Ethiopia
+5978,South Africa
+5979,South Africa
+5987,Côte d'Ivoire
+6023,Haiti
+6041,Côte d'Ivoire
+6062,Namibia
+6081,Vietnam
+6082,Vietnam
+6084,Mozambique
+6105,Ethiopia
+6106,Ethiopia
+6111,Ethiopia
+6125,South Africa
+6139,Guyana
+6196,Côte d'Ivoire
+6253,Namibia
+6257,Vietnam
+6272,Tanzania
+6312,Rwanda
+6369,Haiti
+6381,Vietnam
+6394,South Africa
+6395,South Africa
+6396,South Africa
+6397,South Africa
+6398,South Africa
+6399,South Africa
+6400,South Africa
+6401,South Africa
+6402,South Africa
+6403,South Africa
+6404,South Africa
+6405,South Africa
+6411,South Africa
+6415,South Africa
+6416,South Africa
+6417,South Africa
+6418,South Africa
+6431,Côte d'Ivoire
+6432,South Africa
+6436,South Africa
+6437,South Africa
+6438,South Africa
+6439,South Africa
+6440,South Africa
+6450,Côte d'Ivoire
+6451,Zambia
+6488,Nigeria
+6517,Vietnam
+6519,Botswana
+6524,Namibia
+6544,Vietnam
+6546,Vietnam
+6561,South Africa
+6563,South Africa
+6595,Zambia
+6599,Haiti
+6600,Vietnam
+6601,Vietnam
+6608,Côte d'Ivoire
+6621,Uganda
+6622,Uganda
+6623,Zambia
+6624,Zambia
+6625,Vietnam
+6626,Vietnam
+6627,Vietnam
+6642,Zambia
+6647,Rwanda
+6670,Mozambique
+6671,Côte d'Ivoire
+6691,Vietnam
+6692,Vietnam
+6693,Guyana
+6705,Rwanda
+6724,Vietnam
+6745,Guyana
+6746,Nigeria
+6753,Nigeria
+6768,Guyana
+6837,Rwanda
+6845,South Africa
+6846,South Africa
+6848,Rwanda
+6849,Rwanda
+6881,Haiti
+6884,Haiti
+6896,Ethiopia
+6913,South Africa
+6914,South Africa
+6915,South Africa
+6931,Tanzania
+6932,Nigeria
+6933,Nigeria
+6962,Mozambique
+6972,Lesotho
+6988,Nigeria
+6994,Namibia
+7007,Vietnam
+7008,South Africa
+7009,South Africa
+7030,Vietnam
+7032,Vietnam
+7055,South Africa
+7056,South Africa
+7091,Botswana
+7093,Botswana
+7120,Vietnam
+7121,Vietnam
+7122,Vietnam
+7125,South Africa
+7126,South Africa
+7127,South Africa
+7128,South Africa
+7129,South Africa
+7172,Nigeria
+7176,Rwanda
+7183,Rwanda
+7184,Zimbabwe
+7201,Rwanda
+7202,South Africa
+7218,Vietnam
+9269,Guyana
+7244,South Africa
+7259,Guyana
+8951,Rwanda
+7260,Nigeria
+7276,Ethiopia
+7321,Mozambique
+7325,South Africa
+7326,South Africa
+7327,South Africa
+7338,Côte d'Ivoire
+7398,Côte d'Ivoire
+7421,Namibia
+7436,Vietnam
+7467,Ethiopia
+7468,Ethiopia
+7469,Ethiopia
+7475,South Africa
+7476,South Africa
+7477,South Africa
+7607,Vietnam
+7638,Tanzania
+7675,Côte d'Ivoire
+7695,Haiti
+7696,Haiti
+7708,Haiti
+7718,South Africa
+7719,South Africa
+7720,South Africa
+7721,South Africa
+7728,South Africa
+7729,South Africa
+7730,South Africa
+7731,South Africa
+7732,South Africa
+7734,South Africa
+7735,South Africa
+7736,South Africa
+7741,South Africa
+7748,South Africa
+7749,South Africa
+7750,South Africa
+7751,South Africa
+7775,Guyana
+7778,South Africa
+7779,South Africa
+7837,Vietnam
+7847,Namibia
+7849,Uganda
+7857,Botswana
+7868,Tanzania
+7894,Namibia
+7921,Vietnam
+7922,Côte d'Ivoire
+7926,Nigeria
+7929,Zambia
+7939,Haiti
+7953,Côte d'Ivoire
+7954,Zambia
+7968,Zambia
+7970,Vietnam
+7975,Uganda
+7983,Zimbabwe
+7984,Haiti
+7990,Nigeria
+7991,Nigeria
+8005,Guyana
+8017,Haiti
+8023,Nigeria
+8038,Vietnam
+8061,Tanzania
+8062,Tanzania
+8100,Zimbabwe
+8185,South Africa
+8186,South Africa
+8192,Rwanda
+8204,Botswana
+8207,Rwanda
+8209,Kazakhstan
+8213,Nigeria
+8218,Tanzania
+8231,Haiti
+8232,Haiti
+8258,South Africa
+8263,Nigeria
+8264,Nigeria
+8271,Benin
+8315,Haiti
+8316,Côte d'Ivoire
+8317,Mozambique
+8344,Kyrgyzstan
+8378,Vietnam
+8407,Nigeria
+8437,Botswana
+8438,Botswana
+8440,Botswana
+8459,Vietnam
+8460,Vietnam
+8461,Vietnam
+8462,Vietnam
+8463,South Africa
+8464,South Africa
+8465,South Africa
+8470,Haiti
+8475,Haiti
+8554,Zambia
+8590,South Africa
+8603,Vietnam
+8604,Vietnam
+8605,Vietnam
+8616,Haiti
+8642,Ethiopia
+8645,South Africa
+8646,South Africa
+8648,Nigeria
+9089,Haiti
+8692,Nigeria
+8693,Nigeria
+8713,Botswana
+8714,Zambia
+8735,Mozambique
+8737,Namibia
+8738,Namibia
+8760,Namibia
+8770,Ethiopia
+8802,Tanzania
+9034,South Africa
+8803,Tanzania
+8864,Tanzania
+8892,Vietnam
+8893,Vietnam
+8909,Botswana
+8922,Tanzania
+8989,Rwanda
+8996,Haiti
+9000,Haiti
+9002,Haiti
+9022,South Africa
+9023,South Africa
+9024,South Africa
+9025,South Africa
+9026,South Africa
+9032,South Africa
+9033,South Africa
+9086,Zambia
+9036,South Africa
+9037,South Africa
+9038,South Africa
+9090,Haiti
+9039,South Africa
+9040,South Africa
+9041,South Africa
+9042,South Africa
+9043,South Africa
+9053,South Africa
+9054,South Africa
+9055,South Africa
+9056,South Africa
+9078,South Africa
+9080,South Africa
+9081,South Africa
+9085,Côte d'Ivoire
+9088,Haiti
+9093,Nigeria
+9095,Kenya
+9096,Kenya
+9100,Nigeria
+9145,Namibia
+9151,Vietnam
+9154,Vietnam
+9173,Namibia
+9179,Botswana
+9187,Vietnam
+9200,South Africa
+9201,South Africa
+9202,South Africa
+9225,Nigeria
+9243,Côte d'Ivoire
+9252,Zambia
+9253,Haiti
+9255,Vietnam
+9279,Uganda
+9280,Zambia
+9316,Nigeria
+9321,Côte d'Ivoire
+9331,Vietnam
+9351,Tanzania
+9352,Tanzania
+9353,Botswana
+9366,Vietnam
+9389,Guyana
+9390,Zimbabwe
+9422,Rwanda
+9487,Rwanda
+9488,Rwanda
+9489,Vietnam
+9499,Rwanda
+9530,Haiti
+9531,Haiti
+9536,Haiti
+9550,Ethiopia
+9564,South Africa
+9565,South Africa
+9566,South Africa
+9567,South Africa
+9578,Haiti
+9579,Nigeria
+9585,Mozambique
+9603,South Africa
+9628,Guyana
+10809,Rwanda
+9629,Ethiopia
+9639,Haiti
+9640,Guyana
+9655,South Africa
+9656,South Africa
+9657,South Africa
+9658,South Africa
+9669,Vietnam
+9673,Vietnam
+9675,Vietnam
+9676,Vietnam
+9694,South Africa
+9749,Vietnam
+9750,Vietnam
+9751,South Africa
+9752,South Africa
+9753,South Africa
+9804,Ethiopia
+9815,Zimbabwe
+9836,Rwanda
+9841,Nigeria
+9842,Nigeria
+9860,South Africa
+10155,Guyana
+9866,Nigeria
+9874,Vietnam
+9916,Nigeria
+9918,Vietnam
+9933,Ethiopia
+9936,South Africa
+9937,South Africa
+9939,Namibia
+9952,Côte d'Ivoire
+9960,Mozambique
+10062,Vietnam
+10063,Zimbabwe
+10085,Ethiopia
+10086,Ethiopia
+10089,Botswana
+10102,Nigeria
+10126,Tanzania
+10228,Vietnam
+10229,Vietnam
+10239,Zambia
+10240,Tanzania
+10246,Vietnam
+10282,Rwanda
+10298,Côte d'Ivoire
+10342,South Africa
+10343,South Africa
+10344,South Africa
+10345,South Africa
+10347,South Africa
+10348,South Africa
+10350,South Africa
+10351,South Africa
+10352,South Africa
+10353,South Africa
+10354,South Africa
+10355,South Africa
+10356,South Africa
+10357,South Africa
+10364,South Africa
+11100,Zambia
+10365,South Africa
+10366,South Africa
+10367,South Africa
+10368,South Africa
+10386,Guyana
+10388,South Africa
+10389,South Africa
+10390,South Africa
+10395,Haiti
+10401,Kenya
+10406,Nigeria
+10416,Rwanda
+10438,Vietnam
+10446,Namibia
+10464,Namibia
+10472,Botswana
+10476,Vietnam
+10477,Namibia
+10498,South Africa
+10499,South Africa
+10500,South Africa
+10501,South Africa
+10503,Zambia
+10504,Namibia
+10534,Zambia
+10535,Mozambique
+10536,Mozambique
+10537,Mozambique
+10539,Nigeria
+10540,Côte d'Ivoire
+10541,Mozambique
+10542,Zimbabwe
+10544,Nigeria
+10545,Nigeria
+10546,Nigeria
+10547,Zambia
+10548,Nigeria
+10549,Mozambique
+10550,Côte d'Ivoire
+10551,Côte d'Ivoire
+10553,Zambia
+10562,Zambia
+10563,Zambia
+10564,Mozambique
+10565,Mozambique
+10566,Nigeria
+10567,Côte d'Ivoire
+10570,Nigeria
+10571,Zimbabwe
+10572,Côte d'Ivoire
+10573,Côte d'Ivoire
+10645,Côte d'Ivoire
+10576,Côte d'Ivoire
+10577,Guyana
+10578,Zimbabwe
+10579,Tanzania
+10580,Côte d'Ivoire
+10585,Côte d'Ivoire
+10587,Namibia
+10588,Côte d'Ivoire
+10589,Mozambique
+10590,Zimbabwe
+10593,Côte d'Ivoire
+10596,Zimbabwe
+10597,Zimbabwe
+10600,Uganda
+10610,Côte d'Ivoire
+10612,Côte d'Ivoire
+10613,Ethiopia
+10614,Côte d'Ivoire
+10616,Zambia
+10647,Zimbabwe
+10622,Zambia
+10623,Nigeria
+10624,Nigeria
+10625,Nigeria
+10626,Nigeria
+10628,Côte d'Ivoire
+10630,Zambia
+10631,Nigeria
+10632,Zambia
+10633,Mozambique
+10634,Nigeria
+10636,Zambia
+10637,Ethiopia
+10639,Haiti
+10640,Haiti
+10641,Haiti
+10642,Nigeria
+10643,Zambia
+10644,Zambia
+10648,Côte d'Ivoire
+10650,Botswana
+10651,Mozambique
+10652,Zimbabwe
+10653,Mozambique
+10654,Mozambique
+10656,Zambia
+10658,Nigeria
+10660,Rwanda
+10662,Tanzania
+10663,Guyana
+10664,Côte d'Ivoire
+10665,Côte d'Ivoire
+10666,Zambia
+10667,Côte d'Ivoire
+10669,Uganda
+10670,Uganda
+10671,Mozambique
+10672,Mozambique
+10673,Zambia
+10674,Tanzania
+10675,Pakistan
+10676,Nigeria
+10677,Namibia
+10678,Zambia
+10679,Kenya
+10680,Kenya
+10681,Zimbabwe
+10682,Côte d'Ivoire
+10683,Haiti
+10684,Haiti
+10685,Ethiopia
+10686,Nigeria
+10687,Kenya
+10688,Haiti
+10689,Côte d'Ivoire
+10690,Zambia
+10691,Haiti
+10692,Haiti
+10693,Uganda
+10694,Namibia
+10695,Côte d'Ivoire
+10696,Tanzania
+10697,Zimbabwe
+10698,Côte d'Ivoire
+10700,Côte d'Ivoire
+10702,Zambia
+10703,Namibia
+10704,Haiti
+10705,Haiti
+10706,Haiti
+10707,Zambia
+10708,Tanzania
+10709,Côte d'Ivoire
+10710,Nigeria
+10711,Uganda
+10712,Mozambique
+10714,Mozambique
+10715,Zambia
+10716,Uganda
+10717,Rwanda
+10718,Zimbabwe
+10719,Mozambique
+10720,Nigeria
+10721,Nigeria
+10722,Nigeria
+10723,Haiti
+10724,Ethiopia
+10726,Zambia
+10727,Nigeria
+10728,Nigeria
+10731,Uganda
+10732,Mozambique
+10733,Mozambique
+10734,Tanzania
+10735,Mozambique
+10736,Nigeria
+10737,Ethiopia
+10741,Tanzania
+10743,Mozambique
+10744,Nigeria
+10745,Nigeria
+10746,Nigeria
+10747,Nigeria
+10748,Uganda
+10749,Nigeria
+10750,Nigeria
+10751,Zambia
+10753,Nigeria
+10754,Tanzania
+10755,Mozambique
+10756,Mozambique
+10759,Kenya
+10761,Nigeria
+10763,Nigeria
+10764,Mozambique
+10765,Nigeria
+10766,Uganda
+10767,Swaziland
+10768,Swaziland
+10769,Ghana
+10771,Côte d'Ivoire
+10774,Zambia
+10776,Haiti
+10777,Zambia
+10779,Nigeria
+10780,Zambia
+10781,Côte d'Ivoire
+10783,Mozambique
+10784,Côte d'Ivoire
+10785,Mozambique
+10786,Zambia
+10787,Tanzania
+10788,Zambia
+10791,Côte d'Ivoire
+10792,Côte d'Ivoire
+10793,Côte d'Ivoire
+10794,Zambia
+10795,Haiti
+10796,Haiti
+10797,Uganda
+10798,Tanzania
+10799,Uganda
+10800,Côte d'Ivoire
+10801,Côte d'Ivoire
+10803,Côte d'Ivoire
+10804,Mozambique
+10810,Rwanda
+10811,Côte d'Ivoire
+10813,Zambia
+10814,Mozambique
+10816,Mozambique
+10817,Mozambique
+10818,Zambia
+10819,Tanzania
+10820,Mozambique
+10821,Mozambique
+10823,Rwanda
+10824,Côte d'Ivoire
+10825,Zimbabwe
+10830,Tanzania
+10831,Côte d'Ivoire
+10832,Mozambique
+10833,Nigeria
+10834,Côte d'Ivoire
+10837,Tanzania
+10838,Côte d'Ivoire
+10840,Tanzania
+10841,Angola
+10842,Rwanda
+10843,Zambia
+10844,Rwanda
+10845,Nigeria
+10846,Guyana
+10847,Côte d'Ivoire
+10851,Mozambique
+10852,Nigeria
+10855,Côte d'Ivoire
+10857,Côte d'Ivoire
+10859,Tanzania
+10860,Tanzania
+10861,Mozambique
+10862,Mozambique
+10863,Uganda
+10865,Côte d'Ivoire
+10866,Côte d'Ivoire
+10867,Côte d'Ivoire
+10868,Côte d'Ivoire
+10877,Côte d'Ivoire
+10878,Ethiopia
+10879,Ethiopia
+10880,Ethiopia
+10881,Zambia
+10882,Côte d'Ivoire
+10883,Côte d'Ivoire
+10884,Côte d'Ivoire
+10885,Côte d'Ivoire
+10886,Côte d'Ivoire
+10887,Zambia
+10889,Uganda
+10890,Côte d'Ivoire
+10891,Zambia
+10892,Mozambique
+10893,Nigeria
+10894,Nigeria
+10895,Nigeria
+10898,Côte d'Ivoire
+10900,Zambia
+10901,Zambia
+10903,Nigeria
+10904,Mozambique
+10905,Zimbabwe
+10906,Uganda
+10907,Zambia
+10908,Uganda
+10910,Côte d'Ivoire
+10915,Zambia
+10917,Ethiopia
+10918,Ethiopia
+10919,Côte d'Ivoire
+10923,Ethiopia
+10924,Zimbabwe
+10925,Zimbabwe
+10926,Haiti
+10927,Mozambique
+10928,Mozambique
+10929,Ethiopia
+10930,Zambia
+10931,Ethiopia
+10933,Rwanda
+10934,Zimbabwe
+10936,Ethiopia
+10937,Guyana
+10939,Zambia
+10940,Tanzania
+10942,Côte d'Ivoire
+10943,Ethiopia
+10944,Mozambique
+10945,Zimbabwe
+10946,Zimbabwe
+10947,Tanzania
+10948,Zambia
+10949,Tanzania
+10950,Tanzania
+10951,Côte d'Ivoire
+10953,Nigeria
+10954,Haiti
+10955,Mozambique
+10956,Zambia
+10957,Zambia
+10958,Zambia
+10959,Zimbabwe
+10960,Tanzania
+10961,Zambia
+10962,Haiti
+10963,Haiti
+10964,Uganda
+10965,Nigeria
+10966,Uganda
+10967,Kenya
+10968,Nigeria
+10969,Nigeria
+10970,Mozambique
+10972,Ethiopia
+10973,Zimbabwe
+10975,Guyana
+10976,Haiti
+10977,Zambia
+10979,Zimbabwe
+10980,Zimbabwe
+10981,Mozambique
+10982,Tanzania
+10983,Haiti
+10984,Mozambique
+10985,Mozambique
+10986,Tanzania
+10987,Kenya
+10988,Zambia
+10989,Nigeria
+10990,Nigeria
+10992,Zambia
+10993,Zambia
+10994,Côte d'Ivoire
+10995,Uganda
+10996,Zimbabwe
+10997,Zambia
+10998,Mozambique
+10999,Tanzania
+11000,Uganda
+11001,Uganda
+11003,Côte d'Ivoire
+11005,Haiti
+11006,Haiti
+11007,Haiti
+11008,Zimbabwe
+11009,Mozambique
+11010,Côte d'Ivoire
+11011,Nigeria
+11012,Haiti
+11013,Zambia
+11014,Haiti
+11015,Nigeria
+11016,Nigeria
+11017,Uganda
+11018,Haiti
+11019,Ethiopia
+11020,Haiti
+11021,Zambia
+11022,Côte d'Ivoire
+11023,Nigeria
+11024,Nigeria
+11025,Nigeria
+11026,Côte d'Ivoire
+11027,Côte d'Ivoire
+11028,Haiti
+11030,Côte d'Ivoire
+11031,Zimbabwe
+11032,Rwanda
+11033,Tanzania
+11037,Kenya
+11039,Nigeria
+11040,Guyana
+11540,Guyana
+11041,Uganda
+11042,Uganda
+11043,Uganda
+11044,Mozambique
+11045,Ghana
+11046,Swaziland
+11047,Zambia
+11048,Nigeria
+11051,Nigeria
+11052,Uganda
+11053,Nigeria
+11055,Uganda
+11056,Nigeria
+11057,Nigeria
+11058,Guyana
+11060,Côte d'Ivoire
+11061,Zambia
+11062,Haiti
+11063,Haiti
+11066,Côte d'Ivoire
+11067,Uganda
+11068,Uganda
+11069,Côte d'Ivoire
+11070,Nigeria
+11071,Côte d'Ivoire
+11072,Lebanon
+11073,Lebanon
+11074,Lebanon
+11075,Zambia
+11076,Mozambique
+11077,Nigeria
+11078,Mozambique
+11079,Nigeria
+11086,Côte d'Ivoire
+11088,Côte d'Ivoire
+11089,Mozambique
+11090,Mozambique
+11091,Côte d'Ivoire
+11092,Côte d'Ivoire
+11095,Rwanda
+11096,Botswana
+11097,Nigeria
+11099,Zimbabwe
+11101,Zambia
+11102,Côte d'Ivoire
+11105,Nigeria
+11107,Mozambique
+11109,Mozambique
+11112,Botswana
+11113,Côte d'Ivoire
+11114,Zambia
+11115,Mozambique
+11117,Côte d'Ivoire
+11118,Côte d'Ivoire
+11119,Côte d'Ivoire
+11122,Côte d'Ivoire
+11128,Zambia
+11130,Côte d'Ivoire
+11133,Nigeria
+11135,Mozambique
+11136,Nigeria
+11137,Nigeria
+11138,Tanzania
+11139,Tanzania
+11140,Côte d'Ivoire
+11141,Côte d'Ivoire
+11142,Haiti
+11144,Mozambique
+11146,Rwanda
+11147,Côte d'Ivoire
+11151,Côte d'Ivoire
+11153,Tanzania
+11154,Mozambique
+11156,Uganda
+11160,Uganda
+11161,Zambia
+11661,Uganda
+11162,Zambia
+11173,Mozambique
+11174,Ethiopia
+11175,Côte d'Ivoire
+11177,Zambia
+11186,Côte d'Ivoire
+11187,Zambia
+11188,Zambia
+11189,Zimbabwe
+11191,Nigeria
+11192,Mozambique
+11194,Côte d'Ivoire
+11195,Zambia
+11196,Zambia
+11197,Mozambique
+11198,Uganda
+11200,Côte d'Ivoire
+11201,Côte d'Ivoire
+11202,Côte d'Ivoire
+11203,Haiti
+11204,Côte d'Ivoire
+11205,Côte d'Ivoire
+11206,Zambia
+11207,Zambia
+11208,Nigeria
+11209,Nigeria
+11210,Zambia
+11213,Rwanda
+11217,Ethiopia
+11219,Haiti
+11222,Nigeria
+11223,Haiti
+11224,Côte d'Ivoire
+11225,Rwanda
+11226,Tanzania
+11227,Côte d'Ivoire
+11228,Côte d'Ivoire
+11230,Zambia
+11231,Uganda
+11232,Zimbabwe
+11233,Haiti
+11234,Haiti
+11235,Tanzania
+11236,Guyana
+11238,Mozambique
+11239,Nigeria
+11240,Nigeria
+11241,Haiti
+11242,Zambia
+11243,Nigeria
+11244,Nigeria
+11245,Zambia
+11246,Haiti
+11247,Kenya
+11248,Zambia
+11249,Ethiopia
+11250,Côte d'Ivoire
+11252,Kenya
+11257,Mozambique
+11258,Mozambique
+11259,Zimbabwe
+11260,Nigeria
+11261,Nigeria
+11263,Ethiopia
+11265,Haiti
+11267,Zimbabwe
+11268,Zimbabwe
+11269,Uganda
+11528,Zambia
+11270,Uganda
+11271,Zambia
+11273,Tanzania
+11274,Zambia
+11275,Côte d'Ivoire
+11276,Haiti
+11277,Côte d'Ivoire
+11278,Nigeria
+11280,Pakistan
+11281,Zambia
+11282,Nigeria
+11283,Nigeria
+11284,Zimbabwe
+11286,Zimbabwe
+11289,Uganda
+11290,Côte d'Ivoire
+11291,Uganda
+11292,Ethiopia
+11293,Tanzania
+11294,Haiti
+11295,Uganda
+11298,Uganda
+11299,Haiti
+11300,Nigeria
+11301,Kenya
+11302,Uganda
+11303,Ethiopia
+11304,Mozambique
+11305,Nigeria
+11306,Nigeria
+11307,Côte d'Ivoire
+11309,Uganda
+11310,Rwanda
+11312,Kenya
+11313,Nigeria
+11314,Haiti
+11315,Nigeria
+11316,Nigeria
+11317,Uganda
+11318,Mozambique
+11319,Uganda
+11320,Mozambique
+11321,Ghana
+11322,Zambia
+11326,Zambia
+11327,Zambia
+11331,Nigeria
+11332,Zimbabwe
+11333,Nigeria
+11336,Côte d'Ivoire
+11337,Namibia
+11338,Côte d'Ivoire
+11339,Côte d'Ivoire
+11340,Nigeria
+11341,Nigeria
+11342,Nigeria
+11343,Nigeria
+11344,Côte d'Ivoire
+11345,Côte d'Ivoire
+11346,Nigeria
+11348,Mozambique
+11350,Mozambique
+11351,Mozambique
+11352,Zimbabwe
+11353,Nigeria
+11354,Nigeria
+11356,Zambia
+11357,Haiti
+11358,Ghana
+11361,Tanzania
+11367,Rwanda
+11368,Côte d'Ivoire
+11369,Côte d'Ivoire
+11370,Zambia
+11372,Nigeria
+11373,Côte d'Ivoire
+11374,Côte d'Ivoire
+11376,Tanzania
+11377,Zimbabwe
+11378,Nigeria
+11829,Haiti
+11379,Zambia
+11381,Rwanda
+11383,Zambia
+11384,Rwanda
+11385,Rwanda
+11386,Côte d'Ivoire
+11387,Côte d'Ivoire
+11390,Côte d'Ivoire
+11391,Côte d'Ivoire
+11393,Zambia
+11394,Zambia
+11395,Zambia
+11397,Côte d'Ivoire
+11398,Côte d'Ivoire
+11401,Rwanda
+11402,Rwanda
+11403,Ethiopia
+11404,Zambia
+11407,Côte d'Ivoire
+11408,Rwanda
+11409,Mozambique
+11411,Côte d'Ivoire
+11412,Mozambique
+11417,Tanzania
+11418,Mozambique
+11419,Côte d'Ivoire
+11420,Côte d'Ivoire
+11424,Zimbabwe
+11425,Mozambique
+11426,Côte d'Ivoire
+11430,Uganda
+11431,Côte d'Ivoire
+11432,Mozambique
+11433,Mozambique
+11434,Zambia
+11435,Côte d'Ivoire
+11436,Côte d'Ivoire
+11450,Zambia
+11452,Mozambique
+11454,Ethiopia
+11456,Zambia
+11458,Zambia
+11462,Nigeria
+11464,Mozambique
+11472,Zambia
+11473,Côte d'Ivoire
+11474,Zimbabwe
+11475,Zimbabwe
+11476,Nigeria
+11477,Mozambique
+11478,Mozambique
+11479,Zambia
+11480,Côte d'Ivoire
+11481,Côte d'Ivoire
+11483,Côte d'Ivoire
+11484,Côte d'Ivoire
+11485,Zambia
+11490,Côte d'Ivoire
+11491,Côte d'Ivoire
+11492,Haiti
+11493,Côte d'Ivoire
+11494,Nigeria
+11495,Nigeria
+11496,Zambia
+11497,Zambia
+11500,Namibia
+11501,Namibia
+11507,Nigeria
+11508,Côte d'Ivoire
+11510,Zambia
+11511,Zimbabwe
+11512,Côte d'Ivoire
+11515,Zimbabwe
+11516,Uganda
+11517,Rwanda
+11518,Zambia
+11520,Ethiopia
+11521,Zimbabwe
+11522,Ethiopia
+11523,Nigeria
+11524,Ethiopia
+11525,Tanzania
+11526,Côte d'Ivoire
+11527,Zimbabwe
+11529,Haiti
+11530,Haiti
+11531,Zambia
+11532,Pakistan
+11533,Nigeria
+11535,Tanzania
+11536,Nigeria
+11537,Haiti
+11538,Tanzania
+11539,Nigeria
+11541,Uganda
+11542,Haiti
+11543,Nigeria
+11545,Tanzania
+11547,Côte d'Ivoire
+11548,Namibia
+11550,Uganda
+11551,Haiti
+11552,Ethiopia
+11553,Haiti
+11554,Mozambique
+11555,Zimbabwe
+11556,Zambia
+11557,Guyana
+11558,Tanzania
+11559,Tanzania
+11560,Ethiopia
+11561,Zimbabwe
+11562,Zambia
+11563,Kenya
+11564,Guyana
+11565,Uganda
+11567,Zambia
+11568,Uganda
+11569,Rwanda
+11570,Nigeria
+11571,Nigeria
+11572,Nigeria
+11573,Nigeria
+11574,Nigeria
+11577,Zambia
+11578,Zimbabwe
+11579,Nigeria
+11581,Haiti
+11582,Zambia
+11583,Mozambique
+11584,Kenya
+11585,Namibia
+11586,Namibia
+11587,Ethiopia
+11590,Côte d'Ivoire
+11591,Côte d'Ivoire
+11592,Uganda
+11593,Uganda
+11594,Uganda
+11595,Zambia
+11596,Tanzania
+11597,Mozambique
+11598,Mozambique
+11600,Mozambique
+11601,Côte d'Ivoire
+11602,Uganda
+11603,Ethiopia
+11605,Uganda
+11606,Tanzania
+11607,Uganda
+11608,Ethiopia
+11609,Ethiopia
+11610,Pakistan
+11612,Zambia
+11613,Nigeria
+11614,Haiti
+11615,Nigeria
+11616,Uganda
+11617,Uganda
+11618,Ethiopia
+11619,Ethiopia
+11620,Nigeria
+11622,Nigeria
+11623,Nigeria
+11624,Nigeria
+11626,Rwanda
+11627,Nigeria
+11628,Mozambique
+11629,Nigeria
+11630,Nigeria
+11634,Haiti
+11635,Nigeria
+11636,Haiti
+11637,Uganda
+11638,Zambia
+11639,Mozambique
+11640,Ghana
+11641,Ghana
+11646,Uganda
+11647,Nigeria
+11652,Haiti
+11653,Haiti
+11654,Uganda
+11655,Uganda
+11656,Zimbabwe
+11657,Côte d'Ivoire
+11660,Côte d'Ivoire
+11662,Zambia
+11663,Mozambique
+11664,Mozambique
+11665,Nigeria
+11666,Nigeria
+11667,Nigeria
+11668,Côte d'Ivoire
+11669,Uganda
+11670,Haiti
+11672,Zambia
+11673,Zambia
+11674,Côte d'Ivoire
+11675,Côte d'Ivoire
+11677,Zambia
+11678,Uganda
+11679,Côte d'Ivoire
+11680,Uganda
+11681,Zambia
+11682,Côte d'Ivoire
+11683,Côte d'Ivoire
+11684,Nigeria
+11685,Nigeria
+11687,Mozambique
+11688,Mozambique
+11689,Uganda
+11740,Tanzania
+11690,Tanzania
+11691,Ethiopia
+11692,Nigeria
+11693,Lebanon
+11694,Lebanon
+11695,Zambia
+11697,Ethiopia
+11698,Mozambique
+11703,Côte d'Ivoire
+11706,Guyana
+11707,Zambia
+11708,Mozambique
+11709,Nigeria
+11710,Nigeria
+11711,Haiti
+11712,Haiti
+11713,Côte d'Ivoire
+11714,Côte d'Ivoire
+11715,Guyana
+11716,Nigeria
+11718,Côte d'Ivoire
+11719,Mozambique
+11721,Côte d'Ivoire
+11722,Côte d'Ivoire
+11723,Côte d'Ivoire
+11724,Zimbabwe
+11725,Zambia
+11731,Côte d'Ivoire
+11732,Tanzania
+11733,Nigeria
+11735,Zimbabwe
+11737,Angola
+11738,Zimbabwe
+11739,Zimbabwe
+11741,Tanzania
+11742,Tanzania
+11743,Zambia
+11744,Tanzania
+11745,Zambia
+11747,Tanzania
+11749,Tanzania
+11750,Zambia
+11751,Mozambique
+11753,Tanzania
+11754,Tanzania
+11755,Mozambique
+11756,Mozambique
+11757,Côte d'Ivoire
+11758,Côte d'Ivoire
+11761,Zimbabwe
+11762,Zimbabwe
+11764,Zimbabwe
+11765,Zambia
+11766,Côte d'Ivoire
+11767,Côte d'Ivoire
+11769,Namibia
+11780,Côte d'Ivoire
+11787,Zimbabwe
+11792,Côte d'Ivoire
+11798,Zambia
+11799,Zambia
+11801,Tanzania
+11802,Côte d'Ivoire
+11803,Côte d'Ivoire
+11804,Zambia
+11805,Mozambique
+11994,Zambia
+11806,Mozambique
+11807,Zambia
+11808,Nigeria
+11810,Zimbabwe
+11811,Côte d'Ivoire
+11812,Côte d'Ivoire
+11813,Côte d'Ivoire
+11814,Haiti
+11815,Côte d'Ivoire
+11817,Côte d'Ivoire
+11818,Zambia
+11821,Rwanda
+11824,Ethiopia
+11825,Zambia
+11826,Nigeria
+11827,Nigeria
+11830,Ethiopia
+11832,Zimbabwe
+11833,Uganda
+11834,Rwanda
+11837,Nigeria
+11839,Côte d'Ivoire
+11840,Rwanda
+11841,Zambia
+11842,Côte d'Ivoire
+11843,Côte d'Ivoire
+11845,Ethiopia
+11846,Uganda
+11847,Uganda
+11850,Ethiopia
+11851,Tanzania
+11852,Côte d'Ivoire
+11854,Zambia
+11855,Zimbabwe
+11856,Zimbabwe
+11857,Haiti
+11858,Nigeria
+11859,Zambia
+11860,Haiti
+11861,Nigeria
+11862,Nigeria
+11863,Nigeria
+11864,Zambia
+11865,Nigeria
+11866,Zimbabwe
+11867,Côte d'Ivoire
+11868,Zambia
+11869,Mozambique
+11870,Guyana
+11873,Côte d'Ivoire
+11874,Côte d'Ivoire
+11875,Nigeria
+11876,Haiti
+11877,Nigeria
+11878,Zambia
+11879,Nigeria
+11880,Haiti
+11881,Côte d'Ivoire
+11882,Zimbabwe
+11883,Tanzania
+11884,Côte d'Ivoire
+11887,Uganda
+11888,Haiti
+11890,Côte d'Ivoire
+11995,Zambia
+11891,Mozambique
+11892,Tanzania
+11893,Ethiopia
+11894,Zimbabwe
+11895,Nigeria
+11897,Namibia
+11899,Haiti
+11900,Kenya
+11902,Nigeria
+11903,Haiti
+11904,Haiti
+11905,Zimbabwe
+11906,Uganda
+11907,Haiti
+11908,Haiti
+11909,Nigeria
+11910,Nigeria
+11913,Ethiopia
+11914,Kenya
+11916,Pakistan
+11917,Nigeria
+11918,Haiti
+11919,Zambia
+11920,Rwanda
+11921,Nigeria
+11923,Côte d'Ivoire
+11924,Rwanda
+11925,Tanzania
+11926,Mozambique
+11927,Sierra Leone
+11928,Côte d'Ivoire
+11932,Nigeria
+11933,Nigeria
+11934,Nigeria
+11935,Nigeria
+11936,Haiti
+11937,Haiti
+11938,Haiti
+11939,Nigeria
+11940,Tanzania
+11942,Haiti
+11943,Haiti
+11944,Ethiopia
+11945,Nigeria
+11946,Nigeria
+11947,Nigeria
+11948,Zambia
+11949,Nigeria
+11950,Côte d'Ivoire
+11951,Côte d'Ivoire
+11953,Zambia
+11954,Côte d'Ivoire
+11955,Nigeria
+11956,Nigeria
+11957,Côte d'Ivoire
+11958,Côte d'Ivoire
+11959,Mozambique
+11960,Côte d'Ivoire
+11961,Côte d'Ivoire
+11962,Côte d'Ivoire
+11963,Haiti
+11964,Mozambique
+11966,Kenya
+11967,Nigeria
+11968,Haiti
+11969,Mozambique
+11970,Côte d'Ivoire
+11971,Swaziland
+11972,Swaziland
+11973,Mozambique
+11974,Mozambique
+11975,Zambia
+11980,Nigeria
+11981,Zambia
+11983,Nigeria
+11988,Haiti
+11989,Zimbabwe
+11990,Côte d'Ivoire
+11991,Uganda
+11992,Uganda
+11993,Uganda
+11996,Nigeria
+11997,Nigeria
+11998,Haiti
+11999,Haiti
+12000,Mozambique
+12001,Zambia
+12003,Côte d'Ivoire
+12004,Uganda
+12005,Zambia
+12006,Zimbabwe
+12008,Uganda
+12009,Côte d'Ivoire
+12010,Côte d'Ivoire
+12011,Nigeria
+12012,Zambia
+12014,Haiti
+12015,Ethiopia
+12016,Lebanon
+12017,Uganda
+12018,Uganda
+12020,Ethiopia
+12021,Ethiopia
+12025,Côte d'Ivoire
+12026,Côte d'Ivoire
+12030,Zambia
+12031,Nigeria
+12033,Mozambique
+12034,Côte d'Ivoire
+12037,Côte d'Ivoire
+12041,Rwanda
+12043,Côte d'Ivoire
+12044,Côte d'Ivoire
+12045,Côte d'Ivoire
+12046,Côte d'Ivoire
+12047,Côte d'Ivoire
+12050,Nigeria
+12056,Nigeria
+12058,Tanzania
+12059,Mozambique
+12060,Mozambique
+12061,Mozambique
+12062,Mozambique
+12063,Nigeria
+12064,Nigeria
+12067,Nigeria
+12068,Zimbabwe
+12071,Zambia
+12072,Nigeria
+12073,Tanzania
+12074,Côte d'Ivoire
+12075,Zambia
+12077,Côte d'Ivoire
+12078,Rwanda
+12079,Rwanda
+12080,Côte d'Ivoire
+12083,Tanzania
+12086,Tanzania
+12088,Mozambique
+12089,Mozambique
+12090,Mozambique
+12091,Mozambique
+12092,Mozambique
+12093,Mozambique
+12094,Mozambique
+12100,Rwanda
+12107,Zambia
+12109,Ethiopia
+12110,Ethiopia
+12112,Rwanda
+12113,Zimbabwe
+12120,Mozambique
+12122,Côte d'Ivoire
+12123,Zimbabwe
+12125,Guyana
+12126,Haiti
+12127,Côte d'Ivoire
+12128,Côte d'Ivoire
+12129,Haiti
+12130,Nigeria
+12131,Nigeria
+12133,Namibia
+12135,Zambia
+12136,Ethiopia
+12138,Ethiopia
+12139,Côte d'Ivoire
+12143,Ethiopia
+12144,Mozambique
+12145,Mozambique
+12146,Zimbabwe
+12147,Zimbabwe
+12148,Uganda
+12149,Zimbabwe
+12150,Zambia
+12151,Haiti
+12154,Zambia
+12155,Haiti
+12159,Namibia
+12163,Kenya
+12164,Nigeria
+12165,Zimbabwe
+12166,Haiti
+12167,Guyana
+12168,Nigeria
+12169,Tanzania
+12170,Haiti
+12171,Zambia
+12172,Uganda
+12174,Nigeria
+12175,Nigeria
+12176,Uganda
+12177,Zambia
+12178,Haiti
+12179,Nigeria
+12180,Zambia
+12181,Nigeria
+12182,Nigeria
+12183,Guyana
+12184,Zambia
+12185,Zambia
+12186,Haiti
+12187,Haiti
+12188,Haiti
+12189,Uganda
+12191,Namibia
+12192,Nigeria
+12195,Tanzania
+12196,Mozambique
+12197,Zambia
+12198,Mozambique
+12199,Botswana
+12200,Botswana
+12201,Botswana
+12202,Kenya
+12203,Nigeria
+12204,Ethiopia
+12205,Namibia
+12206,Namibia
+12207,Kenya
+12210,Uganda
+12211,Haiti
+12212,Zimbabwe
+12213,Côte d'Ivoire
+12214,Côte d'Ivoire
+12215,Côte d'Ivoire
+12216,Uganda
+12218,Kenya
+12219,Uganda
+12220,Uganda
+12222,Nigeria
+12224,Nigeria
+12225,Zambia
+12228,Nigeria
+12230,Mozambique
+12231,Mozambique
+12232,Zimbabwe
+12233,Zambia
+12234,Zambia
+12235,Mozambique
+12236,Nigeria
+12237,Ethiopia
+12238,Tanzania
+12242,Côte d'Ivoire
+12243,Nigeria
+12244,Kenya
+12245,Nigeria
+12246,Nigeria
+12247,Haiti
+12248,Zambia
+12249,Nigeria
+12250,Nigeria
+12251,Nigeria
+12252,Uganda
+12253,Uganda
+12254,Tanzania
+12255,Ethiopia
+12256,Ethiopia
+12257,Nigeria
+12258,Nigeria
+12259,Nigeria
+12260,Nigeria
+12261,Nigeria
+12264,Nigeria
+12265,Nigeria
+12266,Nigeria
+12267,Ethiopia
+12269,Mozambique
+12270,Côte d'Ivoire
+12271,Nigeria
+12272,Mozambique
+12273,Tanzania
+12276,Zimbabwe
+12277,Mozambique
+12278,Nigeria
+12279,Haiti
+12280,Haiti
+12281,Uganda
+12282,Zambia
+12283,Côte d'Ivoire
+12284,Côte d'Ivoire
+12286,Nigeria
+12289,Nigeria
+12290,Nigeria
+12293,Kenya
+12294,Haiti
+12295,Nigeria
+12296,Uganda
+12297,Nigeria
+12299,Zambia
+12300,Mozambique
+12301,Nigeria
+12302,Nigeria
+12303,Côte d'Ivoire
+12421,Zambia
+12304,Nigeria
+12305,Haiti
+12307,Mozambique
+12309,Rwanda
+12310,Uganda
+12311,Uganda
+12312,Uganda
+12313,Côte d'Ivoire
+12314,Zambia
+12315,Zambia
+12316,Zimbabwe
+12384,Tanzania
+12317,Zambia
+12318,Côte d'Ivoire
+12319,Tanzania
+12320,Zambia
+12321,Nigeria
+12322,Nigeria
+12323,Côte d'Ivoire
+12324,Mozambique
+12325,Ethiopia
+12326,Lebanon
+12327,Lebanon
+12328,Zambia
+12329,Uganda
+12330,Ethiopia
+12334,Zimbabwe
+12335,Nigeria
+12336,Rwanda
+12337,Mozambique
+12341,Mozambique
+12342,Mozambique
+12346,Botswana
+12349,Côte d'Ivoire
+12350,Mozambique
+12351,Mozambique
+12352,Côte d'Ivoire
+12354,Nigeria
+12355,Zambia
+12358,Rwanda
+12364,Mozambique
+12365,Nigeria
+12366,Mozambique
+12368,Ethiopia
+12369,Côte d'Ivoire
+12372,Tanzania
+12373,Côte d'Ivoire
+12375,Zambia
+12378,Zambia
+12379,Mozambique
+12388,Côte d'Ivoire
+12391,Côte d'Ivoire
+12393,Tanzania
+12395,Mozambique
+12396,Mozambique
+12397,Côte d'Ivoire
+12399,Mozambique
+12400,Zambia
+12404,Tanzania
+12406,Zambia
+12407,Zambia
+12408,Zambia
+12411,Côte d'Ivoire
+12413,Zimbabwe
+12416,Côte d'Ivoire
+12418,Zambia
+12513,Pakistan
+12424,Nigeria
+12425,Mozambique
+12426,Nigeria
+12428,Côte d'Ivoire
+12429,Zambia
+12431,Mozambique
+12432,Côte d'Ivoire
+12433,Côte d'Ivoire
+12434,Ethiopia
+12435,Uganda
+12438,Côte d'Ivoire
+12439,Zambia
+12441,Zambia
+12443,Haiti
+12446,Zambia
+12447,Ethiopia
+12451,Nigeria
+12452,Côte d'Ivoire
+12453,Ethiopia
+12454,Mozambique
+12455,Rwanda
+12456,Zambia
+12459,Zambia
+12460,Côte d'Ivoire
+12461,Rwanda
+12462,Rwanda
+12464,Haiti
+12465,Nigeria
+12470,Ethiopia
+12471,Côte d'Ivoire
+12472,Côte d'Ivoire
+12473,Zimbabwe
+12475,Haiti
+12476,Haiti
+12477,Nigeria
+12478,Nigeria
+12479,Nigeria
+12480,Nigeria
+12481,Tanzania
+12482,Zimbabwe
+12483,Haiti
+12484,Tanzania
+12485,Zambia
+12486,Tanzania
+12487,Nigeria
+12488,Mozambique
+12490,Haiti
+12492,Zambia
+12493,Uganda
+12495,Tanzania
+12496,Nigeria
+12497,Côte d'Ivoire
+12498,Ethiopia
+12499,Kenya
+12500,Haiti
+12501,Côte d'Ivoire
+12502,Tanzania
+12503,Haiti
+12504,Tanzania
+12505,Zambia
+12506,Côte d'Ivoire
+12507,Côte d'Ivoire
+12508,Zimbabwe
+12509,Haiti
+12510,Kenya
+12511,Haiti
+12515,Mozambique
+12516,Tanzania
+12517,Tanzania
+12518,Tanzania
+12519,Uganda
+12521,Mozambique
+12522,Mozambique
+12523,Kenya
+12524,Guyana
+12525,Zambia
+12526,Zambia
+12527,Nigeria
+12530,Pakistan
+12531,Nigeria
+12532,Zambia
+12533,Zambia
+12534,Kenya
+12535,Nigeria
+12536,Uganda
+12537,Mozambique
+12538,Mozambique
+12539,Mozambique
+12541,Côte d'Ivoire
+12542,Uganda
+12543,Uganda
+12544,Uganda
+12545,Nigeria
+12546,Côte d'Ivoire
+12547,Uganda
+12548,Nigeria
+12549,Haiti
+12550,Nigeria
+12551,Nigeria
+12552,Uganda
+12553,Ethiopia
+12554,Ethiopia
+12555,Nigeria
+12556,Côte d'Ivoire
+12557,Côte d'Ivoire
+12558,Nigeria
+12560,Côte d'Ivoire
+12561,Zambia
+12563,Côte d'Ivoire
+12564,Côte d'Ivoire
+12565,Zambia
+12567,Mozambique
+12568,Nigeria
+12569,Uganda
+12570,Nigeria
+12571,Nigeria
+12572,Haiti
+12573,Nigeria
+12574,Haiti
+12575,Côte d'Ivoire
+12576,Nigeria
+12577,Haiti
+12578,Uganda
+12579,Côte d'Ivoire
+12580,Côte d'Ivoire
+12581,Ghana
+12585,Nigeria
+12586,Namibia
+12587,Uganda
+12591,Uganda
+12592,Zambia
+12593,Zambia
+12594,Côte d'Ivoire
+12597,Haiti
+12598,Zambia
+12599,Nigeria
+12600,Nigeria
+12601,Zambia
+12602,Uganda
+12603,Uganda
+12604,Mozambique
+12608,Mozambique
+12609,Zambia
+12610,Tanzania
+12611,Zambia
+12612,Mozambique
+12613,Nigeria
+12614,Tanzania
+12616,Ethiopia
+12617,Haiti
+12618,Mozambique
+12619,Côte d'Ivoire
+12620,Mozambique
+12622,Mozambique
+12625,Nigeria
+12628,Zambia
+12630,Mozambique
+12631,Zambia
+12632,Zambia
+12633,Zambia
+12635,Zambia
+12637,Rwanda
+12638,Zambia
+12639,Nigeria
+12641,Zambia
+12644,Tanzania
+12646,Mozambique
+12648,Côte d'Ivoire
+12649,Côte d'Ivoire
+12654,Tanzania
+12656,Côte d'Ivoire
+12658,Mozambique
+12659,Côte d'Ivoire
+12661,Côte d'Ivoire
+12662,Côte d'Ivoire
+12663,Tanzania
+12664,Tanzania
+12665,Rwanda
+12666,Côte d'Ivoire
+12667,Côte d'Ivoire
+12669,Côte d'Ivoire
+12670,Côte d'Ivoire
+12671,Côte d'Ivoire
+12672,Rwanda
+12673,Mozambique
+12675,Côte d'Ivoire
+12676,Côte d'Ivoire
+12680,Namibia
+12682,Tanzania
+12683,Tanzania
+12684,Tanzania
+12685,Mozambique
+12686,Mozambique
+12688,Côte d'Ivoire
+12690,Zimbabwe
+12691,Zimbabwe
+12694,Uganda
+12710,Côte d'Ivoire
+12711,Ethiopia
+12712,Ethiopia
+12714,Zambia
+12715,Côte d'Ivoire
+12716,Zambia
+12718,Haiti
+12723,Zambia
+12724,Nigeria
+12729,Mozambique
+12734,Côte d'Ivoire
+12735,Zimbabwe
+12736,Côte d'Ivoire
+12737,Côte d'Ivoire
+12738,Guyana
+12739,Côte d'Ivoire
+12740,Zambia
+12741,Haiti
+12742,Haiti
+12748,Côte d'Ivoire
+12749,Côte d'Ivoire
+12751,Nigeria
+12752,Nigeria
+12753,Mozambique
+12754,Côte d'Ivoire
+12755,Nigeria
+12756,Nigeria
+12759,Ethiopia
+12760,Mozambique
+12761,Uganda
+12762,Zimbabwe
+12763,Haiti
+12764,Mozambique
+12766,Haiti
+12770,Ethiopia
+12771,Uganda
+12772,Côte d'Ivoire
+12773,Côte d'Ivoire
+12774,Uganda
+12776,Zimbabwe
+12777,Haiti
+12778,Nigeria
+12779,Côte d'Ivoire
+12800,Mozambique
+12780,Nigeria
+12781,Tanzania
+12782,Tanzania
+12783,Côte d'Ivoire
+12784,Mozambique
+12785,Zambia
+12786,Tanzania
+12788,Haiti
+12789,Ethiopia
+12790,Haiti
+12791,Haiti
+12792,Zimbabwe
+12793,Cameroon
+12794,Zimbabwe
+12795,Haiti
+12796,Zambia
+12797,Haiti
+12798,Nigeria
+12801,Mozambique
+12803,Zimbabwe
+12805,Kenya
+12806,Mozambique
+12808,Uganda
+12809,Ethiopia
+12810,Zimbabwe
+12811,Zimbabwe
+12812,Uganda
+12813,Zambia
+12814,Zambia
+12817,Côte d'Ivoire
+12818,Kenya
+12819,Tanzania
+12820,Haiti
+12821,Haiti
+12822,Nigeria
+12823,Nigeria
+12870,Kenya
+12824,Nigeria
+12825,Nigeria
+12826,Pakistan
+12827,Nigeria
+12828,Kenya
+12829,Zambia
+12830,Kenya
+12835,Tanzania
+12836,Mozambique
+12837,Zimbabwe
+12838,Mozambique
+12839,Ethiopia
+12840,Ethiopia
+12841,Ethiopia
+12842,Uganda
+12843,Côte d'Ivoire
+12844,Zimbabwe
+12845,Pakistan
+12846,Pakistan
+12849,Zimbabwe
+12850,Côte d'Ivoire
+12851,Côte d'Ivoire
+12852,Zambia
+12853,Nigeria
+12854,Zambia
+12857,Tanzania
+12858,Ethiopia
+12859,Ethiopia
+12860,Ethiopia
+12862,Nigeria
+12863,Nigeria
+12864,Nigeria
+12865,Nigeria
+12866,Nigeria
+12868,Côte d'Ivoire
+12869,Zimbabwe
+12871,Côte d'Ivoire
+12873,Nigeria
+12874,Zimbabwe
+12875,Mozambique
+12876,Tanzania
+12877,Nigeria
+12878,Nigeria
+12879,Nigeria
+12883,Ghana
+12885,Nigeria
+12886,Nigeria
+12887,Uganda
+12892,Nigeria
+12893,Nigeria
+12894,Nigeria
+12896,Mozambique
+12897,Zambia
+12898,Mozambique
+12899,Nigeria
+12900,Zambia
+12902,Haiti
+12903,Haiti
+12904,Haiti
+12905,Côte d'Ivoire
+12908,Uganda
+12909,Uganda
+12910,Zambia
+12911,Côte d'Ivoire
+12912,Uganda
+12913,Côte d'Ivoire
+12914,Nigeria
+12915,Nigeria
+12916,Nigeria
+12917,Nigeria
+12918,Nigeria
+12919,Zambia
+12920,Mozambique
+12922,Ghana
+12923,Ghana
+12925,Haiti
+12926,Ethiopia
+12929,Kenya
+12935,Vietnam
+12959,Zambia
+12973,Haiti
+12981,South Sudan
+13004,Mozambique
+13007,Burundi
+13016,Burundi
+13020,Haiti
+13027,Vietnam
+13038,South Africa
+13064,South Africa
+13091,South Africa
+13093,Vietnam
+13106,Vietnam
+13115,South Africa
+13138,Nigeria
+13148,Dominican Republic
+13151,Mozambique
+13161,South Africa
+13205,Côte d'Ivoire
+13231,South Africa
+13275,Vietnam
+13277,Vietnam
+13302,Rwanda
+13311,Côte d'Ivoire
+13379,Malawi
+13476,Mozambique
+13481,South Africa
+13487,Haiti
+13544,Côte d'Ivoire
+13547,"Congo, DRC"
+15356,Sudan
+13555,Vietnam
+13568,South Africa
+13571,South Sudan
+13581,Swaziland
+13608,Uganda
+13648,"Congo, DRC"
+13652,Vietnam
+13696,Dominican Republic
+13700,Mozambique
+13708,"Congo, DRC"
+13739,Haiti
+13748,Côte d'Ivoire
+13761,Vietnam
+13766,Vietnam
+13809,Nigeria
+13817,Zimbabwe
+13841,Rwanda
+13842,"Congo, DRC"
+15368,Vietnam
+13845,South Africa
+13862,Burundi
+13874,Haiti
+13886,Uganda
+13897,Kenya
+13899,South Africa
+13900,Cameroon
+13903,Tanzania
+13904,Vietnam
+13915,Cameroon
+13926,South Africa
+13959,Zambia
+13968,South Sudan
+13978,Vietnam
+13988,Haiti
+14016,Vietnam
+14018,Haiti
+14023,South Africa
+14043,Vietnam
+14079,Tanzania
+14097,Burundi
+14178,Tanzania
+14180,Zambia
+14195,Benin
+14200,South Africa
+14210,Côte d'Ivoire
+14230,Rwanda
+14240,South Sudan
+14241,Mozambique
+14252,Uganda
+14265,Vietnam
+14278,Ethiopia
+14279,Tanzania
+14286,Côte d'Ivoire
+14291,Tanzania
+14309,Vietnam
+14323,Dominican Republic
+14331,Vietnam
+14348,Nigeria
+14364,South Africa
+14384,Tanzania
+14404,South Africa
+14409,South Africa
+14410,Nigeria
+14412,South Africa
+14431,Rwanda
+14433,South Africa
+14437,South Africa
+14440,South Africa
+14447,South Africa
+14508,Zimbabwe
+14542,South Africa
+14564,South Africa
+14571,Nigeria
+14578,Haiti
+14605,Haiti
+14628,South Africa
+14658,Zambia
+14665,Haiti
+14694,Côte d'Ivoire
+14710,Haiti
+14743,South Africa
+14785,Côte d'Ivoire
+14803,Rwanda
+14811,Rwanda
+14820,Pakistan
+14846,"Congo, DRC"
+14871,Vietnam
+14874,South Africa
+14929,South Africa
+14931,Rwanda
+14941,Tanzania
+14943,Uganda
+14970,Haiti
+14988,South Sudan
+15004,South Africa
+15005,Nigeria
+15011,Rwanda
+15012,South Africa
+15046,South Africa
+15051,Guyana
+15115,"Congo, DRC"
+15131,Zambia
+15142,South Africa
+15149,Vietnam
+15176,South Africa
+15195,Guyana
+15240,Haiti
+15241,South Africa
+15248,Vietnam
+15283,Nigeria
+15298,South Africa
+15352,Vietnam
+15382,Mali
+15399,Nigeria
+15405,Rwanda
+15423,Côte d'Ivoire
+15460,Haiti
+15499,Tanzania
+15554,South Africa
+15596,Zimbabwe
+15619,South Africa
+15625,Mozambique
+15642,Rwanda
+15643,Nigeria
+15656,Cameroon
+15670,Cameroon
+15687,South Africa
+15695,Ethiopia
+15726,Rwanda
+15727,Nigeria
+15738,Vietnam
+15751,"Congo, DRC"
+15772,Vietnam
+15778,Tanzania
+15788,South Sudan
+15795,South Africa
+15804,Mali
+15813,Mozambique
+15815,South Africa
+15825,Tanzania
+15867,Rwanda
+15879,Rwanda
+15894,Vietnam
+15909,South Africa
+15930,Zambia
+15946,Ethiopia
+15984,South Africa
+15994,Haiti
+15999,Tanzania
+16044,Côte d'Ivoire
+16053,Vietnam
+16071,Nigeria
+16084,South Africa
+16085,Haiti
+16097,Tanzania
+16098,Haiti
+16099,South Africa
+16104,Ethiopia
+16173,Tanzania
+16186,Vietnam
+16213,Burundi
+16231,Tanzania
+16232,Haiti
+16236,Ethiopia
+16255,Kenya
+16277,Ethiopia
+16766,Rwanda
+16291,Dominican Republic
+16379,South Africa
+16391,South Sudan
+16398,Rwanda
+16462,South Africa
+16473,Tanzania
+16496,Tanzania
+16504,South Africa
+16513,Haiti
+16553,South Africa
+16556,Rwanda
+16619,Zambia
+16656,Vietnam
+16693,Kenya
+16707,Kenya
+16708,Zambia
+16725,Vietnam
+16784,Vietnam
+16794,Rwanda
+16805,Uganda
+16828,Vietnam
+16848,Côte d'Ivoire
+16881,Haiti
+16901,Vietnam
+16921,Vietnam
+16923,Nigeria
+16926,South Africa
+16967,Vietnam
+16998,Tanzania
+17003,Mozambique
+17065,Côte d'Ivoire
+17096,Zambia
+17124,Côte d'Ivoire
+17129,Vietnam
+17135,Tanzania
+17145,Pakistan
+17200,Haiti
+17207,Rwanda
+17219,Haiti
+17228,Vietnam
+17242,South Africa
+17245,"Congo, DRC"
+17247,Zambia
+17259,Tanzania
+17348,South Africa
+17349,Rwanda
+17359,South Africa
+17373,Mozambique
+17447,Côte d'Ivoire
+17501,Vietnam
+17600,Tanzania
+17640,Mozambique
+17648,South Africa
+17660,South Africa
+17697,Vietnam
+17701,Mali
+17717,Guyana
+17764,South Africa
+17796,Zambia
+17800,Haiti
+17815,Mozambique
+17825,Nigeria
+17831,Sudan
+17844,South Africa
+17861,Vietnam
+17865,South Africa
+17870,South Africa
+17900,Namibia
+17924,South Africa
+17944,South Africa
+17949,South Africa
+18022,"Congo, DRC"
+18053,South Africa
+18093,South Africa
+18099,South Africa
+18121,South Africa
+18129,South Africa
+18155,Sudan
+18182,South Africa
+18227,Vietnam
+18240,Vietnam
+18246,Burundi
+18269,Mozambique
+18316,Zimbabwe
+18325,Cameroon
+18354,Haiti
+18373,Vietnam
+18386,Haiti
+18392,"Congo, DRC"
+18405,Haiti
+18422,Zambia
+18436,Ethiopia
+18494,Ethiopia
+18500,Vietnam
+18509,South Africa
+18538,South Africa
+18580,Tanzania
+18586,Ghana
+18629,Vietnam
+18633,Sudan
+18639,Burundi
+18664,Vietnam
+18673,Vietnam
+18679,Haiti
+18694,Tanzania
+18708,Zimbabwe
+18740,Guatemala
+18762,South Africa
+18811,Côte d'Ivoire
+18862,Haiti
+18881,Botswana
+18904,"Congo, DRC"
+18923,Tanzania
+18980,Tanzania
+18992,South Africa
+18997,Guyana
+19013,South Africa
+19014,Mozambique
+19019,South Sudan
+19063,South Sudan
+19080,Haiti
+19105,Rwanda
+19142,Vietnam
+19146,South Africa
+19172,South Sudan
+19177,Côte d'Ivoire
+19225,South Africa
+19241,South Africa
+19243,Mozambique
+19244,"Congo, DRC"
+19246,Tanzania
+19250,Côte d'Ivoire
+19263,Tanzania
+19272,"Congo, DRC"
+19282,South Africa
+19289,Haiti
+19293,Mozambique
+19335,Sudan
+19344,Guyana
+19346,South Africa
+19348,Mali
+19359,Zimbabwe
+19405,Tanzania
+19406,Vietnam
+19410,Nigeria
+19431,Côte d'Ivoire
+19484,Nigeria
+19512,Vietnam
+19514,South Africa
+19584,Tanzania
+19620,Côte d'Ivoire
+19627,Mozambique
+19630,Vietnam
+19647,South Africa
+19656,South Africa
+19670,South Africa
+19685,Zambia
+19689,South Africa
+19694,Guyana
+19696,"Congo, DRC"
+19712,Vietnam
+19771,Vietnam
+19788,South Africa
+19840,Vietnam
+19851,Uganda
+20432,South Africa
+19863,South Africa
+19873,South Africa
+19891,South Africa
+19905,Vietnam
+19924,Haiti
+19940,Vietnam
+19958,Kenya
+19959,South Africa
+19977,South Africa
+19996,Namibia
+20044,South Africa
+20073,Nigeria
+20133,Uganda
+20172,Mozambique
+20185,South Sudan
+20219,Vietnam
+20450,"Congo, DRC"
+20236,"Congo, DRC"
+20239,Rwanda
+20245,Swaziland
+20264,Rwanda
+20266,Uganda
+20274,Vietnam
+20280,Nigeria
+20291,South Africa
+20294,Zambia
+20319,Zambia
+20321,Vietnam
+20349,Vietnam
+20371,Vietnam
+20383,Haiti
+20407,South Africa
+20417,South Africa
+20462,Côte d'Ivoire
+20506,Vietnam
+20512,Rwanda
+20544,Uganda
+20558,"Congo, DRC"
+20560,Ghana
+20619,Tanzania
+20623,South Africa
+20631,Mozambique
+20666,Nigeria
+20667,Uganda
+20671,South Africa
+20684,South Africa
+20690,Zimbabwe
+20697,Vietnam
+20723,South Africa
+20735,Rwanda
+20761,Uganda
+20774,South Africa
+20824,Cameroon
+20878,Vietnam
+20883,Tanzania
+20894,Haiti
+20908,South Africa
+20947,South Africa
+20952,South Africa
+20961,Vietnam
+20969,Rwanda
+20975,South Africa
+21000,Haiti
+21028,South Africa
+21033,Zambia
+21037,Uganda
+21044,Vietnam
+21045,Rwanda
+21061,Mozambique
+21076,Kenya
+21091,Haiti
+21092,South Africa
+21096,South Sudan
+24063,Tanzania
+21125,Tanzania
+21143,Guatemala
+21147,Nigeria
+21174,Côte d'Ivoire
+21175,South Africa
+21193,Kenya
+21199,Haiti
+21217,Tanzania
+21230,Tanzania
+21276,South Africa
+21279,"Congo, DRC"
+21301,Tanzania
+21336,South Africa
+21338,South Africa
+21378,Uganda
+21380,Zambia
+21390,Vietnam
+21399,South Africa
+21414,Uganda
+21469,South Sudan
+21478,South Africa
+21480,Vietnam
+21491,Uganda
+21493,Burundi
+21525,South Africa
+21536,Pakistan
+21540,South Africa
+21556,Vietnam
+21557,Zimbabwe
+21563,Tanzania
+21568,Côte d'Ivoire
+21573,"Congo, DRC"
+21576,Vietnam
+21590,Côte d'Ivoire
+21606,South Africa
+21656,Zambia
+21666,Vietnam
+21674,Vietnam
+21705,Vietnam
+21706,Cameroon
+21742,Guyana
+21752,Vietnam
+21755,South Africa
+21795,Vietnam
+21825,Uganda
+21839,South Africa
+21843,South Africa
+21844,Tanzania
+21868,Vietnam
+21897,Ethiopia
+21942,South Africa
+21953,South Sudan
+21983,South Africa
+21988,South Africa
+21997,Haiti
+22028,Rwanda
+22045,Haiti
+22060,South Africa
+22069,Uganda
+22073,Vietnam
+22076,Mozambique
+22079,South Africa
+22091,Dominican Republic
+22116,Nigeria
+22160,Haiti
+22176,South Africa
+22186,Vietnam
+22191,Nigeria
+22196,Vietnam
+22222,South Africa
+22268,"Congo, DRC"
+22275,South Africa
+22280,South Africa
+22281,South Africa
+22290,Zambia
+22295,South Africa
+22301,Vietnam
+22312,Haiti
+22323,South Africa
+22328,South Africa
+22356,Nigeria
+22357,Rwanda
+22373,Mozambique
+22387,South Africa
+22417,Haiti
+22469,Zambia
+22477,Namibia
+22511,Zambia
+22516,South Africa
+22531,Vietnam
+22595,Côte d'Ivoire
+22600,South Sudan
+22615,"Congo, DRC"
+22616,South Africa
+22620,Namibia
+22658,Rwanda
+22661,Haiti
+22670,Nigeria
+22675,Zimbabwe
+22684,Uganda
+22698,Guyana
+22722,Sudan
+22726,Namibia
+22728,Vietnam
+22752,South Africa
+22761,"Congo, DRC"
+22778,South Africa
+22799,Haiti
+22812,Vietnam
+22815,South Africa
+22817,Rwanda
+22843,Vietnam
+22855,Rwanda
+22869,South Africa
+22876,Vietnam
+22964,South Africa
+23015,Nigeria
+23023,Namibia
+23024,South Africa
+23050,Côte d'Ivoire
+23051,Tanzania
+23070,Malawi
+23076,South Sudan
+23096,South Africa
+23105,Vietnam
+23120,South Africa
+23149,South Sudan
+23156,Vietnam
+23159,Vietnam
+23173,Haiti
+23192,Vietnam
+23194,Haiti
+23211,Tanzania
+23223,South Africa
+23224,South Africa
+23238,Haiti
+23267,South Africa
+23280,South Africa
+23283,South Africa
+23315,Rwanda
+23340,Nigeria
+23365,Rwanda
+23370,Zimbabwe
+23375,Haiti
+23381,Zimbabwe
+23387,South Africa
+23404,South Sudan
+23445,Côte d'Ivoire
+23452,Zimbabwe
+23466,Rwanda
+23467,South Africa
+23488,South Sudan
+23509,South Africa
+23524,Côte d'Ivoire
+23557,South Africa
+23573,Nigeria
+23584,Uganda
+23596,South Africa
+23664,Vietnam
+23666,South Africa
+23691,Vietnam
+23718,Botswana
+23724,South Africa
+23727,South Africa
+23750,Tanzania
+24115,Kenya
+23756,Namibia
+23787,Botswana
+23791,South Africa
+23831,Haiti
+23842,South Africa
+23866,Vietnam
+29224,Swaziland
+23875,Côte d'Ivoire
+23904,Vietnam
+23939,South Africa
+23957,Vietnam
+23967,South Africa
+23993,Dominican Republic
+24018,Kenya
+24028,Nigeria
+24048,"Congo, DRC"
+24051,Tanzania
+24053,Tanzania
+24060,Rwanda
+24116,South Africa
+24123,Zimbabwe
+24129,Sudan
+24151,Haiti
+24187,South Africa
+24192,Kenya
+24246,Ethiopia
+24270,South Africa
+24276,Zimbabwe
+24285,South Africa
+24297,"Congo, DRC"
+24300,South Africa
+24324,South Africa
+24345,Vietnam
+24358,Tanzania
+24366,Ethiopia
+24368,Haiti
+24374,Rwanda
+24384,Uganda
+24386,Nigeria
+24427,Zambia
+24440,South Africa
+24461,South Africa
+24473,Uganda
+24488,South Africa
+24519,Rwanda
+24530,Kenya
+24547,Guyana
+24571,Namibia
+24581,South Africa
+24591,Vietnam
+24604,Haiti
+24620,Côte d'Ivoire
+24653,Tanzania
+24706,Haiti
+24754,South Africa
+24766,South Africa
+24790,Vietnam
+24819,Guyana
+24842,Tanzania
+24862,South Africa
+24865,South Africa
+24868,Vietnam
+24872,Vietnam
+24875,Vietnam
+24884,Zambia
+24905,Uganda
+24934,Nigeria
+24970,South Africa
+24974,Rwanda
+24983,Haiti
+24990,Namibia
+24993,Vietnam
+24999,Rwanda
+25019,South Africa
+25037,South Africa
+25074,Mozambique
+25075,Côte d'Ivoire
+25083,Swaziland
+25085,Ethiopia
+25103,Tanzania
+25127,South Africa
+25141,South Africa
+25189,South Africa
+25201,Vietnam
+25220,Nigeria
+25230,South Africa
+25279,Uganda
+25293,Rwanda
+25319,South Africa
+25323,Vietnam
+25328,South Africa
+25343,Guyana
+25393,Cameroon
+25412,Mozambique
+25423,Uganda
+25476,South Africa
+25477,Uganda
+25483,Togo
+25521,South Africa
+25522,Vietnam
+25536,Nigeria
+25539,South Africa
+25566,South Africa
+25587,Uganda
+25599,Zimbabwe
+25642,Guyana
+25676,South Africa
+25706,Haiti
+25726,Rwanda
+25749,Haiti
+25752,South Africa
+25760,Vietnam
+25767,Malawi
+25782,Vietnam
+25796,Vietnam
+25809,Vietnam
+25824,Mozambique
+25828,South Africa
+25830,South Africa
+25844,Tanzania
+25854,Nigeria
+25886,Vietnam
+26571,Botswana
+25915,South Sudan
+25926,Vietnam
+25928,Haiti
+25930,Côte d'Ivoire
+25956,Cameroon
+25967,Nigeria
+25982,Sudan
+25990,South Sudan
+29140,Vietnam
+26002,"Congo, DRC"
+26015,South Africa
+26019,Rwanda
+26082,Rwanda
+26093,Rwanda
+26117,South Africa
+26121,South Africa
+26131,Zambia
+26171,Rwanda
+26188,Tanzania
+26192,Vietnam
+26208,South Africa
+26250,Kenya
+26260,Burundi
+26265,Zimbabwe
+26294,South Africa
+26341,South Africa
+26345,South Sudan
+26397,Kenya
+26410,Namibia
+26427,South Africa
+26440,Zambia
+26466,Nigeria
+26505,Mali
+26558,Nigeria
+26576,South Africa
+26590,South Africa
+26591,South Africa
+26612,Vietnam
+26617,Uganda
+26619,South Sudan
+26655,South Africa
+26686,Botswana
+26718,Vietnam
+26741,South Sudan
+26786,South Africa
+26791,South Africa
+26800,Nigeria
+26821,Tanzania
+26829,South Africa
+26841,Mozambique
+26843,Sudan
+26849,South Africa
+26879,South Africa
+26895,Cameroon
+26898,Haiti
+26917,Ethiopia
+26927,South Africa
+26961,Haiti
+26965,Uganda
+26985,Vietnam
+26996,South Africa
+27015,Côte d'Ivoire
+27026,South Africa
+27049,Ghana
+27067,Nigeria
+27092,Uganda
+27118,Nigeria
+27177,Haiti
+27185,South Africa
+27186,South Africa
+27200,South Africa
+27234,Rwanda
+27236,Haiti
+27238,Sudan
+27267,Vietnam
+27269,Rwanda
+27297,Guyana
+27300,Rwanda
+27327,Nigeria
+27400,Zambia
+27421,Tanzania
+27430,South Africa
+27460,Vietnam
+27461,South Africa
+27462,Guyana
+27474,Sudan
+27553,South Africa
+27563,South Africa
+27574,Kenya
+27586,South Sudan
+27604,Rwanda
+27614,"Congo, DRC"
+27634,Rwanda
+27664,Ghana
+27670,Uganda
+27675,Sudan
+27697,Haiti
+27708,Côte d'Ivoire
+27765,Uganda
+27777,Ethiopia
+27781,South Africa
+27798,Ethiopia
+27804,Haiti
+27820,Uganda
+27829,South Sudan
+27833,Vietnam
+27842,Uganda
+27875,Vietnam
+27881,Tanzania
+27936,South Africa
+27938,Zambia
+27942,Angola
+27964,Haiti
+27969,South Africa
+28001,Nigeria
+28031,Vietnam
+28039,Guyana
+28085,Vietnam
+28086,South Africa
+28158,South Africa
+28160,South Africa
+28181,South Africa
+28190,South Africa
+28192,Rwanda
+28204,South Africa
+28210,Tanzania
+28230,Mozambique
+28231,South Africa
+28240,Zimbabwe
+28241,Vietnam
+28262,South Africa
+28265,Burundi
+28268,South Africa
+28282,Cameroon
+28302,South Africa
+28306,South Sudan
+28309,South Africa
+28318,Dominican Republic
+28322,Tanzania
+28331,Kenya
+28333,Nigeria
+28335,Kenya
+28418,Tanzania
+28439,Nigeria
+28471,Nigeria
+28493,Nigeria
+28506,Vietnam
+28515,South Africa
+28532,Mozambique
+28534,Côte d'Ivoire
+28542,South Africa
+28544,Vietnam
+28545,Botswana
+28553,South Africa
+28566,Zambia
+29155,Haiti
+28577,Tanzania
+28595,Vietnam
+28601,Haiti
+28617,Côte d'Ivoire
+28656,Guyana
+28664,Mozambique
+28673,South Africa
+28676,Guyana
+28689,South Africa
+28691,South Africa
+28703,Mozambique
+28724,South Africa
+28773,Haiti
+28777,Haiti
+28778,Zambia
+28802,Ethiopia
+28825,Rwanda
+28838,South Africa
+28844,South Africa
+28862,South Africa
+28888,Mali
+28908,South Africa
+28913,Uganda
+28918,Mozambique
+28923,Uganda
+28928,South Africa
+28960,South Africa
+28992,Rwanda
+28996,Afghanistan
+28998,Vietnam
+29020,Dominican Republic
+29036,Uganda
+29043,Haiti
+29061,Sudan
+29071,Vietnam
+29116,South Africa
+29125,Rwanda
+29133,Uganda
+29157,South Africa
+29207,South Africa
+29219,South Africa
+29259,Zambia
+29274,Kenya
+29281,Kenya
+29282,Tanzania
+29298,Vietnam
+29317,Vietnam
+29347,Swaziland
+29359,South Africa
+29391,South Africa
+29427,Vietnam
+29479,Vietnam
+29538,Haiti
+29596,Rwanda
+29608,Haiti
+29616,Vietnam
+29677,Vietnam
+29706,"Congo, DRC"
+29725,Haiti
+29727,Haiti
+29734,Haiti
+29752,Vietnam
+29833,Haiti
+29848,South Africa
+29880,Vietnam
+29913,"Congo, DRC"
+29925,Uganda
+29932,South Africa
+29938,Ghana
+29951,Uganda
+29957,South Africa
+29963,Haiti
+29968,Rwanda
+29979,Vietnam
+29983,South Africa
+30022,Uganda
+30030,Vietnam
+30065,Nigeria
+30075,Cameroon
+30084,South Africa
+30103,South Africa
+30112,Zimbabwe
+30119,Uganda
+30130,Tanzania
+30159,Uganda
+30164,Côte d'Ivoire
+30186,Vietnam
+30211,Rwanda
+30213,Rwanda
+30220,Haiti
+30223,Rwanda
+30226,Mozambique
+30237,Uganda
+30248,South Africa
+30256,Vietnam
+30257,Mali
+30274,Haiti
+30320,South Sudan
+30349,Zambia
+30363,South Sudan
+30388,Haiti
+30412,Kenya
+30462,South Africa
+30475,Botswana
+30494,Zambia
+30508,Rwanda
+30514,South Africa
+30519,Nigeria
+30561,Nigeria
+30573,Cameroon
+30589,South Africa
+30601,Zambia
+30615,Zambia
+30618,Vietnam
+30629,Nigeria
+30633,South Africa
+30649,South Africa
+30717,South Africa
+30720,Rwanda
+30724,South Africa
+30728,South Africa
+30784,Dominican Republic
+30788,Zimbabwe
+30819,Tanzania
+30842,Zimbabwe
+30850,Sudan
+30904,Vietnam
+30915,Rwanda
+30942,South Africa
+30974,Vietnam
+30977,Uganda
+40274,Uganda
+30982,Rwanda
+30998,Botswana
+31041,South Africa
+31116,Vietnam
+31146,Vietnam
+31156,"Congo, DRC"
+31177,Ethiopia
+31203,Vietnam
+31254,Rwanda
+31304,South Sudan
+31306,South Africa
+31324,Haiti
+31332,"Congo, DRC"
+31363,South Africa
+31368,Namibia
+31430,Vietnam
+31462,Rwanda
+31861,Vietnam
+31473,South Africa
+31486,South Sudan
+31551,South Africa
+31561,South Africa
+31569,South Africa
+31574,Cameroon
+31648,Rwanda
+31662,South Africa
+31670,South Africa
+31694,Rwanda
+31709,Côte d'Ivoire
+31712,Vietnam
+31740,South Africa
+31750,Uganda
+31761,South Africa
+31805,Haiti
+31829,Guatemala
+31847,South Africa
+31859,South Africa
+31892,Ethiopia
+31909,Vietnam
+31912,Uganda
+31917,Zimbabwe
+31936,Côte d'Ivoire
+31941,Vietnam
+31963,South Africa
+32026,Nigeria
+32029,Zimbabwe
+32059,"Congo, DRC"
+32064,Côte d'Ivoire
+32077,"Congo, DRC"
+32094,Vietnam
+32111,Ethiopia
+32135,Rwanda
+32150,Vietnam
+32189,Vietnam
+32193,Ethiopia
+32279,South Africa
+32306,Vietnam
+32313,Rwanda
+32316,Sudan
+32344,Dominican Republic
+32358,South Africa
+32359,Sudan
+32362,Haiti
+32372,Uganda
+32398,South Africa
+32402,Ghana
+32405,South Africa
+32422,Vietnam
+32435,Malawi
+32438,Mozambique
+32471,Tanzania
+32496,Vietnam
+32499,South Africa
+32505,Uganda
+32508,South Africa
+32521,Dominican Republic
+32540,Guyana
+32543,South Africa
+32548,"Congo, DRC"
+32559,Haiti
+32594,Cameroon
+32729,Vietnam
+32738,Rwanda
+32742,Vietnam
+32743,Vietnam
+32775,Haiti
+32837,South Africa
+32865,"Congo, DRC"
+32883,South Africa
+32889,South Africa
+32892,Mozambique
+32893,"Congo, DRC"
+32903,South Africa
+32938,South Africa
+32953,Rwanda
+32959,Botswana
+32963,Côte d'Ivoire
+32973,South Africa
+32986,Haiti
+33019,South Africa
+33050,Côte d'Ivoire
+33077,South Africa
+33097,South Africa
+33116,Rwanda
+33144,Vietnam
+33168,Tanzania
+33179,Uganda
+33190,South Africa
+33218,Haiti
+33232,Uganda
+33263,Haiti
+33296,Uganda
+33305,South Africa
+33314,Nigeria
+33359,Uganda
+33360,Haiti
+33379,Haiti
+33402,Mali
+33403,South Africa
+33422,Vietnam
+33441,Vietnam
+33450,Zimbabwe
+33494,Vietnam
+33522,Côte d'Ivoire
+33544,Mozambique
+33615,South Africa
+33631,Zimbabwe
+33634,South Africa
+33654,South Africa
+33665,Ghana
+33684,Côte d'Ivoire
+33701,South Africa
+33719,South Africa
+33760,Vietnam
+33773,South Africa
+33799,Tanzania
+33807,Haiti
+33810,Malawi
+33812,South Africa
+33833,South Africa
+33848,Mali
+33861,South Africa
+33863,Cameroon
+33868,South Africa
+33872,Vietnam
+33882,South Africa
+33896,Ghana
+33909,South Sudan
+33948,South Africa
+33962,Haiti
+33964,Cameroon
+33969,Tanzania
+34010,Uganda
+34028,Rwanda
+34058,Tanzania
+34062,Vietnam
+34103,Haiti
+34113,South Sudan
+34119,South Africa
+34122,Côte d'Ivoire
+34140,Tanzania
+34143,South Africa
+34164,Swaziland
+34184,Vietnam
+34226,Sudan
+34235,South Africa
+34267,Uganda
+34280,Vietnam
+34319,Nigeria
+34336,South Africa
+34351,Zimbabwe
+34360,Côte d'Ivoire
+34380,South Africa
+34456,Ghana
+34459,Vietnam
+34505,"Congo, DRC"
+34526,Vietnam
+34551,Nigeria
+34563,Tanzania
+34564,Burundi
+34566,Kenya
+34582,Vietnam
+34593,Zambia
+34614,Mozambique
+34619,Côte d'Ivoire
+35258,Mozambique
+34646,"Congo, DRC"
+34698,Namibia
+34700,Nigeria
+34718,Côte d'Ivoire
+34727,Nigeria
+34760,"Congo, DRC"
+34769,Uganda
+34772,South Africa
+34781,South Africa
+34837,Ethiopia
+34885,South Africa
+34890,South Africa
+34942,South Africa
+34960,Tanzania
+34961,South Africa
+34965,South Africa
+34987,Vietnam
+34989,South Africa
+35031,South Africa
+35043,Vietnam
+35053,Vietnam
+35054,Vietnam
+35065,Uganda
+35067,Nigeria
+35082,Vietnam
+35120,Nigeria
+35123,Nigeria
+35146,Uganda
+35231,South Africa
+35232,Côte d'Ivoire
+35250,Vietnam
+35252,Vietnam
+35267,South Africa
+35279,South Africa
+35298,South Africa
+35299,South Africa
+35300,Vietnam
+35310,South Africa
+35323,Côte d'Ivoire
+35352,Rwanda
+35372,Vietnam
+35375,South Africa
+35444,Tanzania
+35487,Kenya
+35488,Nigeria
+35493,Zambia
+35519,South Africa
+35539,Sudan
+35559,South Africa
+35566,South Africa
+35609,Ghana
+35637,South Africa
+35640,Liberia
+35643,Rwanda
+35652,South Africa
+35660,Zambia
+35678,"Congo, DRC"
+35699,Cameroon
+35700,South Africa
+35717,Rwanda
+35749,South Africa
+35788,"Congo, DRC"
+35790,Uganda
+35808,South Africa
+35813,Guyana
+35870,Uganda
+35896,Vietnam
+35900,Swaziland
+35904,South Africa
+35913,South Africa
+35922,South Africa
+35951,Haiti
+35968,Vietnam
+35975,Rwanda
+35977,South Africa
+35983,Vietnam
+36005,Rwanda
+36019,Tanzania
+36035,Vietnam
+36053,South Africa
+36083,Uganda
+36147,Vietnam
+36157,South Africa
+36162,Vietnam
+36166,South Sudan
+36172,South Africa
+36179,Haiti
+36203,Nigeria
+36204,Haiti
+36209,South Africa
+36212,South Africa
+36219,South Africa
+36277,Haiti
+36298,Vietnam
+36322,Haiti
+36350,Guyana
+36411,South Africa
+36416,Zimbabwe
+36431,South Africa
+36443,Haiti
+36447,South Africa
+36453,Sudan
+36464,Vietnam
+36507,Vietnam
+36530,Tanzania
+36539,Uganda
+36541,South Africa
+36562,Mozambique
+36592,Zimbabwe
+36596,South Africa
+36603,Vietnam
+36617,Vietnam
+36641,Zimbabwe
+36643,South Africa
+36654,Uganda
+36661,South Africa
+36679,South Africa
+36710,Malawi
+36717,Côte d'Ivoire
+36758,Rwanda
+36773,South Africa
+36784,South Africa
+36785,Nigeria
+36810,Kenya
+36816,Haiti
+36842,Nigeria
+36868,Mozambique
+36871,Vietnam
+36880,South Africa
+36890,South Africa
+36892,South Africa
+36913,Guyana
+37868,Vietnam
+36922,South Africa
+36936,Kenya
+36969,Vietnam
+36978,Vietnam
+37031,Vietnam
+37037,Zimbabwe
+37040,South Africa
+37052,South Africa
+37068,South Africa
+37076,Zambia
+37087,South Africa
+37089,Haiti
+37140,Mozambique
+37152,Uganda
+37157,Mozambique
+37177,South Africa
+39242,Kenya
+37251,Sudan
+37277,Haiti
+37324,Uganda
+37334,South Africa
+37362,South Africa
+37379,Haiti
+37410,South Africa
+37416,South Africa
+37417,Zambia
+37452,South Africa
+37470,"Congo, DRC"
+37475,Vietnam
+37481,Rwanda
+37487,South Africa
+37489,South Africa
+37496,Mozambique
+37506,Vietnam
+37519,South Africa
+37526,Vietnam
+37531,South Africa
+37578,Côte d'Ivoire
+37612,Zimbabwe
+37624,"Congo, DRC"
+37650,Zimbabwe
+37664,Nigeria
+37720,South Africa
+37752,"Congo, DRC"
+37753,Vietnam
+37775,South Africa
+37820,South Africa
+37829,Vietnam
+37835,Rwanda
+39495,Côte d'Ivoire
+37872,Vietnam
+37887,South Africa
+37924,Tanzania
+37925,South Africa
+37960,Zimbabwe
+37963,Vietnam
+37979,Zimbabwe
+37987,South Africa
+37994,Mali
+37997,Côte d'Ivoire
+38021,South Africa
+38045,Haiti
+38095,South Africa
+38099,Haiti
+38111,Uganda
+38120,Rwanda
+38157,Mozambique
+38183,Côte d'Ivoire
+38192,Nigeria
+38237,Zimbabwe
+38243,South Africa
+38247,Guyana
+38253,Vietnam
+38266,"Congo, DRC"
+38273,South Africa
+38293,South Africa
+38294,Haiti
+38299,Vietnam
+38308,Haiti
+38312,Uganda
+38318,Uganda
+38368,South Africa
+38396,Cameroon
+38409,Tanzania
+38417,Nigeria
+38418,South Africa
+38431,Dominican Republic
+38480,Vietnam
+38504,Sudan
+38507,South Africa
+38510,Haiti
+38538,Vietnam
+38567,South Sudan
+38571,Vietnam
+38573,South Africa
+38590,Rwanda
+38596,Zambia
+38600,South Africa
+38611,Namibia
+38613,South Sudan
+38619,Haiti
+38632,Haiti
+38662,Malawi
+38759,South Africa
+38762,Nigeria
+38793,Zimbabwe
+38796,Mozambique
+38827,Guyana
+38831,Haiti
+38843,Cameroon
+38913,Nigeria
+38914,South Africa
+38949,South Africa
+38951,South Africa
+38955,Nigeria
+38992,South Sudan
+39014,Nigeria
+39017,South Africa
+39025,Côte d'Ivoire
+39029,South Africa
+39045,South Africa
+39053,South Sudan
+39065,South Africa
+39075,Ethiopia
+39088,Nigeria
+39105,South Africa
+39133,Tanzania
+39156,Vietnam
+39182,South Africa
+39184,Côte d'Ivoire
+39208,Rwanda
+39223,Kenya
+39226,South Africa
+39263,Vietnam
+39291,Uganda
+39343,South Africa
+39353,South Africa
+39391,Vietnam
+39393,Kenya
+39427,Côte d'Ivoire
+39441,Zambia
+39452,South Africa
+39453,"Congo, DRC"
+39489,Guyana
+39509,South Africa
+39547,Côte d'Ivoire
+39556,Namibia
+39575,South Africa
+39589,Haiti
+39606,Mozambique
+39615,Mali
+39631,Ghana
+39647,Vietnam
+39658,South Africa
+39659,Burundi
+39661,Rwanda
+39708,Côte d'Ivoire
+39724,South Africa
+39769,Sudan
+39794,Zimbabwe
+39799,Uganda
+39823,South Africa
+40255,Vietnam
+39833,Vietnam
+39850,"Congo, DRC"
+39873,Vietnam
+39895,Rwanda
+39920,Rwanda
+39933,Vietnam
+39966,Namibia
+39967,Côte d'Ivoire
+39971,Vietnam
+40033,Uganda
+40044,South Africa
+40070,South Africa
+40100,South Africa
+40136,South Africa
+40152,South Africa
+40205,South Sudan
+40209,Côte d'Ivoire
+40214,Rwanda
+40286,Rwanda
+40351,Haiti
+40364,South Africa
+40365,Haiti
+40373,Tanzania
+40379,South Africa
+40443,Vietnam
+40479,Tanzania
+40484,Kenya
+40490,South Sudan
+40496,South Africa
+40498,Côte d'Ivoire
+40555,Tanzania
+40580,Cameroon
+40584,South Africa
+40598,South Africa
+40608,Uganda
+40620,Mozambique
+40627,South Africa
+40657,Ethiopia
+40665,Ethiopia
+40680,Côte d'Ivoire
+40702,South Sudan
+40762,Uganda
+40779,Mozambique
+40790,South Africa
+40791,Vietnam
+40798,South Africa
+40812,Rwanda
+40821,Cameroon
+40836,South Africa
+40840,"Congo, DRC"
+40841,South Africa
+40851,Cameroon
+40868,South Africa
+40894,Zambia
+40901,South Africa
+40923,South Africa
+40933,South Africa
+40934,Vietnam
+40935,Vietnam
+40936,Vietnam
+40942,Haiti
+40950,Guyana
+40963,Nigeria
+41011,South Africa
+41022,South Africa
+41032,South Africa
+41042,Vietnam
+41045,Rwanda
+41056,South Africa
+41062,"Congo, DRC"
+41092,Côte d'Ivoire
+41096,"Congo, DRC"
+41099,South Africa
+41132,South Africa
+41146,Zimbabwe
+41162,Nigeria
+41184,South Africa
+41201,South Africa
+41214,Tanzania
+41222,Kenya
+41232,Haiti
+41238,Afghanistan
+41260,Vietnam
+41279,South Africa
+41282,Uganda
+41288,South Africa
+41298,Mozambique
+41301,South Africa
+41302,Haiti
+41304,Zimbabwe
+41368,Haiti
+41381,Haiti
+41399,Haiti
+41414,South Africa
+41418,South Africa
+41431,Haiti
+41444,Vietnam
+41474,Vietnam
+41500,South Africa
+41568,Vietnam
+41578,Zimbabwe
+41584,Zambia
+41603,South Africa
+41623,South Africa
+41640,South Sudan
+41694,Haiti
+41697,Vietnam
+41723,Uganda
+41780,South Africa
+41784,South Africa
+41791,Ghana
+41798,South Africa
+41838,Uganda
+41841,South Africa
+41852,South Africa
+41875,South Africa
+41878,Kenya
+41892,Vietnam
+41902,Vietnam
+41905,Uganda
+41910,Burundi
+41916,South Africa
+41934,Burundi
+41943,Vietnam
+41953,Vietnam
+41957,South Africa
+41992,Nigeria
+42215,South Sudan
+42000,Kenya
+42030,South Sudan
+42038,Kenya
+42659,South Africa
+42061,South Africa
+42073,Burkina Faso
+42094,South Africa
+42116,South Africa
+42125,Vietnam
+42138,Vietnam
+42140,"Congo, DRC"
+42156,Haiti
+42159,Uganda
+42179,South Africa
+42186,South Africa
+42187,South Africa
+42190,Vietnam
+42195,South Africa
+42221,Vietnam
+42243,South Africa
+42274,South Africa
+42275,Guyana
+42295,Vietnam
+42300,South Africa
+42334,Sudan
+42359,Côte d'Ivoire
+42361,South Africa
+42394,Zimbabwe
+42465,South Africa
+42499,Rwanda
+42505,South Africa
+42506,Uganda
+42571,Pakistan
+42579,Haiti
+42655,Kenya
+42667,South Africa
+42752,Haiti
+42757,Côte d'Ivoire
+42778,South Sudan
+42780,South Africa
+42797,South Africa
+42811,Vietnam
+42848,Tanzania
+42851,Sudan
+42858,Rwanda
+42870,Vietnam
+42882,South Africa
+42912,Nigeria
+42917,Vietnam
+42980,Ethiopia
+42983,Côte d'Ivoire
+42998,Vietnam
+43045,Tanzania
+43059,Haiti
+43060,Nigeria
+43079,Vietnam
+43085,Lesotho
+43116,South Africa
+43136,Kenya
+43140,Tanzania
+43210,Vietnam
+43229,Côte d'Ivoire
+43244,Guyana
+43250,South Sudan
+43272,South Africa
+43286,Haiti
+43344,"Congo, DRC"
+43347,Haiti
+43383,Uganda
+43390,South Africa
+43425,Kenya
+43430,South Africa
+43443,Kenya
+43450,South Africa
+43480,South Africa
+43486,Vietnam
+43507,South Africa
+43526,Uganda
+43534,Mozambique
+43537,South Africa
+43600,Vietnam
+43628,Botswana
+43634,South Sudan
+43906,South Africa
+43635,Vietnam
+43643,South Africa
+43693,Zambia
+43714,Nigeria
+43749,"Congo, DRC"
+43762,South Africa
+43786,Uganda
+43805,Haiti
+43807,South Africa
+43812,Rwanda
+43827,"Congo, DRC"
+43834,Namibia
+43875,South Africa
+43892,South Africa
+43897,Zambia
+43905,Nigeria
+43912,Haiti
+43918,South Africa
+43928,South Africa
+43929,Uganda
+43932,South Africa
+43970,Tanzania
+43972,South Africa
+43989,Tanzania
+43998,South Africa
+44031,South Africa
+44045,Uganda
+44068,Vietnam
+44082,Nigeria
+44092,Guyana
+44099,Haiti
+44105,Haiti
+44121,Swaziland
+44131,South Africa
+44180,Cameroon
+44183,South Africa
+44204,South Africa
+44209,Tanzania
+44247,South Africa
+44263,Zambia
+44265,Rwanda
+44304,Nigeria
+44307,South Africa
+44315,Guyana
+44330,South Africa
+44340,South Africa
+44363,Dominican Republic
+44373,Vietnam
+44393,Zambia
+44448,South Africa
+44463,South Africa
+44486,South Africa
+44501,Vietnam
+44516,Côte d'Ivoire
+44567,Rwanda
+44577,Zimbabwe
+44597,"Congo, DRC"
+44612,Vietnam
+44615,Vietnam
+44630,Vietnam
+44643,Vietnam
+44694,Botswana
+44702,Ethiopia
+44724,Vietnam
+44737,Vietnam
+44778,Côte d'Ivoire
+44783,Côte d'Ivoire
+44808,Tanzania
+44816,Nigeria
+44855,South Africa
+44860,Vietnam
+44908,Mozambique
+44913,South Africa
+44920,Vietnam
+44922,Haiti
+44930,Nigeria
+44942,Nigeria
+44962,Uganda
+44964,South Africa
+45020,South Africa
+45034,South Africa
+45048,South Africa
+45057,South Africa
+45090,South Africa
+45143,South Africa
+45147,Uganda
+45149,Vietnam
+45150,South Sudan
+45158,Vietnam
+45160,South Sudan
+45168,South Africa
+45178,South Sudan
+45197,South Africa
+45202,South Africa
+45248,Mozambique
+45267,Mozambique
+45278,South Africa
+45287,South Africa
+45292,Haiti
+45320,South Africa
+45327,Namibia
+45343,Vietnam
+45347,South Africa
+45348,South Africa
+45361,South Africa
+45377,South Africa
+45400,Vietnam
+45440,Rwanda
+45442,South Africa
+45460,South Africa
+45505,South Sudan
+45536,South Africa
+45540,Vietnam
+45608,Kenya
+45609,Zimbabwe
+45640,South Africa
+45644,Côte d'Ivoire
+45648,"Congo, DRC"
+45652,South Africa
+45695,Haiti
+45705,South Africa
+45723,South Sudan
+45729,South Africa
+45741,South Sudan
+45793,South Africa
+45801,Kenya
+45848,"Congo, DRC"
+45929,Mozambique
+45968,Vietnam
+45977,Tanzania
+46005,Rwanda
+46010,Rwanda
+46067,Tanzania
+46082,Ethiopia
+46095,Haiti
+46099,South Africa
+46106,South Sudan
+46114,Sierra Leone
+46127,Rwanda
+46129,Mozambique
+46130,Vietnam
+46156,Tanzania
+46170,South Africa
+46177,South Africa
+46198,Vietnam
+46206,South Africa
+46209,Rwanda
+46227,South Africa
+46228,Zimbabwe
+46250,"Congo, DRC"
+46310,Sierra Leone
+46323,Ghana
+46348,Mozambique
+46353,Nigeria
+46355,Haiti
+46372,South Africa
+46395,South Africa
+46409,"Congo, DRC"
+46411,Côte d'Ivoire
+46429,Mali
+46432,Côte d'Ivoire
+46447,Uganda
+46460,Uganda
+46464,Côte d'Ivoire
+46468,South Africa
+46502,Vietnam
+46512,Côte d'Ivoire
+46513,South Africa
+46556,South Africa
+46574,Rwanda
+46582,Vietnam
+46587,South Africa
+46590,Vietnam
+46625,Sudan
+46653,South Africa
+46669,Nigeria
+46673,South Africa
+46688,South Africa
+46726,Uganda
+46727,Tanzania
+46742,Vietnam
+46844,Côte d'Ivoire
+46848,Vietnam
+46858,Mozambique
+46860,Vietnam
+46867,Uganda
+46869,Côte d'Ivoire
+46875,Zimbabwe
+46895,Nigeria
+46897,Vietnam
+46942,South Africa
+46956,Namibia
+46987,Tanzania
+47025,South Africa
+47035,Angola
+47048,Guyana
+47050,Mozambique
+47077,Uganda
+47084,South Africa
+47089,South Africa
+47136,South Africa
+47200,Haiti
+47212,Uganda
+47221,South Sudan
+47233,South Africa
+47236,Sudan
+47253,Vietnam
+47301,Zimbabwe
+47302,Guyana
+47311,Côte d'Ivoire
+47312,South Africa
+47356,South Africa
+47388,Haiti
+47400,Zimbabwe
+47406,Zambia
+47411,Uganda
+47413,Haiti
+47432,Côte d'Ivoire
+47443,Uganda
+47473,Zimbabwe
+47495,Swaziland
+47516,South Africa
+47536,Botswana
+47541,Rwanda
+47853,Tanzania
+47546,Nigeria
+47559,South Africa
+47576,South Africa
+47581,Haiti
+47587,Guyana
+47616,Zimbabwe
+47625,South Africa
+47638,Guyana
+47642,"Congo, DRC"
+47653,South Africa
+47666,South Africa
+47676,South Africa
+47677,Vietnam
+47722,South Africa
+47759,Vietnam
+47817,South Sudan
+47831,Vietnam
+47837,Rwanda
+47857,Ethiopia
+47862,Mozambique
+47864,Vietnam
+47870,Sudan
+47923,Zimbabwe
+47937,Vietnam
+47949,South Africa
+47953,Vietnam
+47975,Vietnam
+47977,Zambia
+47979,Vietnam
+48043,Kenya
+48044,South Sudan
+48065,South Africa
+48099,"Congo, DRC"
+48102,South Africa
+48120,Vietnam
+48151,Rwanda
+48155,Vietnam
+48182,Haiti
+48184,Rwanda
+48214,South Africa
+48216,Tanzania
+48228,Côte d'Ivoire
+48236,South Africa
+48261,Rwanda
+48301,Côte d'Ivoire
+48319,South Africa
+48419,South Africa
+48438,Uganda
+48497,South Africa
+48500,Rwanda
+48516,Haiti
+48517,Zimbabwe
+48519,South Sudan
+48523,Tanzania
+48559,South Africa
+48595,Vietnam
+48623,Uganda
+48624,Haiti
+48640,Burundi
+48655,South Africa
+48665,Burundi
+48690,Haiti
+48706,Rwanda
+48729,South Africa
+48741,Côte d'Ivoire
+48746,South Africa
+49301,Botswana
+48755,Haiti
+48757,South Africa
+48765,Kenya
+48773,Nigeria
+48821,Haiti
+48825,Vietnam
+48826,Mozambique
+48839,Côte d'Ivoire
+48842,South Africa
+48857,South Africa
+48870,Guyana
+48872,"Congo, DRC"
+48879,South Africa
+48906,South Africa
+48923,South Africa
+48945,Uganda
+48958,"Congo, DRC"
+48994,Vietnam
+49003,Tanzania
+49014,Kenya
+49025,Cameroon
+49063,Nigeria
+49071,South Africa
+49076,Vietnam
+49085,Sudan
+49116,Tanzania
+49150,Ethiopia
+49169,Rwanda
+49211,South Africa
+49214,Rwanda
+49225,Vietnam
+49254,South Africa
+49320,Uganda
+49359,South Africa
+49363,South Sudan
+49366,South Africa
+49378,Zambia
+49380,South Africa
+49386,South Africa
+49387,South Sudan
+49405,Kenya
+49406,Tanzania
+49429,Uganda
+49435,Ghana
+49436,South Africa
+49494,Vietnam
+49498,Uganda
+49529,South Africa
+49535,South Africa
+49540,South Sudan
+49585,Mozambique
+49587,South Africa
+49607,South Africa
+49653,Uganda
+49656,South Africa
+49660,South Sudan
+49694,South Africa
+49749,South Sudan
+49760,South Africa
+49765,"Congo, DRC"
+49796,South Africa
+49829,Burundi
+49832,South Sudan
+49837,Rwanda
+49859,Côte d'Ivoire
+49875,Haiti
+49881,South Africa
+49907,Malawi
+49919,Vietnam
+49926,Côte d'Ivoire
+49957,South Africa
+50031,South Africa
+50078,South Africa
+50109,South Africa
+50220,"Congo, DRC"
+50231,Vietnam
+50235,Zimbabwe
+50255,Vietnam
+50261,Zimbabwe
+50287,Zambia
+50294,Zimbabwe
+50301,South Africa
+50309,Uganda
+50314,South Africa
+50316,Nigeria
+50345,Swaziland
+50380,South Africa
+50383,Tanzania
+50438,South Africa
+50483,Rwanda
+50498,South Africa
+50514,Haiti
+50524,South Africa
+50581,Zambia
+50607,Haiti
+50613,Vietnam
+50626,South Africa
+50636,South Africa
+50662,Zambia
+50665,Côte d'Ivoire
+50706,South Africa
+50723,Namibia
+50730,Haiti
+50739,South Africa
+50752,Mali
+50754,South Africa
+50755,Haiti
+50758,Tanzania
+50798,Haiti
+50802,Tanzania
+50876,Rwanda
+50893,South Africa
+50901,Uganda
+50907,Burundi
+50910,Haiti
+50918,Rwanda
+50968,South Africa
+50971,Haiti
+50976,Rwanda
+50985,South Sudan
+51016,Nigeria
+51034,Nigeria
+51046,Vietnam
+51063,South Africa
+51073,South Africa
+51098,Vietnam
+51134,Côte d'Ivoire
+51148,Vietnam
+51155,Haiti
+51165,Zambia
+51175,Nigeria
+51217,Zimbabwe
+51225,South Africa
+51233,Vietnam
+51267,Nigeria
+51268,Nigeria
+51275,Vietnam
+51340,Haiti
+51346,South Africa
+51380,Ethiopia
+51396,South Africa
+51397,South Africa
+51408,Nigeria
+51410,Haiti
+51432,South Africa
+51435,Cameroon
+51440,Zimbabwe
+51452,Botswana
+51467,South Africa
+51496,Senegal
+51504,South Sudan
+51525,South Africa
+51531,South Africa
+51535,Haiti
+51578,South Africa
+51579,"Congo, DRC"
+51587,South Africa
+51608,Cameroon
+51641,South Africa
+51668,South Sudan
+51690,Vietnam
+51717,Ghana
+51755,Zambia
+51763,South Africa
+51775,Vietnam
+51803,South Africa
+51817,South Africa
+51818,Côte d'Ivoire
+51820,Swaziland
+51821,South Africa
+51833,South Africa
+51871,South Africa
+51883,Nigeria
+51888,South Africa
+51895,Tanzania
+51911,Cameroon
+51928,Ethiopia
+51969,South Africa
+51990,Rwanda
+51999,Guyana
+52034,Haiti
+52049,Kenya
+52068,South Africa
+52081,South Africa
+52093,Rwanda
+52131,South Africa
+52144,Nigeria
+52175,South Africa
+52206,Haiti
+52228,Rwanda
+52241,Vietnam
+52244,Rwanda
+52258,Côte d'Ivoire
+52280,Kenya
+52286,Vietnam
+52341,Dominican Republic
+52353,Vietnam
+52354,Zambia
+52364,Uganda
+52367,Ghana
+52380,South Africa
+52383,Côte d'Ivoire
+52388,South Africa
+52398,Uganda
+52436,"Congo, DRC"
+52460,Rwanda
+52465,Uganda
+52488,Nigeria
+52725,Sudan
+52520,South Africa
+52524,South Africa
+52540,Ethiopia
+52541,Vietnam
+52617,Rwanda
+52629,Côte d'Ivoire
+52631,Liberia
+52636,Haiti
+52646,Guyana
+52670,South Africa
+52677,Uganda
+52687,Nigeria
+52704,Uganda
+52706,Vietnam
+52710,South Africa
+52736,Ghana
+52756,Burundi
+52793,Ghana
+52795,Zambia
+52799,Dominican Republic
+52803,South Africa
+52837,Nigeria
+52853,South Africa
+52854,South Africa
+52856,Vietnam
+52871,South Africa
+52945,Haiti
+52963,Cameroon
+52973,South Africa
+52999,Côte d'Ivoire
+53002,Rwanda
+53064,Kenya
+53106,Haiti
+53108,Rwanda
+53226,Tanzania
+53659,Zambia
+53233,South Africa
+53234,Côte d'Ivoire
+53254,South Africa
+53272,Nigeria
+53281,Tanzania
+53292,Kenya
+53327,Mali
+53338,South Africa
+53349,Guyana
+53371,Zambia
+53421,South Africa
+53532,Tanzania
+53556,Tanzania
+53560,Nigeria
+53591,Ethiopia
+53616,Haiti
+53618,South Africa
+53625,Uganda
+53650,South Africa
+53665,Côte d'Ivoire
+53675,South Africa
+53683,South Africa
+53691,Côte d'Ivoire
+53738,South Africa
+53759,Vietnam
+53775,Zambia
+53822,Guyana
+53852,South Africa
+53877,Ethiopia
+53878,"Congo, DRC"
+53922,South Sudan
+53945,South Africa
+53958,South Africa
+53971,Lesotho
+53981,South Africa
+53989,South Sudan
+53997,Nigeria
+54019,Zambia
+54035,Haiti
+54045,Vietnam
+54064,South Africa
+54100,Vietnam
+54150,South Africa
+54180,Vietnam
+54208,Vietnam
+54243,Namibia
+54246,South Africa
+54248,South Africa
+54251,Guyana
+54265,Tanzania
+54271,Haiti
+54280,Côte d'Ivoire
+54296,South Africa
+54304,Mozambique
+54312,South Africa
+54348,Tanzania
+54385,South Africa
+54440,South Africa
+54461,Rwanda
+54465,Mozambique
+54471,Nigeria
+54487,Mozambique
+54501,Tanzania
+54513,South Africa
+54529,South Africa
+54536,Nigeria
+54542,Vietnam
+54545,South Africa
+54562,Kenya
+54579,South Africa
+54635,Côte d'Ivoire
+54661,Malawi
+54666,Uganda
+54676,South Africa
+54679,Kenya
+54729,Nigeria
+54744,Vietnam
+54753,South Africa
+54755,Zimbabwe
+54770,South Africa
+54780,Haiti
+54781,Nigeria
+54792,Rwanda
+54827,South Africa
+54828,Rwanda
+54829,Vietnam
+54840,Nigeria
+54934,South Africa
+54952,Ethiopia
+54955,South Africa
+54956,South Africa
+54957,Vietnam
+54960,South Africa
+54965,Kenya
+54973,Côte d'Ivoire
+54984,Tanzania
+54986,Nigeria
+55009,South Africa
+55017,Tanzania
+55018,Uganda
+55030,Côte d'Ivoire
+55049,Uganda
+55050,Rwanda
+55053,Guyana
+55064,Ethiopia
+55072,Nigeria
+55083,South Africa
+55085,Rwanda
+55087,Nigeria
+55093,South Africa
+55138,South Sudan
+55159,Zambia
+55160,South Africa
+55180,Uganda
+55188,Tanzania
+55206,Pakistan
+55220,South Africa
+55225,South Africa
+55238,Vietnam
+55253,South Africa
+55297,Vietnam
+55304,Vietnam
+55322,South Africa
+55331,South Africa
+55376,Vietnam
+55401,Tanzania
+55453,Rwanda
+55474,Côte d'Ivoire
+55504,Ethiopia
+55518,Tanzania
+55520,Ethiopia
+55522,South Africa
+55568,South Africa
+55643,Vietnam
+55679,Tanzania
+55706,Haiti
+55712,Vietnam
+55715,Mozambique
+55716,South Africa
+55730,Mozambique
+55737,Tanzania
+55764,Namibia
+55765,South Africa
+55783,Rwanda
+55814,Sudan
+55862,Haiti
+55890,South Africa
+55894,Nigeria
+55904,Tanzania
+55914,Nigeria
+55922,South Africa
+56005,Haiti
+56016,South Sudan
+56022,South Africa
+56029,Rwanda
+56057,Nigeria
+56084,Zambia
+56106,Tanzania
+56107,Vietnam
+56118,South Africa
+56125,Cameroon
+56165,Côte d'Ivoire
+56167,South Africa
+56194,Zimbabwe
+56234,Kenya
+56301,"Congo, DRC"
+56310,South Africa
+56320,South Africa
+56331,Haiti
+56332,Côte d'Ivoire
+56335,Mozambique
+56367,South Sudan
+56395,South Africa
+56416,Uganda
+56464,South Africa
+56465,South Africa
+56468,Cameroon
+56487,Zambia
+56495,Nigeria
+56496,Guyana
+56505,South Africa
+56520,Sudan
+56524,Mozambique
+58808,Vietnam
+56550,Tanzania
+56637,Côte d'Ivoire
+56668,Vietnam
+56679,South Africa
+56716,Vietnam
+56734,South Africa
+56748,Uganda
+56772,Vietnam
+56836,Vietnam
+56837,Haiti
+56844,Zambia
+56861,Haiti
+56864,Haiti
+56870,South Africa
+56880,Nigeria
+56898,Sudan
+56899,Tanzania
+56902,South Africa
+56906,Uganda
+56919,South Africa
+56927,Nigeria
+56932,Cameroon
+56940,Uganda
+56950,South Africa
+56957,Vietnam
+64589,Uganda
+56962,Mozambique
+56996,Zimbabwe
+57016,Côte d'Ivoire
+57055,Nigeria
+57087,Uganda
+57117,South Africa
+57173,Côte d'Ivoire
+57218,Vietnam
+57257,South Africa
+57266,Kenya
+57308,South Africa
+57339,South Africa
+57344,South Africa
+57346,Cameroon
+57377,South Africa
+57379,Vietnam
+57392,Uganda
+57394,Swaziland
+57447,Vietnam
+57449,Vietnam
+57493,Côte d'Ivoire
+57513,Angola
+57537,South Africa
+57538,South Africa
+57540,"Congo, DRC"
+57541,Mozambique
+57582,Vietnam
+57590,Uganda
+57596,Swaziland
+57637,Rwanda
+57661,Sudan
+57701,South Sudan
+57727,Botswana
+57733,Haiti
+57738,Cameroon
+57747,Haiti
+57754,South Africa
+57779,Haiti
+57780,Mozambique
+57812,Vietnam
+57819,Vietnam
+57826,Vietnam
+57849,Tanzania
+57852,South Africa
+57862,South Africa
+57866,Uganda
+57876,South Africa
+57886,South Africa
+57902,Côte d'Ivoire
+57905,South Africa
+57909,South Africa
+57928,Zambia
+57959,Côte d'Ivoire
+57977,Haiti
+57997,Tanzania
+58025,Dominican Republic
+58039,Vietnam
+58064,Vietnam
+58111,South Africa
+58134,Nigeria
+58173,South Africa
+58192,South Africa
+58197,Nigeria
+58202,Vietnam
+58211,Côte d'Ivoire
+58252,South Sudan
+58264,Vietnam
+58277,Côte d'Ivoire
+58305,Tanzania
+58309,Burundi
+58311,Côte d'Ivoire
+58372,Côte d'Ivoire
+58393,Liberia
+58398,Tanzania
+58425,South Africa
+58426,Sierra Leone
+58440,South Africa
+58450,South Africa
+58482,South Africa
+58484,Cameroon
+58485,South Africa
+58491,"Congo, DRC"
+58850,South Africa
+58494,Uganda
+58504,South Africa
+58508,Vietnam
+58555,Vietnam
+58556,South Africa
+58642,Sudan
+58652,Haiti
+58677,"Congo, DRC"
+58713,South Africa
+58716,Uganda
+58731,South Africa
+58744,Vietnam
+58754,South Sudan
+58761,South Africa
+58774,Vietnam
+58800,South Africa
+58801,Côte d'Ivoire
+58806,South Africa
+58852,South Africa
+58918,South Africa
+58947,Zimbabwe
+58958,Tanzania
+59017,Botswana
+59043,"Congo, DRC"
+59046,South Africa
+59047,Haiti
+59074,South Africa
+59080,Zambia
+59151,South Africa
+59153,Vietnam
+59157,Zambia
+59189,Vietnam
+59244,Haiti
+59258,Nigeria
+59267,Vietnam
+59314,South Africa
+59334,South Africa
+59404,Mozambique
+59429,Zimbabwe
+59442,Rwanda
+59448,Vietnam
+59466,South Africa
+59482,Vietnam
+59500,South Africa
+59502,Botswana
+59530,South Africa
+59566,South Africa
+59572,South Africa
+59624,South Africa
+59633,Haiti
+59673,Vietnam
+59698,South Africa
+59704,South Africa
+59715,"Congo, DRC"
+59743,Malawi
+59750,Mozambique
+59776,Zambia
+59805,Vietnam
+59847,South Africa
+59849,Zimbabwe
+59867,Côte d'Ivoire
+59873,Vietnam
+59894,South Africa
+59896,Uganda
+59917,South Africa
+59919,South Africa
+59928,Vietnam
+59970,South Africa
+59973,Namibia
+59991,Zambia
+59994,South Africa
+60000,Vietnam
+60004,South Africa
+60005,Tanzania
+60023,Haiti
+60026,South Africa
+60074,Haiti
+60084,Zimbabwe
+60104,Côte d'Ivoire
+60105,South Africa
+60109,Zimbabwe
+60112,Uganda
+60160,Haiti
+60168,South Africa
+60261,Guyana
+60273,Haiti
+60286,Côte d'Ivoire
+60299,South Africa
+60316,Haiti
+60321,"Congo, DRC"
+60357,South Sudan
+60359,Burundi
+60375,South Africa
+60391,South Africa
+60401,Tanzania
+60439,South Africa
+60450,Kenya
+60489,Ethiopia
+60502,South Africa
+60545,Botswana
+60547,Ethiopia
+60573,South Africa
+60626,Vietnam
+60690,Haiti
+60702,Côte d'Ivoire
+60778,Tanzania
+60779,South Africa
+60811,Uganda
+60812,Haiti
+71893,Haiti
+60816,South Africa
+60818,Tanzania
+60840,South Africa
+60841,Rwanda
+60866,South Africa
+60937,Zambia
+60964,South Africa
+60966,Liberia
+60978,South Africa
+60994,Sudan
+61009,South Africa
+61090,Côte d'Ivoire
+61105,Mozambique
+61111,Uganda
+61186,South Africa
+61190,Vietnam
+61191,Haiti
+61271,Uganda
+61274,South Africa
+61281,Rwanda
+61282,Ghana
+61286,Nigeria
+61306,Zambia
+61354,South Africa
+61364,Zimbabwe
+61396,Dominican Republic
+61403,Côte d'Ivoire
+61416,South Africa
+61417,South Africa
+61418,Uganda
+61436,Uganda
+61473,South Africa
+61493,Dominican Republic
+61501,South Africa
+61518,"Congo, DRC"
+61520,Rwanda
+61521,Haiti
+61546,Ethiopia
+61550,Haiti
+61563,Vietnam
+61595,Côte d'Ivoire
+61612,Haiti
+61614,South Africa
+61623,Haiti
+61658,South Africa
+61659,South Africa
+61664,Kenya
+61675,Zambia
+61676,Sudan
+61694,South Africa
+61696,Vietnam
+61697,South Africa
+61715,Rwanda
+61720,Tanzania
+64186,Cameroon
+61737,Vietnam
+61749,Mozambique
+61754,Zambia
+61779,Mozambique
+61783,Tanzania
+61811,South Africa
+61852,Guyana
+61864,Côte d'Ivoire
+61871,Dominican Republic
+61882,South Africa
+61896,Mali
+61913,South Sudan
+61959,Uganda
+61980,Haiti
+61993,Mozambique
+61998,Ethiopia
+62024,Vietnam
+62032,"Congo, DRC"
+62037,Vietnam
+62046,Côte d'Ivoire
+62047,South Africa
+62059,Côte d'Ivoire
+62077,Haiti
+62079,Malawi
+62107,Vietnam
+62113,Côte d'Ivoire
+62116,Zambia
+62152,Côte d'Ivoire
+62158,South Africa
+62159,Haiti
+62164,South Africa
+62168,South Africa
+62169,Zambia
+62173,Tanzania
+62194,Vietnam
+62227,South Africa
+62228,Nigeria
+62235,Côte d'Ivoire
+62253,Uganda
+62256,South Africa
+62295,Haiti
+62319,Uganda
+62322,Angola
+62370,South Africa
+62390,South Africa
+62400,Rwanda
+62403,"Congo, DRC"
+62413,Vietnam
+62421,South Africa
+62433,Mozambique
+62476,Cameroon
+62516,Vietnam
+62521,Côte d'Ivoire
+62549,South Africa
+62555,Côte d'Ivoire
+62577,Kenya
+62586,Uganda
+62594,South Africa
+62603,South Africa
+62634,Vietnam
+62657,"Congo, DRC"
+62662,South Sudan
+62709,Vietnam
+62712,Uganda
+62730,South Africa
+62761,Côte d'Ivoire
+62795,South Africa
+62801,South Africa
+62808,South Africa
+62814,Zambia
+62830,Cameroon
+62853,South Africa
+62879,Dominican Republic
+62935,Rwanda
+62942,Mozambique
+62948,Vietnam
+62968,Vietnam
+62980,Haiti
+62987,Malawi
+62988,South Africa
+62990,Vietnam
+63044,Vietnam
+63047,South Africa
+63064,Nigeria
+63073,Zimbabwe
+63106,Cameroon
+63111,Mali
+63174,Haiti
+63175,Rwanda
+63186,Rwanda
+63228,South Africa
+63234,Sudan
+63273,Tanzania
+63274,Vietnam
+63289,Cameroon
+63292,Vietnam
+63296,Botswana
+63297,Haiti
+63308,South Africa
+63355,Ghana
+63362,South Africa
+63401,Uganda
+63409,Ethiopia
+63412,Côte d'Ivoire
+63419,Swaziland
+63432,Côte d'Ivoire
+63438,Tanzania
+63466,South Africa
+63468,South Africa
+63486,Vietnam
+63502,Haiti
+63537,Nigeria
+63555,Côte d'Ivoire
+63561,Zimbabwe
+63568,South Sudan
+63571,Tanzania
+63576,"Congo, DRC"
+63579,South Sudan
+63582,South Africa
+63608,Kenya
+63620,Uganda
+63648,Haiti
+63652,Tanzania
+63697,South Africa
+63719,Uganda
+63749,Nigeria
+63757,Mozambique
+63782,South Africa
+63802,South Africa
+63807,Côte d'Ivoire
+63817,Haiti
+63826,Côte d'Ivoire
+63894,Côte d'Ivoire
+63907,Guatemala
+63915,Vietnam
+63939,Côte d'Ivoire
+63956,Namibia
+63988,"Congo, DRC"
+63998,Cameroon
+64003,Côte d'Ivoire
+64004,Haiti
+64020,South Africa
+64021,Botswana
+64051,Rwanda
+64087,Nigeria
+64108,Nigeria
+64183,Mozambique
+64208,Vietnam
+64218,Namibia
+64238,Haiti
+64262,Nigeria
+64304,Haiti
+64319,Nigeria
+64320,Swaziland
+64329,Côte d'Ivoire
+64335,Mozambique
+64351,South Africa
+64352,Uganda
+64363,Mozambique
+64367,Sudan
+64369,Zimbabwe
+64371,South Africa
+64377,Vietnam
+64405,South Africa
+64427,"Congo, DRC"
+64438,Vietnam
+64452,Haiti
+64493,Kenya
+64506,Mozambique
+64545,Nigeria
+64553,Rwanda
+64558,Uganda
+64588,Côte d'Ivoire
+64594,Haiti
+64603,"Congo, DRC"
+64615,Uganda
+64617,South Africa
+64635,Haiti
+64660,Guyana
+64664,South Africa
+64667,South Sudan
+64685,Guyana
+64709,Haiti
+64724,Uganda
+64757,Haiti
+64824,Nigeria
+64832,"Congo, DRC"
+64850,South Africa
+64864,Ethiopia
+64903,South Africa
+64904,Nigeria
+64913,"Congo, DRC"
+64936,Vietnam
+64946,Ghana
+64989,South Sudan
+64995,Nigeria
+65002,Haiti
+65005,Rwanda
+65033,Vietnam
+65037,South Africa
+65049,Haiti
+65050,Nigeria
+66094,Nigeria
+65081,Vietnam
+65091,Zimbabwe
+65095,Kenya
+65111,Guyana
+65120,Guyana
+65132,Botswana
+65156,"Congo, DRC"
+65165,South Africa
+65180,Dominican Republic
+65186,Vietnam
+65191,Tanzania
+65219,Zimbabwe
+65235,Rwanda
+65238,Ethiopia
+65241,Malawi
+65243,Haiti
+65261,Nigeria
+65263,Vietnam
+65274,Cameroon
+65280,South Africa
+65291,Ethiopia
+65308,Nigeria
+65314,South Africa
+65323,Tanzania
+65331,Haiti
+65349,South Africa
+65359,South Africa
+65363,Ethiopia
+65370,South Africa
+65381,Zimbabwe
+65408,Zambia
+65436,South Africa
+65450,Nigeria
+65452,Burundi
+65458,South Africa
+65478,Côte d'Ivoire
+65484,Vietnam
+65487,South Africa
+65545,South Africa
+65548,South Africa
+65555,Tanzania
+65574,Haiti
+65579,Tanzania
+65588,Vietnam
+65601,Botswana
+65609,Mozambique
+65617,Tanzania
+65619,South Africa
+65621,Ethiopia
+65630,South Africa
+65640,Namibia
+65675,Tanzania
+65688,Guyana
+65693,South Africa
+65699,Côte d'Ivoire
+65709,Uganda
+65716,Haiti
+65717,South Africa
+65732,Tanzania
+65748,Vietnam
+65780,Rwanda
+65799,South Africa
+65803,South Africa
+65836,Nigeria
+65849,South Africa
+65940,Haiti
+65978,Vietnam
+65987,Vietnam
+66000,Rwanda
+66030,South Africa
+66062,Vietnam
+66073,South Africa
+66100,Ghana
+66123,South Africa
+66145,South Africa
+66175,Vietnam
+66205,Haiti
+66207,Uganda
+66218,South Africa
+66233,Côte d'Ivoire
+66236,Uganda
+66257,South Africa
+66264,Vietnam
+66277,Uganda
+66278,Vietnam
+66307,Vietnam
+66323,Mozambique
+66333,South Africa
+66338,South Africa
+66349,South Sudan
+66352,South Africa
+66355,Tanzania
+66371,Tanzania
+66373,Guyana
+66374,South Africa
+66383,Uganda
+66420,Zambia
+66431,Uganda
+66438,Haiti
+66448,Côte d'Ivoire
+66449,Vietnam
+66500,South Africa
+66508,Vietnam
+66522,South Africa
+66578,South Sudan
+66585,Nigeria
+66609,Vietnam
+66626,Uganda
+66641,South Africa
+66663,Nigeria
+66669,Vietnam
+66680,Vietnam
+66690,South Africa
+66713,Vietnam
+66762,Côte d'Ivoire
+66768,Uganda
+66782,Guinea
+66792,Vietnam
+66809,Vietnam
+66811,Guyana
+66840,Tanzania
+66891,Cameroon
+66925,Vietnam
+66946,"Congo, DRC"
+66967,South Africa
+66992,Guyana
+67011,Zimbabwe
+67022,Vietnam
+67023,Guyana
+67043,Nigeria
+67057,Rwanda
+67069,South Africa
+67077,Vietnam
+67090,Haiti
+67091,"Congo, DRC"
+67134,South Africa
+67142,Côte d'Ivoire
+67150,Namibia
+67153,Uganda
+67159,Malawi
+67191,Uganda
+67194,Zimbabwe
+67195,Guyana
+67199,South Africa
+67203,South Africa
+67225,South Sudan
+70259,Cameroon
+67244,Rwanda
+67248,South Africa
+67263,Tanzania
+67300,Mozambique
+67308,Rwanda
+67321,Côte d'Ivoire
+67372,Botswana
+67389,Vietnam
+67448,South Africa
+67449,"Congo, DRC"
+67476,South Africa
+67501,Ethiopia
+67509,Tanzania
+67526,South Africa
+67541,Nigeria
+67551,Mozambique
+67562,Tanzania
+67597,"Congo, DRC"
+67600,Zambia
+67614,South Sudan
+67634,South Africa
+67654,South Africa
+67661,Guyana
+67666,South Africa
+67703,Côte d'Ivoire
+67717,Vietnam
+67720,South Sudan
+67739,Côte d'Ivoire
+67753,Tanzania
+67759,South Africa
+67769,Dominican Republic
+67776,Vietnam
+67806,Rwanda
+67854,Vietnam
+67864,Tanzania
+67868,Côte d'Ivoire
+67917,South Africa
+67925,South Africa
+67980,Nigeria
+68007,Zimbabwe
+68050,Vietnam
+68096,Vietnam
+68110,South Africa
+68116,South Africa
+68117,South Africa
+68126,Tanzania
+68128,South Sudan
+68138,Tanzania
+68186,Tanzania
+68207,South Africa
+68219,Côte d'Ivoire
+68230,Vietnam
+68231,South Africa
+68241,Rwanda
+68268,Ethiopia
+68281,South Africa
+68341,South Africa
+68361,Vietnam
+68367,Rwanda
+68389,South Africa
+68397,Uganda
+68401,Uganda
+68437,Mozambique
+68457,South Africa
+68462,Rwanda
+68481,Côte d'Ivoire
+68482,Haiti
+68494,Vietnam
+68496,Haiti
+68508,Tanzania
+68515,Côte d'Ivoire
+68553,Vietnam
+68572,Tanzania
+68577,"Congo, DRC"
+68583,South Sudan
+68596,Vietnam
+68627,South Africa
+68641,South Africa
+68647,South Africa
+68651,Mozambique
+68662,Cameroon
+68675,South Africa
+68680,Vietnam
+68735,Tanzania
+68752,"Congo, DRC"
+68779,Vietnam
+68785,Vietnam
+68820,Rwanda
+68846,Uganda
+68872,Uganda
+68875,South Africa
+68878,Ethiopia
+68893,South Africa
+68937,Uganda
+68938,Côte d'Ivoire
+68949,Zimbabwe
+68993,South Africa
+68998,Ethiopia
+69006,Zambia
+69009,South Africa
+69051,Nigeria
+69086,Zimbabwe
+69148,Tanzania
+69162,"Congo, DRC"
+69179,South Africa
+69198,Botswana
+69202,"Congo, DRC"
+69208,Haiti
+69219,Rwanda
+69235,South Africa
+69253,Vietnam
+69301,Vietnam
+69314,Mozambique
+69354,South Africa
+69366,Ethiopia
+69376,South Africa
+69461,South Africa
+69463,Haiti
+69483,South Africa
+69493,Vietnam
+69505,South Africa
+69528,Nigeria
+69572,Cameroon
+69591,Uganda
+69606,"Congo, DRC"
+69630,South Africa
+69647,Uganda
+69657,"Congo, DRC"
+69659,Haiti
+69667,South Africa
+69683,Tanzania
+69701,Vietnam
+69754,Zambia
+69767,Vietnam
+69783,Haiti
+69790,Uganda
+69871,Vietnam
+69875,South Africa
+69881,Haiti
+69898,South Sudan
+69900,Côte d'Ivoire
+69903,Zimbabwe
+69908,South Africa
+69922,"Congo, DRC"
+69925,Kenya
+69952,Nigeria
+69968,South Africa
+70014,South Africa
+70029,Vietnam
+70041,Rwanda
+70044,Uganda
+70131,Vietnam
+70138,South Africa
+70144,South Sudan
+70162,Zimbabwe
+70184,South Africa
+70207,Vietnam
+70210,Vietnam
+70211,South Africa
+70212,Botswana
+70219,Nigeria
+70230,Rwanda
+70236,Guatemala
+70260,South Africa
+70299,South Africa
+70309,Burundi
+70329,South Africa
+70356,South Africa
+70366,Côte d'Ivoire
+70368,South Africa
+70374,Haiti
+70404,Vietnam
+70461,Rwanda
+70471,South Africa
+70486,Vietnam
+70505,Uganda
+70508,South Africa
+70511,Côte d'Ivoire
+70516,Nigeria
+70526,Vietnam
+70531,Haiti
+70553,Haiti
+70554,Haiti
+70559,Vietnam
+70573,South Africa
+70577,Vietnam
+70582,"Congo, DRC"
+70614,Uganda
+70619,Vietnam
+70714,Nigeria
+70733,Vietnam
+70750,South Sudan
+70763,Vietnam
+70788,Nigeria
+70795,Tanzania
+70797,South Africa
+70812,Tanzania
+70813,Vietnam
+70823,Uganda
+70844,South Sudan
+70912,Rwanda
+70978,Uganda
+70979,Rwanda
+70981,Kenya
+70991,South Africa
+71001,Zambia
+71009,Liberia
+71012,Botswana
+71016,Ghana
+71045,South Sudan
+71060,South Africa
+71064,Rwanda
+71076,South Africa
+71096,South Africa
+71111,Rwanda
+71116,Haiti
+71150,Tanzania
+71167,Nigeria
+71180,Zimbabwe
+71219,Swaziland
+71237,Zambia
+71241,Cameroon
+71244,South Africa
+71245,Vietnam
+71263,Namibia
+71284,Nigeria
+71293,Rwanda
+71308,Botswana
+71309,South Sudan
+71316,Vietnam
+71320,Haiti
+71323,Kenya
+71382,Nigeria
+71386,Nigeria
+71388,South Africa
+71391,Namibia
+71402,Haiti
+71411,Zimbabwe
+71439,South Africa
+71462,South Africa
+71469,Rwanda
+71477,Vietnam
+71487,Nigeria
+71516,South Africa
+71518,Vietnam
+71532,"Congo, DRC"
+71536,Vietnam
+71554,Ghana
+71574,South Sudan
+71594,"Congo, DRC"
+71606,South Africa
+71649,South Africa
+71655,Dominican Republic
+71672,Nigeria
+71712,Haiti
+71753,South Africa
+71767,Vietnam
+71773,Uganda
+71784,Vietnam
+71809,South Africa
+71840,Côte d'Ivoire
+71878,Haiti
+71909,Côte d'Ivoire
+71917,Rwanda
+71920,Vietnam
+71936,Vietnam
+71956,Haiti
+71965,Zimbabwe
+71971,Vietnam
+72047,South Africa
+72049,Uganda
+72066,South Africa
+72085,Rwanda
+72088,South Africa
+72142,Rwanda
+72150,South Africa
+72158,Tanzania
+72193,South Africa
+72239,South Sudan
+72240,Nigeria
+72241,Rwanda
+72256,Haiti
+72263,South Africa
+72281,Namibia
+72291,Rwanda
+72293,Zambia
+72300,Haiti
+72336,Kenya
+72377,Zambia
+72420,South Africa
+72424,South Africa
+72425,South Africa
+73301,Uganda
+72426,"Congo, DRC"
+72445,Côte d'Ivoire
+72454,Kenya
+72467,Burkina Faso
+72485,Kenya
+72492,Nigeria
+72535,Haiti
+72538,Uganda
+72546,Vietnam
+72557,Uganda
+72572,Botswana
+72586,Mozambique
+72597,South Africa
+72625,Haiti
+72639,Côte d'Ivoire
+72695,Rwanda
+72698,Vietnam
+72719,Côte d'Ivoire
+74707,Ghana
+72767,Haiti
+72770,"Congo, DRC"
+72776,Guyana
+72821,South Sudan
+72832,Cameroon
+72836,Ghana
+72885,Mozambique
+72892,South Africa
+72914,Namibia
+72918,South Africa
+72922,Tanzania
+72933,Ghana
+72948,South Africa
+72976,Tanzania
+72981,South Africa
+72988,"Congo, DRC"
+73003,Vietnam
+73018,South Africa
+73056,Mozambique
+73059,South Africa
+73079,Tanzania
+73087,Vietnam
+73089,Guyana
+73095,South Africa
+73115,Mozambique
+73122,Mozambique
+73145,Côte d'Ivoire
+73152,Haiti
+73176,South Africa
+73177,Vietnam
+73211,Uganda
+73220,South Africa
+73239,Vietnam
+73261,South Africa
+73275,South Africa
+73287,South Africa
+73314,Mozambique
+73326,South Africa
+73335,Nigeria
+73348,Zimbabwe
+73360,Vietnam
+73373,"Congo, DRC"
+73379,South Africa
+73403,Afghanistan
+73507,Mozambique
+73567,Nigeria
+73569,Vietnam
+73585,South Africa
+73596,Nigeria
+73607,Côte d'Ivoire
+73661,South Africa
+73665,South Africa
+73675,Vietnam
+73724,Haiti
+73726,Haiti
+73727,Uganda
+73748,Tanzania
+73757,Zambia
+73776,"Congo, DRC"
+73782,Haiti
+73804,Vietnam
+73806,South Africa
+73807,South Africa
+73818,Côte d'Ivoire
+73843,South Africa
+73861,Vietnam
+73867,South Sudan
+73906,Ghana
+73918,Zimbabwe
+73961,Uganda
+73986,Nigeria
+73996,Côte d'Ivoire
+74008,South Africa
+74035,South Africa
+74135,South Africa
+74156,South Sudan
+74178,Uganda
+74183,Burundi
+74213,South Africa
+74260,Uganda
+74268,Namibia
+74273,South Africa
+74288,Vietnam
+74320,Haiti
+74329,Cameroon
+74333,South Africa
+74337,South Africa
+74343,Ethiopia
+74357,Kenya
+74364,South Africa
+74385,South Sudan
+74398,South Africa
+74417,South Africa
+74419,"Congo, DRC"
+74439,Nigeria
+74465,Haiti
+74479,Ethiopia
+74492,Rwanda
+74499,Haiti
+74502,Haiti
+74517,Zimbabwe
+74540,Vietnam
+74569,South Africa
+74602,South Africa
+74609,Kenya
+74610,Vietnam
+74660,Rwanda
+74674,South Africa
+74683,Tanzania
+74694,South Africa
+74697,Vietnam
+74699,Vietnam
+74722,South Africa
+74729,Nigeria
+74732,Sudan
+74753,South Africa
+74771,South Africa
+74780,Côte d'Ivoire
+74786,Côte d'Ivoire
+74834,South Africa
+74838,Nigeria
+74858,Haiti
+74906,Haiti
+74915,Vietnam
+74930,Zambia
+74936,Vietnam
+74941,South Africa
+74965,Tanzania
+74993,South Africa
+75043,Rwanda
+75089,South Africa
+75091,Namibia
+75102,South Africa
+75114,Vietnam
+75122,Zimbabwe
+75136,Mozambique
+75139,Vietnam
+75153,Nigeria
+75177,South Africa
+75181,"Congo, DRC"
+75198,Ghana
+75202,"Congo, DRC"
+75229,Zambia
+75309,South Africa
+75331,South Africa
+75336,Vietnam
+75345,Côte d'Ivoire
+75352,Cameroon
+75373,South Sudan
+75422,Zambia
+75491,South Africa
+75494,Rwanda
+75502,Tanzania
+75522,Vietnam
+75534,Rwanda
+75554,Haiti
+75581,Vietnam
+75595,Haiti
+75623,Sudan
+75641,Tanzania
+75671,Haiti
+75682,Uganda
+75703,Tanzania
+75706,Ghana
+75717,Haiti
+75729,Nigeria
+75733,South Sudan
+75751,Vietnam
+75799,Ghana
+75810,Côte d'Ivoire
+75848,South Africa
+75879,Tanzania
+75882,Zimbabwe
+75912,Dominican Republic
+75913,South Africa
+75925,Cameroon
+75970,South Sudan
+75980,Kenya
+76004,South Sudan
+76063,Haiti
+76069,"Congo, DRC"
+76071,Mozambique
+76073,South Africa
+76087,Dominican Republic
+76097,Vietnam
+76112,Rwanda
+76113,Mozambique
+76135,Vietnam
+76136,Zambia
+76142,Tanzania
+76144,Mozambique
+76180,Zambia
+76189,South Africa
+76197,South Sudan
+76217,Mozambique
+76226,Haiti
+76227,South Sudan
+76263,South Africa
+76270,Rwanda
+76298,Kenya
+76318,Vietnam
+76319,South Africa
+76321,Vietnam
+76325,Tanzania
+76327,Vietnam
+76340,Côte d'Ivoire
+76374,Rwanda
+76409,Haiti
+76442,"Congo, DRC"
+76459,South Africa
+76483,Sudan
+76496,South Africa
+76505,Haiti
+76517,Vietnam
+76541,Dominican Republic
+76551,South Africa
+76559,Vietnam
+76578,South Africa
+76586,Nigeria
+76603,South Africa
+76619,Namibia
+76638,South Africa
+76712,Uganda
+76766,Zambia
+76772,South Africa
+76799,Vietnam
+76809,Nigeria
+76813,Haiti
+76827,Liberia
+76828,South Africa
+76833,Tanzania
+76840,South Africa
+76855,South Africa
+76881,Cameroon
+76914,Côte d'Ivoire
+76917,"Congo, DRC"
+76938,South Africa
+77038,Swaziland
+77044,South Africa
+77737,Rwanda
+77068,South Africa
+77070,South Africa
+77082,Haiti
+77712,Tanzania
+77090,South Sudan
+77092,South Africa
+77103,South Africa
+77113,Côte d'Ivoire
+77136,Tanzania
+77138,South Africa
+77152,Vietnam
+77181,Uganda
+77268,Ethiopia
+77293,South Africa
+77296,Rwanda
+77309,Sudan
+77310,Vietnam
+77324,Rwanda
+77413,Zambia
+77420,Burundi
+77735,Côte d'Ivoire
+77464,Vietnam
+77480,South Africa
+77494,Uganda
+77509,South Africa
+77517,South Sudan
+77519,Vietnam
+77546,Haiti
+77547,South Sudan
+77552,Nigeria
+77565,Cameroon
+77606,"Congo, DRC"
+77610,South Africa
+77651,Vietnam
+77659,South Africa
+77671,Ghana
+77677,Tanzania
+77750,Zimbabwe
+77751,South Sudan
+77772,Uganda
+77780,Uganda
+77781,South Africa
+77782,Botswana
+77901,Nigeria
+77910,South Africa
+77925,South Africa
+77926,South Africa
+77936,South Africa
+77941,"Congo, DRC"
+77952,Rwanda
+77964,Nigeria
+78026,Vietnam
+78050,Côte d'Ivoire
+78071,Vietnam
+78087,Cameroon
+78090,South Africa
+78096,Cameroon
+78103,Zimbabwe
+78116,Vietnam
+78120,Vietnam
+78140,Vietnam
+78150,Mali
+78152,Vietnam
+78184,Vietnam
+78198,Côte d'Ivoire
+78201,South Africa
+78220,South Africa
+78244,South Africa
+78261,Uganda
+78290,Côte d'Ivoire
+78301,South Africa
+78303,Côte d'Ivoire
+78311,Rwanda
+78314,Rwanda
+78329,Côte d'Ivoire
+78340,Vietnam
+78346,Vietnam
+78361,Haiti
+78362,"Congo, DRC"
+78368,South Africa
+78387,Uganda
+78395,Nigeria
+78397,Namibia
+78403,Haiti
+78407,South Africa
+78419,Zimbabwe
+78427,"Congo, DRC"
+78435,Namibia
+78479,Haiti
+78526,Cameroon
+78532,Botswana
+78550,South Africa
+78576,Côte d'Ivoire
+78589,Botswana
+78603,Vietnam
+78671,South Africa
+78698,South Africa
+78709,South Africa
+78714,Vietnam
+78715,South Africa
+78727,Rwanda
+78729,Vietnam
+78733,South Africa
+78767,Burundi
+78789,Ethiopia
+78805,Vietnam
+78818,Tanzania
+78839,Vietnam
+78846,Tanzania
+78909,Nigeria
+78946,Zimbabwe
+78949,Zimbabwe
+78985,Zambia
+79022,South Africa
+79064,South Africa
+79081,South Sudan
+79109,Zambia
+79111,South Africa
+79128,Uganda
+79141,Kenya
+79173,Vietnam
+79193,Haiti
+79232,Rwanda
+79236,Vietnam
+79271,South Africa
+79283,Vietnam
+79325,Côte d'Ivoire
+79352,Vietnam
+79361,South Africa
+79375,South Africa
+79424,Nigeria
+79445,Sudan
+79471,South Africa
+79491,Haiti
+79500,"Congo, DRC"
+79521,South Africa
+79597,Nigeria
+79618,Côte d'Ivoire
+79646,Tanzania
+79648,Haiti
+79679,Vietnam
+79701,Tanzania
+79710,Guatemala
+79747,South Africa
+79757,Vietnam
+79778,"Congo, DRC"
+79785,South Africa
+79791,South Africa
+79803,Nigeria
+79810,"Congo, DRC"
+79837,Côte d'Ivoire
+79841,Rwanda
+79861,Guyana
+79871,Nigeria
+79879,Côte d'Ivoire
+79885,Zimbabwe
+79890,Vietnam
+79910,South Africa
+79955,Mozambique
+80002,Haiti
+80005,Vietnam
+80019,South Africa
+80040,Vietnam
+80070,Vietnam
+80072,Vietnam
+80086,Cameroon
+80090,Nigeria
+80105,Uganda
+80112,Nigeria
+80114,Zambia
+80138,South Africa
+80141,Tanzania
+80167,Mozambique
+80175,Haiti
+80216,South Africa
+80217,South Africa
+80250,Vietnam
+80270,Mozambique
+80275,South Africa
+80299,Namibia
+80329,"Congo, DRC"
+80343,South Sudan
+80363,Uganda
+80394,"Congo, DRC"
+80399,Zimbabwe
+80423,Uganda
+80470,Vietnam
+80473,South Africa
+80526,Rwanda
+80528,South Africa
+80559,Uganda
+80616,Côte d'Ivoire
+80639,Haiti
+80665,Swaziland
+80668,Tanzania
+80688,Côte d'Ivoire
+80699,Nigeria
+80704,"Congo, DRC"
+80710,Uganda
+80730,Zimbabwe
+80767,South Africa
+80804,Zambia
+80819,Haiti
+80842,South Africa
+80860,Côte d'Ivoire
+80864,Zambia
+80872,Côte d'Ivoire
+80892,South Africa
+80918,South Africa
+80924,South Africa
+80925,South Africa
+81011,South Africa
+81018,Zimbabwe
+81020,Nigeria
+81031,Rwanda
+81050,Uganda
+81061,South Africa
+81077,Vietnam
+81083,Côte d'Ivoire
+81121,Côte d'Ivoire
+81132,Côte d'Ivoire
+81197,Botswana
+81200,South Africa
+81252,Kenya
+81253,South Africa
+81254,Haiti
+81293,Kenya
+81352,South Africa
+81358,Zimbabwe
+81361,South Africa
+81380,South Africa
+81396,Rwanda
+81405,Ghana
+81421,South Africa
+81450,Vietnam
+81454,Guatemala
+81456,Haiti
+81477,South Africa
+81495,Haiti
+81496,Vietnam
+81509,South Sudan
+81521,South Africa
+81535,Haiti
+81540,Côte d'Ivoire
+81579,Kenya
+81581,South Africa
+81603,Zambia
+81627,Vietnam
+81639,South Africa
+81651,Côte d'Ivoire
+81653,South Africa
+81698,Vietnam
+81700,South Africa
+81726,Vietnam
+81739,South Africa
+81747,Mozambique
+81753,Zimbabwe
+81757,Mozambique
+81767,Vietnam
+81769,South Africa
+81808,Haiti
+81823,Mozambique
+81854,South Africa
+81855,Ethiopia
+81888,Nigeria
+81909,Nigeria
+81920,Haiti
+81961,South Africa
+81968,Ethiopia
+81971,Guatemala
+81988,South Africa
+81990,South Africa
+82004,Guyana
+82005,South Africa
+82025,South Africa
+82047,South Africa
+82052,South Africa
+82275,Zambia
+82058,South Africa
+82062,South Africa
+82069,South Africa
+82105,Vietnam
+82125,Zimbabwe
+82128,South Africa
+82137,South Africa
+82148,South Sudan
+82159,Nigeria
+82172,Vietnam
+82177,Vietnam
+82203,Haiti
+82256,South Africa
+82271,Uganda
+82272,Nigeria
+82273,Côte d'Ivoire
+82274,Zimbabwe
+82276,Nigeria
+82277,Côte d'Ivoire
+82278,Côte d'Ivoire
+82279,Côte d'Ivoire
+82280,Uganda
+82281,Mozambique
+82282,Zambia
+82283,Uganda
+82284,Haiti
+82285,Mozambique
+82286,Haiti
+82289,Côte d'Ivoire
+82290,Haiti
+82291,Mozambique
+82292,Mozambique
+82293,Zambia
+82294,Mozambique
+82295,Uganda
+82296,Zimbabwe
+82297,Uganda
+82298,Côte d'Ivoire
+82299,Côte d'Ivoire
+82300,Nigeria
+82301,Nigeria
+82302,Nigeria
+82303,Nigeria
+82304,Nigeria
+82305,Nigeria
+82306,Nigeria
+82307,Nigeria
+82308,Nigeria
+82309,Nigeria
+82310,Nigeria
+82311,Uganda
+82312,Uganda
+82314,Zambia
+82315,Mozambique
+82335,Ethiopia
+82316,Uganda
+82317,Nigeria
+82318,Uganda
+82319,Uganda
+82320,Zimbabwe
+82321,Mozambique
+82322,Ethiopia
+82323,Nigeria
+82324,Nigeria
+82325,Zambia
+82326,Côte d'Ivoire
+82327,Côte d'Ivoire
+82328,Haiti
+82329,Côte d'Ivoire
+82330,Zambia
+82331,Zambia
+82332,Côte d'Ivoire
+82333,Côte d'Ivoire
+82334,Côte d'Ivoire
+82336,Nigeria
+82337,Nigeria
+82338,Nigeria
+82339,Nigeria
+82341,Rwanda
+82342,Tanzania
+82343,Tanzania
+82345,Nigeria
+82346,Nigeria
+82347,Côte d'Ivoire
+82349,Ethiopia
+82350,Côte d'Ivoire
+82351,Guyana
+82352,Zambia
+82353,Haiti
+82354,Mozambique
+82355,Guyana
+82356,Côte d'Ivoire
+82357,Côte d'Ivoire
+82358,Côte d'Ivoire
+82359,Mozambique
+82360,Dominican Republic
+82361,Côte d'Ivoire
+82362,Haiti
+82363,Zambia
+82364,Uganda
+82365,Ethiopia
+82366,Nigeria
+82367,Ethiopia
+82368,Côte d'Ivoire
+82369,Uganda
+82370,Uganda
+82371,Zimbabwe
+82372,Uganda
+82373,Ethiopia
+82374,Côte d'Ivoire
+82378,Zimbabwe
+82379,Haiti
+82380,Haiti
+82381,Uganda
+82382,Nigeria
+82383,Zimbabwe
+82384,Zimbabwe
+82385,Guyana
+82386,Ethiopia
+82387,Nigeria
+82388,Zambia
+82389,Zimbabwe
+82390,Zimbabwe
+82391,Zambia
+82392,Uganda
+82393,Uganda
+82394,Zimbabwe
+82395,Côte d'Ivoire
+82397,Mozambique
+82398,Uganda
+82399,Uganda
+82401,Côte d'Ivoire
+82402,Guyana
+82403,Nigeria
+82404,Nigeria
+82405,Nigeria
+82406,Nigeria
+82407,Swaziland
+82408,Swaziland
+82409,Haiti
+82410,Swaziland
+82411,Uganda
+82412,Tanzania
+82413,Mozambique
+82414,Nigeria
+82415,Nigeria
+82416,Mozambique
+82417,Côte d'Ivoire
+82418,Zambia
+82457,South Sudan
+82419,Mozambique
+82420,Tanzania
+82421,Tanzania
+82422,Nigeria
+82423,Nigeria
+82424,Côte d'Ivoire
+82425,Nigeria
+82426,Nigeria
+82427,Côte d'Ivoire
+82428,Nigeria
+82429,"Congo, DRC"
+82430,Tanzania
+82431,Zambia
+82432,"Congo, DRC"
+82433,"Congo, DRC"
+82434,"Congo, DRC"
+82435,"Congo, DRC"
+82436,"Congo, DRC"
+82496,Nigeria
+82437,"Congo, DRC"
+82438,"Congo, DRC"
+82439,"Congo, DRC"
+82440,"Congo, DRC"
+82441,"Congo, DRC"
+82442,"Congo, DRC"
+82443,"Congo, DRC"
+82444,Zambia
+82445,Mozambique
+82446,"Congo, DRC"
+82447,"Congo, DRC"
+82448,Zambia
+82449,Tanzania
+82450,Côte d'Ivoire
+82451,Tanzania
+82452,Côte d'Ivoire
+82453,Tanzania
+82454,Nigeria
+82455,Nigeria
+82456,Guyana
+82458,South Sudan
+82459,Nigeria
+82460,Nigeria
+82461,Rwanda
+82462,Uganda
+82463,Uganda
+82464,Uganda
+82465,Tanzania
+82466,Côte d'Ivoire
+82467,Zimbabwe
+82468,Burundi
+82486,Uganda
+82469,Nigeria
+82470,Nigeria
+82471,Uganda
+82472,Uganda
+82473,Uganda
+82474,Zimbabwe
+82497,Nigeria
+82475,Zambia
+82476,Zambia
+82477,Côte d'Ivoire
+82478,Mozambique
+82479,Nigeria
+82480,Nigeria
+82481,Zimbabwe
+82482,Zimbabwe
+82483,Zimbabwe
+82484,Côte d'Ivoire
+82485,Rwanda
+82487,Nigeria
+82489,Uganda
+82490,Uganda
+82491,Côte d'Ivoire
+82492,Côte d'Ivoire
+82493,Zambia
+82494,Nigeria
+82495,Uganda
+82498,Côte d'Ivoire
+82499,Zimbabwe
+82500,Mozambique
+82501,Côte d'Ivoire
+82502,Nigeria
+82503,Tanzania
+82504,Uganda
+82505,Zambia
+82506,Zambia
+82507,Côte d'Ivoire
+82508,Zambia
+82509,Uganda
+82510,Rwanda
+82511,South Sudan
+82512,Rwanda
+82513,Côte d'Ivoire
+82514,Zambia
+82515,Uganda
+82516,Côte d'Ivoire
+82518,Rwanda
+82519,Cameroon
+82520,Cameroon
+82522,Côte d'Ivoire
+82523,Côte d'Ivoire
+82524,Côte d'Ivoire
+82525,Nigeria
+82526,Uganda
+82527,Uganda
+82528,Mozambique
+82529,Zimbabwe
+82530,Zimbabwe
+82531,Nigeria
+82532,Uganda
+82533,Nigeria
+82534,Côte d'Ivoire
+82535,Côte d'Ivoire
+82536,Zimbabwe
+82537,Uganda
+82538,"Congo, DRC"
+82539,"Congo, DRC"
+82540,Zimbabwe
+82541,Nigeria
+82542,Uganda
+82544,Côte d'Ivoire
+82545,Côte d'Ivoire
+82546,Uganda
+82547,South Sudan
+82548,Nigeria
+82549,Zimbabwe
+82550,Zimbabwe
+82551,Zimbabwe
+82552,Zimbabwe
+82553,Uganda
+82554,Haiti
+82555,Haiti
+82556,Nigeria
+82557,Nigeria
+82558,Nigeria
+82559,Zimbabwe
+82560,Guyana
+82562,South Sudan
+82564,Zimbabwe
+82565,"Congo, DRC"
+82566,Guyana
+82567,South Sudan
+82568,Mozambique
+82569,Burundi
+82570,Uganda
+82571,South Sudan
+82572,Uganda
+82573,Mozambique
+82574,Nigeria
+82575,Uganda
+82577,Nigeria
+82578,Mozambique
+82582,Zambia
+82583,Tanzania
+82584,Nigeria
+82585,Nigeria
+82588,Cameroon
+82589,Cameroon
+82590,Burundi
+82591,Tanzania
+82593,Burundi
+82594,Uganda
+82595,"Congo, DRC"
+82596,"Congo, DRC"
+82597,Tanzania
+82599,Mozambique
+82600,Zimbabwe
+82601,Tanzania
+82602,Côte d'Ivoire
+82603,Guyana
+82604,Burundi
+82605,Burundi
+82606,Zimbabwe
+82611,Tanzania
+82612,Nigeria
+82613,"Congo, DRC"
+82617,Rwanda
+82618,Guyana
+82619,Guyana
+82620,"Congo, DRC"
+82621,Mozambique
+82622,Côte d'Ivoire
+82623,Côte d'Ivoire
+82625,Nigeria
+82626,Zimbabwe
+82627,Tanzania
+82629,Haiti
+82631,Rwanda
+82633,Mozambique
+82634,Mozambique
+82635,Zimbabwe
+82636,Zimbabwe
+82637,Zambia
+82639,Zimbabwe
+82640,Rwanda
+82641,Tanzania
+82645,Côte d'Ivoire
+82646,"Congo, DRC"
+82648,Mozambique
+82649,Mozambique
+82650,Tanzania
+82651,Côte d'Ivoire
+82653,Mozambique
+82654,"Congo, DRC"
+82655,Côte d'Ivoire
+82656,Tanzania
+82657,Uganda
+82661,"Congo, DRC"
+82662,Uganda
+82663,Mozambique
+82664,Zambia
+82665,Côte d'Ivoire
+82666,Côte d'Ivoire
+82667,Guyana
+82668,Rwanda
+82669,Mozambique
+82670,Zambia
+82671,Tanzania
+82672,Côte d'Ivoire
+82674,Zimbabwe
+82675,Tanzania
+82676,Côte d'Ivoire
+82677,Côte d'Ivoire
+82678,Côte d'Ivoire
+82680,Uganda
+82683,Mozambique
+82685,Tanzania
+82687,Zambia
+82688,Zimbabwe
+82691,Zambia
+82693,"Congo, DRC"
+82694,Nigeria
+82695,Nigeria
+82696,Nigeria
+82697,Zambia
+82698,Nigeria
+82699,Tanzania
+82700,Zambia
+82701,Zambia
+82702,Zimbabwe
+82703,Zimbabwe
+82704,Zimbabwe
+82705,Mozambique
+82706,South Sudan
+82707,"Congo, DRC"
+82708,"Congo, DRC"
+82709,"Congo, DRC"
+82710,Guyana
+82711,Guyana
+82712,Guyana
+82713,Mozambique
+82714,Côte d'Ivoire
+82721,Mozambique
+82723,Mozambique
+82724,Ethiopia
+82725,South Sudan
+82726,Mozambique
+82727,Nigeria
+82729,Namibia
+82730,South Sudan
+82731,Tanzania
+82732,Mozambique
+82733,Mozambique
+82735,Zambia
+82736,Burundi
+82739,Côte d'Ivoire
+82740,Zimbabwe
+82742,Zimbabwe
+82743,"Congo, DRC"
+82744,"Congo, DRC"
+82745,Zimbabwe
+82746,Zimbabwe
+82748,"Congo, DRC"
+82749,Nigeria
+82750,Nigeria
+82751,Nigeria
+82752,Nigeria
+82753,Uganda
+82754,Rwanda
+82755,Rwanda
+82756,Côte d'Ivoire
+82757,Mozambique
+82758,Rwanda
+82760,Mozambique
+82761,Rwanda
+82762,Guyana
+82763,Guyana
+82765,Côte d'Ivoire
+82766,Côte d'Ivoire
+82772,Rwanda
+82773,Uganda
+82774,Mozambique
+82779,Zimbabwe
+82781,Burundi
+82782,Rwanda
+82783,Rwanda
+82784,Rwanda
+82785,Nigeria
+82850,Zambia
+82786,Nigeria
+82787,Côte d'Ivoire
+82788,Togo
+82790,Côte d'Ivoire
+82791,Rwanda
+82792,Uganda
+82794,Zimbabwe
+82795,Nigeria
+82799,Zambia
+82800,Zambia
+82801,Côte d'Ivoire
+82802,Zambia
+82803,Nigeria
+82804,Côte d'Ivoire
+82805,"Congo, DRC"
+82806,"Congo, DRC"
+82808,Guyana
+82809,Uganda
+82810,Uganda
+82811,Uganda
+82812,Côte d'Ivoire
+82813,Zambia
+82815,Uganda
+82819,Nigeria
+82820,Rwanda
+82837,Nigeria
+82838,Nigeria
+82839,Nigeria
+82840,Côte d'Ivoire
+82841,Côte d'Ivoire
+82842,Haiti
+82843,Côte d'Ivoire
+82844,Côte d'Ivoire
+82845,Uganda
+82846,Uganda
+82847,Côte d'Ivoire
+82848,Nigeria
+82849,Haiti
+82851,Côte d'Ivoire
+82854,Côte d'Ivoire
+82855,Côte d'Ivoire
+82856,Sudan
+82857,Côte d'Ivoire
+82858,Côte d'Ivoire
+82859,Zimbabwe
+82860,Zimbabwe
+82861,Haiti
+82862,Côte d'Ivoire
+82863,Côte d'Ivoire
+82864,Ethiopia
+82865,Uganda
+82866,Nigeria
+82867,Nigeria
+82868,Nigeria
+82869,Uganda
+82870,Nigeria
+82871,Nigeria
+82872,Nigeria
+82873,Côte d'Ivoire
+82874,Uganda
+82875,Côte d'Ivoire
+82876,Uganda
+82877,Uganda
+82878,Uganda
+82879,Uganda
+82880,Nigeria
+82881,Nigeria
+82882,Uganda
+82883,Nigeria
+82884,Côte d'Ivoire
+82885,Nigeria
+82886,Côte d'Ivoire
+82887,Guyana
+82888,Ethiopia
+82889,Haiti
+82890,Haiti
+82891,Uganda
+82892,Ethiopia
+82893,Côte d'Ivoire
+82894,Haiti
+82895,Côte d'Ivoire
+82896,Côte d'Ivoire
+82897,Nigeria
+82898,Nigeria
+82899,Nigeria
+82900,Nigeria
+82901,Nigeria
+82902,Nigeria
+82903,Nigeria
+82904,Nigeria
+82905,Nigeria
+82906,Zimbabwe
+82907,Ethiopia
+82908,Haiti
+82909,Haiti
+82910,Côte d'Ivoire
+82911,Dominican Republic
+82912,Uganda
+82914,Uganda
+82915,Zambia
+82916,Côte d'Ivoire
+82917,Haiti
+82918,Guyana
+82919,Zimbabwe
+82920,Tanzania
+82921,Zambia
+82922,Côte d'Ivoire
+82923,Nigeria
+82924,Nigeria
+82925,Nigeria
+82926,Ethiopia
+82927,Côte d'Ivoire
+82928,Uganda
+82929,Ethiopia
+82931,Nigeria
+82932,Nigeria
+82933,Côte d'Ivoire
+82934,Côte d'Ivoire
+82935,Côte d'Ivoire
+82936,Uganda
+82937,Haiti
+82938,Mozambique
+82941,Zambia
+82942,Zimbabwe
+82943,Rwanda
+82944,Côte d'Ivoire
+82945,Nigeria
+82946,Zimbabwe
+82947,Ethiopia
+82948,Ethiopia
+82949,Zimbabwe
+82950,Zimbabwe
+82951,Nigeria
+82952,Nigeria
+82953,Nigeria
+82954,Benin
+82955,Mozambique
+82956,Côte d'Ivoire
+82958,Ghana
+82959,Haiti
+82960,Mozambique
+82961,Nigeria
+82962,Zambia
+82964,Uganda
+82965,Haiti
+82966,Zambia
+82967,Mozambique
+82968,Haiti
+82969,Haiti
+82970,Mozambique
+82971,Zimbabwe
+82972,Zimbabwe
+82973,Zambia
+82974,Zambia
+82975,Mozambique
+82976,Uganda
+82977,Zimbabwe
+82978,Haiti
+82979,Guyana
+82980,Nigeria
+82981,Nigeria
+82984,Zimbabwe
+82985,Mozambique
+82986,Zimbabwe
+82987,Mozambique
+82988,Côte d'Ivoire
+82989,Côte d'Ivoire
+82990,Rwanda
+82991,Rwanda
+82992,Zimbabwe
+82993,Zimbabwe
+82994,Uganda
+83053,Nigeria
+82995,Uganda
+82996,Uganda
+82997,Tanzania
+82998,Zambia
+82999,"Congo, DRC"
+83000,"Congo, DRC"
+83001,"Congo, DRC"
+83002,"Congo, DRC"
+83003,"Congo, DRC"
+83004,"Congo, DRC"
+83005,"Congo, DRC"
+83007,Guyana
+83008,"Congo, DRC"
+83009,Mozambique
+83010,Mozambique
+83011,Haiti
+83012,Tanzania
+83013,Tanzania
+83014,Tanzania
+83015,Zambia
+83016,Nigeria
+83017,Tanzania
+83018,Mozambique
+83019,Mozambique
+83020,Tanzania
+83021,Burundi
+83022,Haiti
+83023,Uganda
+83024,Mozambique
+83026,Côte d'Ivoire
+83027,Côte d'Ivoire
+83028,Nigeria
+83029,Libya
+83030,Dominican Republic
+83031,Zimbabwe
+83032,Zimbabwe
+83135,Burundi
+83033,Zimbabwe
+83034,Zimbabwe
+83037,Zambia
+83038,Uganda
+83039,Uganda
+83057,Uganda
+83040,"Congo, DRC"
+83041,Nigeria
+83042,Rwanda
+83043,Zimbabwe
+83044,Zimbabwe
+83045,"Congo, DRC"
+83046,"Congo, DRC"
+83047,Mozambique
+83048,Nigeria
+83049,Nigeria
+83050,Uganda
+83051,Nigeria
+83052,Nigeria
+83054,Nigeria
+83055,Rwanda
+83056,Uganda
+83059,"Congo, DRC"
+83060,Nigeria
+83061,Uganda
+83062,Uganda
+83063,Côte d'Ivoire
+83064,Nigeria
+83065,Rwanda
+83066,Uganda
+83067,Guyana
+83068,"Congo, DRC"
+83069,Nigeria
+83070,Nigeria
+83071,Zambia
+83072,Zambia
+83073,Zambia
+83074,Côte d'Ivoire
+83075,Uganda
+83076,Uganda
+83077,Rwanda
+83078,Rwanda
+83079,Rwanda
+83080,Rwanda
+83081,South Sudan
+83082,Uganda
+83083,Mozambique
+83084,Uganda
+83085,Rwanda
+83086,Cameroon
+83087,Cameroon
+83088,Cameroon
+83089,Zimbabwe
+83090,Zimbabwe
+83091,Côte d'Ivoire
+83092,Zambia
+83093,Côte d'Ivoire
+83094,Haiti
+83095,Zimbabwe
+83096,Nigeria
+83097,Côte d'Ivoire
+83098,Rwanda
+83099,Côte d'Ivoire
+83100,Tanzania
+83101,Uganda
+83102,"Congo, DRC"
+83103,Mozambique
+83107,Mozambique
+83108,"Congo, DRC"
+83109,Côte d'Ivoire
+83110,Côte d'Ivoire
+83111,Côte d'Ivoire
+83112,Uganda
+83113,Nigeria
+83114,Zimbabwe
+83136,Zimbabwe
+83115,Tanzania
+83116,Haiti
+83117,Haiti
+83118,Zambia
+83119,Côte d'Ivoire
+83120,Haiti
+83121,Guyana
+83122,Tanzania
+83123,Uganda
+83124,Uganda
+83125,Zimbabwe
+83126,Zimbabwe
+83128,Zimbabwe
+83129,Côte d'Ivoire
+83130,Mozambique
+83131,Zimbabwe
+83132,Dominican Republic
+83133,Burundi
+83134,Uganda
+83137,Nigeria
+83138,Mozambique
+83139,Uganda
+83140,Uganda
+83141,Nigeria
+83145,Uganda
+83146,Tanzania
+83147,Nigeria
+83148,Burundi
+83149,Uganda
+83150,Uganda
+83154,Uganda
+83155,Tanzania
+83156,Uganda
+83157,Tanzania
+83158,Mozambique
+83159,Cameroon
+83160,Tanzania
+83161,Nigeria
+83162,Côte d'Ivoire
+83163,Mozambique
+83164,Rwanda
+83165,Mozambique
+83172,Zambia
+83173,Zambia
+83174,Côte d'Ivoire
+83175,Mozambique
+83176,Burundi
+83177,Burundi
+83178,Uganda
+83180,Tanzania
+83181,Zimbabwe
+83182,Côte d'Ivoire
+83183,Côte d'Ivoire
+83184,Rwanda
+83185,Guyana
+83186,Mozambique
+83187,Mozambique
+83188,Nigeria
+83189,Nigeria
+83190,Nigeria
+83193,Zambia
+83194,Tanzania
+83195,Zimbabwe
+83196,Tanzania
+83198,Nigeria
+83199,Rwanda
+83200,Uganda
+83205,Uganda
+83206,Mozambique
+83207,Uganda
+83208,Nigeria
+83209,Côte d'Ivoire
+83210,Zimbabwe
+83212,"Congo, DRC"
+83213,"Congo, DRC"
+83216,Ghana
+83217,Rwanda
+83218,Rwanda
+83219,South Sudan
+83220,South Sudan
+83221,South Sudan
+83222,Guyana
+83223,Guyana
+83224,Haiti
+83225,Zimbabwe
+83226,Zimbabwe
+83227,Tanzania
+83228,Uganda
+83229,Rwanda
+83230,Côte d'Ivoire
+83231,Rwanda
+83481,Zambia
+83232,Mozambique
+83233,Zambia
+83234,Mozambique
+83235,Mozambique
+83236,Zambia
+83237,Côte d'Ivoire
+83238,Haiti
+83239,Nigeria
+83244,Côte d'Ivoire
+83245,Côte d'Ivoire
+83246,"Congo, DRC"
+83249,Tanzania
+83250,Côte d'Ivoire
+83254,Zambia
+83255,Mozambique
+83256,Mozambique
+83259,Nigeria
+83260,Côte d'Ivoire
+83262,Côte d'Ivoire
+83263,Tanzania
+83264,Zimbabwe
+83266,"Congo, DRC"
+83267,Mozambique
+83271,Zambia
+83272,Mozambique
+83273,Namibia
+83274,Nigeria
+83275,Namibia
+83277,Rwanda
+83278,Tanzania
+83279,Mozambique
+83283,Mozambique
+83284,Guyana
+83285,Zambia
+83286,"Congo, DRC"
+83287,"Congo, DRC"
+83482,Côte d'Ivoire
+83288,Uganda
+83289,Zambia
+83291,Uganda
+83292,Uganda
+83293,Rwanda
+83294,Nigeria
+83295,Mozambique
+83300,Rwanda
+83301,Rwanda
+83302,Côte d'Ivoire
+83303,Côte d'Ivoire
+83304,Mozambique
+83305,Uganda
+83306,Mozambique
+83308,Rwanda
+83309,Nigeria
+83310,Nigeria
+83316,Zimbabwe
+83318,Zimbabwe
+83322,Rwanda
+83324,"Congo, DRC"
+83326,Uganda
+83330,Mozambique
+83331,Zambia
+83332,Nigeria
+83333,Nigeria
+83334,Côte d'Ivoire
+83335,Uganda
+83336,Côte d'Ivoire
+83337,Nigeria
+83338,Nigeria
+83339,Zambia
+83340,Nigeria
+83341,Nigeria
+83342,South Sudan
+83347,Uganda
+83348,Côte d'Ivoire
+83349,Rwanda
+83368,Nigeria
+83369,Nigeria
+83370,Nigeria
+83371,Nigeria
+83372,Nigeria
+83373,Nigeria
+83374,Nigeria
+83375,Uganda
+83376,Côte d'Ivoire
+83377,Côte d'Ivoire
+83378,Uganda
+83379,Uganda
+83380,Côte d'Ivoire
+83381,Côte d'Ivoire
+83382,Uganda
+83383,Zambia
+83384,Nigeria
+83385,Haiti
+83386,Uganda
+83387,Haiti
+83388,Haiti
+83389,Haiti
+83425,Nigeria
+83390,Haiti
+83391,Nigeria
+83392,Uganda
+83393,Ethiopia
+83394,Uganda
+83395,Haiti
+83396,Côte d'Ivoire
+83398,Côte d'Ivoire
+83399,Zambia
+83400,Zambia
+83401,Zimbabwe
+83402,Tanzania
+83403,Haiti
+83404,Côte d'Ivoire
+83405,Côte d'Ivoire
+83406,Nigeria
+83407,Nigeria
+83408,Nigeria
+83409,Nigeria
+83410,Nigeria
+83411,Zimbabwe
+83412,Uganda
+83413,Uganda
+83414,Côte d'Ivoire
+83415,Côte d'Ivoire
+83416,Nigeria
+83417,Zambia
+83418,Nigeria
+83419,Guyana
+83420,Nigeria
+83421,Nigeria
+83422,Guyana
+83423,Uganda
+83424,Nigeria
+83426,Nigeria
+83427,Ethiopia
+83428,Tanzania
+83429,Haiti
+83430,Guyana
+83431,Côte d'Ivoire
+83432,Haiti
+83433,Côte d'Ivoire
+83434,Uganda
+83435,Côte d'Ivoire
+83436,Côte d'Ivoire
+83437,Nigeria
+83438,Zambia
+83439,Nigeria
+83440,Nigeria
+83441,Nigeria
+83442,Nigeria
+83443,Uganda
+83444,Uganda
+83445,Nigeria
+83446,Ethiopia
+83447,Nigeria
+83448,Mozambique
+83449,Nigeria
+83450,Côte d'Ivoire
+83451,Côte d'Ivoire
+83452,Côte d'Ivoire
+83453,Côte d'Ivoire
+83454,Uganda
+83455,Nigeria
+83456,Nigeria
+83457,Côte d'Ivoire
+83458,Haiti
+83459,Uganda
+83460,Nigeria
+83461,Zimbabwe
+83952,Nigeria
+83462,Côte d'Ivoire
+83463,Côte d'Ivoire
+83464,Côte d'Ivoire
+83465,Zambia
+83466,Uganda
+83467,Uganda
+83468,Côte d'Ivoire
+83469,Côte d'Ivoire
+83470,Dominican Republic
+83471,Dominican Republic
+83472,Zambia
+83473,Haiti
+83474,Haiti
+83475,Haiti
+83476,Ethiopia
+83477,Uganda
+83478,Guatemala
+83479,Mozambique
+83480,Mozambique
+83483,Côte d'Ivoire
+83484,Zambia
+83485,Haiti
+83486,Haiti
+83487,Côte d'Ivoire
+83488,Guyana
+83489,Guyana
+83490,Côte d'Ivoire
+83491,Côte d'Ivoire
+83492,Zambia
+83493,Uganda
+83494,Zambia
+83495,Tanzania
+83496,Nigeria
+83497,Zimbabwe
+83498,Zimbabwe
+83499,Uganda
+83500,Nigeria
+83501,Zambia
+83502,Zimbabwe
+83503,Nigeria
+83504,Nigeria
+83505,Nigeria
+83506,Nigeria
+83507,Benin
+83508,Zambia
+83509,Ghana
+83510,Tanzania
+83511,Mozambique
+83513,Zimbabwe
+83514,Zimbabwe
+83515,Uganda
+83517,Côte d'Ivoire
+83518,Zimbabwe
+83519,Zambia
+83520,Côte d'Ivoire
+83521,Haiti
+83522,Uganda
+83523,Ghana
+83524,Ghana
+83525,Zambia
+83526,Zimbabwe
+83527,Uganda
+83528,Uganda
+83529,Uganda
+83530,Côte d'Ivoire
+83531,Tanzania
+83532,Nigeria
+83533,Zimbabwe
+83534,Zimbabwe
+83536,Tanzania
+83537,Nigeria
+83538,Mozambique
+83539,Swaziland
+83540,Uganda
+83541,Zimbabwe
+83542,Haiti
+83543,Zambia
+83544,Nigeria
+83545,Nigeria
+83546,Tanzania
+83547,Uganda
+83548,Nigeria
+83549,Rwanda
+83550,Mozambique
+83551,Mozambique
+83552,Tanzania
+83553,Mozambique
+83554,Mozambique
+83555,"Congo, DRC"
+83556,"Congo, DRC"
+83557,Guyana
+83558,Guyana
+83559,"Congo, DRC"
+83626,South Sudan
+83560,"Congo, DRC"
+83561,"Congo, DRC"
+83562,"Congo, DRC"
+83563,"Congo, DRC"
+83564,"Congo, DRC"
+83565,"Congo, DRC"
+83566,Zimbabwe
+83567,"Congo, DRC"
+83568,Côte d'Ivoire
+83569,Côte d'Ivoire
+83570,Côte d'Ivoire
+83571,Côte d'Ivoire
+83572,Nigeria
+83573,Nigeria
+83574,Nigeria
+83575,Guyana
+83576,Mozambique
+83577,Burundi
+83578,Zimbabwe
+83579,Zambia
+83580,Uganda
+83581,Mozambique
+83583,Zimbabwe
+83584,Zambia
+83585,Rwanda
+83586,Tanzania
+83587,Burundi
+83588,Dominican Republic
+83589,Libya
+83590,Côte d'Ivoire
+83591,Mozambique
+83592,Uganda
+83643,Uganda
+83593,Zimbabwe
+83594,Côte d'Ivoire
+83595,Nigeria
+83596,Côte d'Ivoire
+83597,Côte d'Ivoire
+83598,Mozambique
+83599,Uganda
+83600,Nigeria
+83601,Zambia
+83602,Rwanda
+83603,Mozambique
+83604,Côte d'Ivoire
+83605,Rwanda
+83606,Tanzania
+83607,Nigeria
+83608,Nigeria
+83609,Uganda
+83610,Rwanda
+83611,Nigeria
+83612,Rwanda
+83613,Zimbabwe
+83614,Zimbabwe
+83615,Rwanda
+83616,Côte d'Ivoire
+83617,"Congo, DRC"
+83618,"Congo, DRC"
+83619,"Congo, DRC"
+83620,Zimbabwe
+83621,Zambia
+83622,Haiti
+83623,South Sudan
+83625,Côte d'Ivoire
+83627,Tanzania
+83628,Uganda
+83629,Zimbabwe
+83630,Tanzania
+83631,Tanzania
+83632,Nigeria
+83633,Nigeria
+83634,Nigeria
+83635,Zimbabwe
+83636,Uganda
+83637,Mozambique
+83638,Haiti
+83639,Zimbabwe
+83640,Nigeria
+83641,Côte d'Ivoire
+83642,Nigeria
+83644,Côte d'Ivoire
+83645,Zimbabwe
+83646,Angola
+83647,"Congo, DRC"
+83648,Nigeria
+83649,Nigeria
+83650,Uganda
+83651,Uganda
+83652,Zimbabwe
+83653,Côte d'Ivoire
+83654,Mozambique
+83655,Haiti
+83656,Haiti
+83657,Zimbabwe
+83658,Zimbabwe
+83659,Uganda
+83660,Haiti
+83661,Haiti
+83662,Haiti
+83663,Uganda
+83664,Zimbabwe
+83665,Guyana
+83666,Guyana
+83667,Côte d'Ivoire
+83668,Mozambique
+83670,Haiti
+83671,Burundi
+83672,Tanzania
+83673,Tanzania
+83674,Uganda
+83675,Uganda
+83676,Uganda
+83677,Uganda
+83678,South Sudan
+83679,South Sudan
+83680,Zimbabwe
+83681,Zimbabwe
+83682,Mozambique
+83683,Nigeria
+83684,Rwanda
+83685,Nigeria
+83686,Nigeria
+83687,Nigeria
+83688,Zambia
+83694,Tanzania
+83695,Tanzania
+83699,Uganda
+83700,Uganda
+83701,Côte d'Ivoire
+83702,Nigeria
+83704,Uganda
+83705,Uganda
+83706,Zambia
+83707,Uganda
+83708,Uganda
+83709,"Congo, DRC"
+83710,"Congo, DRC"
+83711,"Congo, DRC"
+83712,"Congo, DRC"
+83713,Tanzania
+83714,Uganda
+83715,Tanzania
+83716,Mozambique
+83717,Guyana
+83718,Mozambique
+83719,Zambia
+83720,Dominican Republic
+83726,Dominican Republic
+83727,Nigeria
+83728,Nigeria
+83730,Nigeria
+83731,Nigeria
+83732,Côte d'Ivoire
+83733,Mozambique
+83735,Uganda
+83736,Zimbabwe
+83738,Mozambique
+83739,Zambia
+83740,Nigeria
+83742,Côte d'Ivoire
+83743,Côte d'Ivoire
+83746,Tanzania
+83747,Mozambique
+83748,Mozambique
+83749,Nigeria
+83750,Nigeria
+83751,Rwanda
+83752,Mozambique
+83760,Rwanda
+83761,Tanzania
+83762,Mozambique
+83763,Côte d'Ivoire
+83764,Côte d'Ivoire
+83765,Côte d'Ivoire
+83766,Mozambique
+83767,Mozambique
+83768,"Congo, DRC"
+83771,Zambia
+83772,Mozambique
+83773,Tanzania
+83774,Guyana
+83775,Haiti
+83776,Haiti
+83777,Uganda
+83779,Tanzania
+83780,Nigeria
+83781,Guyana
+83782,Mozambique
+83783,Mozambique
+83784,Côte d'Ivoire
+83785,Guyana
+83787,Côte d'Ivoire
+83788,Haiti
+83789,Haiti
+83791,Côte d'Ivoire
+83792,Côte d'Ivoire
+83793,Zambia
+83795,Burundi
+83796,Burundi
+83797,Burundi
+83804,Burundi
+83806,Rwanda
+83808,Uganda
+83809,Zambia
+83810,Uganda
+83813,Ethiopia
+83815,Côte d'Ivoire
+83817,Mozambique
+83818,Rwanda
+83819,Nigeria
+83822,Guyana
+83823,Zimbabwe
+83824,Mozambique
+83825,"Congo, DRC"
+83826,South Sudan
+83827,South Sudan
+83828,"Congo, DRC"
+83829,Guyana
+83830,Rwanda
+83832,Côte d'Ivoire
+83833,Burundi
+83842,Zambia
+83843,Uganda
+83844,Uganda
+83845,"Congo, DRC"
+83876,Tanzania
+83847,Tanzania
+83848,Tanzania
+83849,Zimbabwe
+83850,Zimbabwe
+83853,Côte d'Ivoire
+83855,"Congo, DRC"
+83859,Zimbabwe
+83860,Rwanda
+83861,Mozambique
+83862,Mozambique
+84011,Uganda
+83864,Uganda
+83866,Côte d'Ivoire
+83867,Uganda
+83868,Uganda
+83869,Côte d'Ivoire
+83872,Mozambique
+83877,Mozambique
+83878,Uganda
+83879,Nigeria
+83880,Uganda
+83881,Uganda
+83882,Zambia
+83883,Mozambique
+83885,Nigeria
+83886,Nigeria
+83888,Zimbabwe
+83890,Côte d'Ivoire
+83891,Uganda
+83893,Zimbabwe
+83894,Burundi
+83897,Rwanda
+83898,Zimbabwe
+83899,Rwanda
+83900,Mozambique
+83901,Mozambique
+83903,Uganda
+83904,Uganda
+83905,Uganda
+83906,Burundi
+83907,Zimbabwe
+83908,Mozambique
+83909,Uganda
+83910,Nigeria
+83911,Côte d'Ivoire
+83912,"Congo, DRC"
+83913,"Congo, DRC"
+83914,South Sudan
+83915,Senegal
+83916,Burundi
+83917,Rwanda
+83919,Nigeria
+83920,Zimbabwe
+83921,Côte d'Ivoire
+83922,Cameroon
+83925,Zambia
+83926,Zambia
+83929,Zimbabwe
+83930,Nigeria
+83932,Rwanda
+83948,Nigeria
+83949,Nigeria
+83950,Nigeria
+83951,Nigeria
+83953,Nigeria
+83954,Nigeria
+83955,Mozambique
+83956,Zimbabwe
+83957,Zimbabwe
+83958,Haiti
+83959,Zambia
+83960,Uganda
+83961,Côte d'Ivoire
+83962,Côte d'Ivoire
+83963,Côte d'Ivoire
+83964,Haiti
+83965,Haiti
+83966,Zambia
+83967,Uganda
+83968,Nigeria
+83969,Zambia
+83970,Uganda
+83971,Vietnam
+83972,Haiti
+83973,Ethiopia
+83974,Côte d'Ivoire
+83975,Uganda
+83976,Côte d'Ivoire
+83977,Zambia
+83978,Zambia
+83979,Zambia
+83980,Zimbabwe
+83981,Côte d'Ivoire
+83982,Haiti
+83983,Haiti
+83984,Haiti
+83985,Uganda
+83986,Côte d'Ivoire
+83987,Nigeria
+83988,Nigeria
+83989,Nigeria
+83990,Nigeria
+83991,Nigeria
+83992,Uganda
+83993,Uganda
+83995,Rwanda
+83996,Nigeria
+83997,Nigeria
+83998,Guyana
+83999,Nigeria
+84000,Nigeria
+84001,Zambia
+84002,Zimbabwe
+84039,Côte d'Ivoire
+84003,Mozambique
+84004,Uganda
+84005,Zimbabwe
+84006,Uganda
+84007,Haiti
+84008,Uganda
+84009,Ethiopia
+84010,Rwanda
+84012,Zambia
+84013,Mozambique
+84014,Nigeria
+84015,Nigeria
+84016,Nigeria
+84017,Nigeria
+84018,Nigeria
+84019,Tanzania
+84020,Nigeria
+84021,Nigeria
+84022,Tanzania
+84023,Zimbabwe
+84024,Zimbabwe
+84025,Zimbabwe
+84026,Ethiopia
+84027,Nigeria
+84028,Haiti
+84029,Nigeria
+84030,Nigeria
+84031,Ethiopia
+84032,Côte d'Ivoire
+84033,Dominican Republic
+84034,Nigeria
+84035,Nigeria
+84038,Tanzania
+84040,Côte d'Ivoire
+84041,Côte d'Ivoire
+84042,Haiti
+84043,Guyana
+84044,Guyana
+84045,Zimbabwe
+84046,Guyana
+84047,Uganda
+84048,Uganda
+84049,Nigeria
+84050,Nigeria
+84051,Ethiopia
+84052,Zambia
+84053,Haiti
+84054,Côte d'Ivoire
+84055,Nigeria
+84178,Uganda
+84056,Uganda
+84057,Mozambique
+84058,Nigeria
+84059,Côte d'Ivoire
+84060,Ethiopia
+84061,Zambia
+84062,Zambia
+84063,Côte d'Ivoire
+84064,Zambia
+84065,Guyana
+84066,Côte d'Ivoire
+84067,Côte d'Ivoire
+84068,Tanzania
+84069,Côte d'Ivoire
+84092,Rwanda
+84070,Côte d'Ivoire
+84074,Mozambique
+84075,Côte d'Ivoire
+84076,Nigeria
+84077,Nigeria
+84078,Nigeria
+84079,Haiti
+84080,Zimbabwe
+84081,Zimbabwe
+84082,Zambia
+84083,Zambia
+84084,Zambia
+84085,Mozambique
+84086,Zambia
+84087,Ethiopia
+84088,Zimbabwe
+84089,Nigeria
+84090,Nigeria
+84091,Nigeria
+84093,Guyana
+84094,Zambia
+84095,Benin
+84096,Benin
+84097,Ghana
+84098,Haiti
+84099,Mozambique
+84101,Zimbabwe
+84102,Haiti
+84103,Côte d'Ivoire
+84104,Haiti
+84105,Zambia
+84106,Mozambique
+84107,Haiti
+84108,Mozambique
+84109,Guyana
+84110,Zambia
+84111,Nigeria
+84112,Zambia
+84113,Swaziland
+84115,Haiti
+84116,Swaziland
+84117,Zambia
+84118,Côte d'Ivoire
+84119,Zambia
+84120,Côte d'Ivoire
+84121,Uganda
+84122,Tanzania
+84123,Tanzania
+84124,Tanzania
+84125,Tanzania
+84126,Swaziland
+84127,Mozambique
+84128,Nigeria
+84129,Zambia
+84130,"Congo, DRC"
+84131,"Congo, DRC"
+84132,"Congo, DRC"
+84133,"Congo, DRC"
+84134,"Congo, DRC"
+84135,"Congo, DRC"
+84136,"Congo, DRC"
+84137,"Congo, DRC"
+84138,"Congo, DRC"
+84139,"Congo, DRC"
+84140,Mozambique
+84141,Zimbabwe
+84142,"Congo, DRC"
+84143,Zambia
+84144,Haiti
+84145,Tanzania
+84146,Tanzania
+84147,Uganda
+84148,Nigeria
+84149,Tanzania
+84150,Tanzania
+84151,South Sudan
+84152,South Sudan
+84153,Mozambique
+84154,Burundi
+84155,Burundi
+84156,Côte d'Ivoire
+84157,Côte d'Ivoire
+84158,Zimbabwe
+84159,Rwanda
+84160,Zimbabwe
+84161,Rwanda
+84162,Tanzania
+84163,Tanzania
+84164,Mozambique
+84165,Libya
+84166,Libya
+84167,Uganda
+84168,Nigeria
+84169,Zimbabwe
+84170,Zambia
+84173,Nigeria
+84174,Nigeria
+84175,Zimbabwe
+84176,Tanzania
+84177,"Congo, DRC"
+84179,Nigeria
+84180,Zimbabwe
+84181,Zimbabwe
+84182,Zambia
+84183,Nigeria
+84184,Zimbabwe
+84185,Zambia
+84186,Nigeria
+84187,Zambia
+84188,Uganda
+84189,Uganda
+84190,Uganda
+84191,Côte d'Ivoire
+84192,Mozambique
+84193,Uganda
+84194,Zimbabwe
+84195,Tanzania
+84196,Zambia
+84197,Côte d'Ivoire
+84198,Uganda
+84199,Nigeria
+84200,Zambia
+84201,Zambia
+84202,Zimbabwe
+84203,Mozambique
+84204,Mozambique
+84205,Mozambique
+84206,Zimbabwe
+84207,Zimbabwe
+84208,Côte d'Ivoire
+84209,Côte d'Ivoire
+84210,Rwanda
+84211,Côte d'Ivoire
+84212,Uganda
+84213,Rwanda
+84214,Uganda
+84215,"Congo, DRC"
+84216,Zimbabwe
+84217,Zimbabwe
+84218,Zambia
+84222,Haiti
+84223,"Congo, DRC"
+84224,"Congo, DRC"
+84225,"Congo, DRC"
+84226,"Congo, DRC"
+84227,Côte d'Ivoire
+84228,Uganda
+84229,Uganda
+84273,Zimbabwe
+84230,Zimbabwe
+84231,Zimbabwe
+84232,Uganda
+84233,Haiti
+84234,Côte d'Ivoire
+84235,Zimbabwe
+84236,Zambia
+84237,Guyana
+84238,Zimbabwe
+84241,Uganda
+84242,Zambia
+84243,Côte d'Ivoire
+84244,Tanzania
+84245,Mozambique
+84247,Burundi
+84248,Zambia
+84249,South Sudan
+84250,Zambia
+84251,Burundi
+84252,Nigeria
+84253,Zimbabwe
+84254,Mozambique
+84255,Mozambique
+84256,Mozambique
+84257,Mozambique
+84258,Zimbabwe
+84259,Nigeria
+84260,Tanzania
+84262,Nigeria
+84263,Nigeria
+84264,Mozambique
+84265,Mozambique
+84267,Nigeria
+84270,Nigeria
+84271,Nigeria
+84272,Zambia
+84274,Uganda
+84275,Uganda
+84276,Nigeria
+84277,Côte d'Ivoire
+84279,"Congo, DRC"
+84280,Uganda
+84281,Zimbabwe
+84282,Côte d'Ivoire
+84283,Zambia
+84284,Zambia
+84285,Zambia
+84286,"Congo, DRC"
+84287,Mozambique
+84288,Tanzania
+84289,Uganda
+84290,Zimbabwe
+84291,Rwanda
+84292,Uganda
+84293,Dominican Republic
+84294,Mozambique
+84295,Dominican Republic
+84296,Tanzania
+84297,Zambia
+84298,Côte d'Ivoire
+84299,Côte d'Ivoire
+84302,Zambia
+84303,Rwanda
+84329,Uganda
+84304,Tanzania
+84305,Côte d'Ivoire
+84306,Guyana
+84307,Rwanda
+84308,Guyana
+84309,Nigeria
+84311,Zimbabwe
+84312,Côte d'Ivoire
+84313,Haiti
+84314,Côte d'Ivoire
+84319,Burundi
+84320,Nigeria
+84321,Rwanda
+84322,South Sudan
+84323,Rwanda
+84328,Côte d'Ivoire
+84332,Tanzania
+84333,Mozambique
+84334,Nigeria
+84335,Nigeria
+84336,Mozambique
+84337,"Congo, DRC"
+84339,Mozambique
+84341,Côte d'Ivoire
+84342,Côte d'Ivoire
+84343,Zimbabwe
+84420,Rwanda
+84344,Rwanda
+84345,Mozambique
+84346,Mozambique
+84347,South Sudan
+84348,Guyana
+84349,Guyana
+84350,Ghana
+84351,Côte d'Ivoire
+84353,Nigeria
+84354,Guyana
+84355,Mozambique
+84356,Mozambique
+84357,Guyana
+84358,Rwanda
+84359,Rwanda
+84360,Zambia
+84361,"Congo, DRC"
+84362,Côte d'Ivoire
+84366,Mozambique
+84367,Rwanda
+84368,Côte d'Ivoire
+84369,Tanzania
+84370,Tanzania
+84371,Burundi
+84372,Burundi
+84373,Mozambique
+84374,Tanzania
+84376,Zambia
+84380,Côte d'Ivoire
+84381,Zambia
+84382,Nigeria
+84384,Côte d'Ivoire
+84385,Côte d'Ivoire
+84386,Burundi
+84388,Rwanda
+84389,Guyana
+84390,Zambia
+84391,Zimbabwe
+84392,Zimbabwe
+84394,"Congo, DRC"
+84395,Uganda
+84396,Guyana
+84398,Mozambique
+84407,Zambia
+84408,Zambia
+84409,Nigeria
+84410,Nigeria
+84412,Zambia
+84413,Mozambique
+84415,Rwanda
+84416,Zambia
+84417,Zambia
+84418,Mozambique
+84422,"Congo, DRC"
+84423,Nigeria
+84424,Nigeria
+84425,Burundi
+84426,Rwanda
+84427,Rwanda
+84429,Uganda
+84430,Côte d'Ivoire
+84432,Rwanda
+84433,Uganda
+84434,Rwanda
+84435,Rwanda
+84437,Côte d'Ivoire
+84441,Haiti
+84442,Mozambique
+84443,Nigeria
+84444,Nigeria
+84445,Uganda
+84446,Zambia
+84447,Zambia
+84448,Zimbabwe
+84449,Zambia
+84450,Côte d'Ivoire
+84451,Rwanda
+84454,Zambia
+84455,Zimbabwe
+84456,Zimbabwe
+84460,Burundi
+84461,Nigeria
+84465,Uganda
+84466,Mozambique
+84467,Côte d'Ivoire
+84468,Zambia
+84469,Nigeria
+84470,Mozambique
+84471,Nigeria
+84472,Nigeria
+84473,Nigeria
+84474,Nigeria
+84475,"Congo, DRC"
+84476,Nigeria
+84477,Rwanda
+84479,Côte d'Ivoire
+84480,Zambia
+84481,Zambia
+84497,Nigeria
+84498,Nigeria
+84620,Zambia
+84499,Nigeria
+84500,Nigeria
+84501,Nigeria
+84502,Côte d'Ivoire
+84503,Uganda
+84504,Guyana
+84505,Guyana
+84506,Côte d'Ivoire
+84507,Nigeria
+84508,Uganda
+84509,Haiti
+84510,Côte d'Ivoire
+84511,Côte d'Ivoire
+84512,Uganda
+84513,Côte d'Ivoire
+84514,Zimbabwe
+84515,Nigeria
+84516,Haiti
+84517,Haiti
+84518,Nigeria
+84519,Nigeria
+84520,Haiti
+84521,Zambia
+84522,Zambia
+84523,Haiti
+84524,Guyana
+84525,Guyana
+84526,Uganda
+84527,Côte d'Ivoire
+84528,Côte d'Ivoire
+84529,Haiti
+84530,Côte d'Ivoire
+84531,Côte d'Ivoire
+84532,Côte d'Ivoire
+84533,Haiti
+84534,Haiti
+84535,Côte d'Ivoire
+84536,Haiti
+84537,Nigeria
+84538,Nigeria
+84539,Nigeria
+84540,Nigeria
+84542,Nigeria
+84543,Uganda
+84544,Uganda
+84545,Uganda
+84546,Uganda
+84547,Uganda
+84548,Uganda
+84549,Tanzania
+84550,Zambia
+84551,Nigeria
+84552,Nigeria
+84553,Nigeria
+84554,Nigeria
+84555,Uganda
+84556,Uganda
+84557,Nigeria
+84558,Nigeria
+84559,Uganda
+84560,Côte d'Ivoire
+84561,Côte d'Ivoire
+84562,Côte d'Ivoire
+84563,Zimbabwe
+84564,Zimbabwe
+84565,Haiti
+84566,Haiti
+84567,Uganda
+84568,Haiti
+84569,Uganda
+84570,Uganda
+84571,Côte d'Ivoire
+84572,Côte d'Ivoire
+84573,Nigeria
+84574,Nigeria
+84575,Nigeria
+84576,Nigeria
+84577,Nigeria
+84578,Nigeria
+84579,Haiti
+84580,Mozambique
+84581,Haiti
+84582,Nigeria
+84583,Côte d'Ivoire
+84584,Côte d'Ivoire
+84585,Côte d'Ivoire
+84588,Uganda
+84589,Uganda
+84590,Uganda
+84591,Côte d'Ivoire
+84592,Côte d'Ivoire
+84593,Côte d'Ivoire
+84594,Guyana
+84595,Uganda
+84596,Tanzania
+84597,Côte d'Ivoire
+84598,Côte d'Ivoire
+84599,Côte d'Ivoire
+84600,Nigeria
+84601,Mozambique
+84602,Mozambique
+84603,Zambia
+84604,Uganda
+84605,Uganda
+84606,Haiti
+84607,Haiti
+84608,Côte d'Ivoire
+84609,Côte d'Ivoire
+84612,Haiti
+84613,Zambia
+84614,Guatemala
+84615,Guatemala
+84616,Zambia
+84617,Côte d'Ivoire
+84618,Haiti
+84619,Haiti
+84621,Uganda
+84622,Côte d'Ivoire
+84623,Zimbabwe
+84624,Zimbabwe
+84625,Zimbabwe
+84626,Ethiopia
+84627,Uganda
+84628,Haiti
+84629,Côte d'Ivoire
+84630,Côte d'Ivoire
+84631,Côte d'Ivoire
+84632,Zambia
+84633,Côte d'Ivoire
+84634,Tanzania
+84638,Côte d'Ivoire
+84639,Côte d'Ivoire
+84709,Uganda
+84640,Zimbabwe
+84641,Zimbabwe
+84642,Côte d'Ivoire
+84643,Uganda
+84644,Uganda
+84645,Zimbabwe
+84646,Guyana
+84647,Zimbabwe
+84648,Zimbabwe
+84649,Nigeria
+84650,Nigeria
+84651,Benin
+84652,Benin
+84653,Benin
+84654,Mozambique
+84655,Zambia
+84656,Uganda
+84657,Tanzania
+84658,Ghana
+84659,Zimbabwe
+84660,Mozambique
+84661,Haiti
+84662,Tanzania
+84663,Mozambique
+84664,Haiti
+84665,Côte d'Ivoire
+84667,Zambia
+84668,Zambia
+84671,Nigeria
+84672,Swaziland
+84673,Guyana
+84674,Côte d'Ivoire
+84675,Swaziland
+84676,Tanzania
+84677,Zambia
+84678,Zimbabwe
+84679,Nigeria
+84680,Zimbabwe
+84681,Côte d'Ivoire
+84682,Côte d'Ivoire
+84683,Swaziland
+84684,Zambia
+84685,Uganda
+84686,Nigeria
+84687,Nigeria
+84688,Côte d'Ivoire
+84689,Zambia
+84690,Tanzania
+84691,"Congo, DRC"
+84692,"Congo, DRC"
+84693,"Congo, DRC"
+84694,"Congo, DRC"
+84695,"Congo, DRC"
+84696,"Congo, DRC"
+84697,"Congo, DRC"
+84698,"Congo, DRC"
+84699,"Congo, DRC"
+84700,"Congo, DRC"
+84701,"Congo, DRC"
+84740,Rwanda
+84702,"Congo, DRC"
+84704,Haiti
+84705,"Congo, DRC"
+84706,"Congo, DRC"
+84707,"Congo, DRC"
+84708,Haiti
+84710,Côte d'Ivoire
+84711,Tanzania
+84712,Burundi
+84713,Burundi
+84714,Tanzania
+84715,Uganda
+84716,Uganda
+84717,Zimbabwe
+84718,Côte d'Ivoire
+84719,Rwanda
+84720,Dominican Republic
+84721,Libya
+84741,Rwanda
+84722,Nigeria
+84723,Rwanda
+84724,Rwanda
+84725,Zimbabwe
+84726,Rwanda
+84727,Uganda
+84728,Mozambique
+84729,Rwanda
+84730,Guyana
+84731,Zimbabwe
+84732,Nigeria
+84733,Zimbabwe
+84734,Uganda
+84735,Uganda
+84736,Zambia
+84737,Côte d'Ivoire
+84738,Nigeria
+84739,Nigeria
+84742,Côte d'Ivoire
+84743,Côte d'Ivoire
+84744,"Congo, DRC"
+84745,Côte d'Ivoire
+84746,Uganda
+84747,Côte d'Ivoire
+84748,Tanzania
+84749,Tanzania
+84750,Uganda
+84751,Uganda
+84752,Zimbabwe
+84753,Côte d'Ivoire
+84754,Côte d'Ivoire
+84755,Rwanda
+84756,Mozambique
+84757,Zambia
+84758,Uganda
+84759,Tanzania
+84760,Tanzania
+84761,Nigeria
+84762,Nigeria
+84763,Nigeria
+84764,Zimbabwe
+84765,Uganda
+84766,Uganda
+84767,Zimbabwe
+84768,Haiti
+84769,Haiti
+84770,Côte d'Ivoire
+84771,Nigeria
+84772,Nigeria
+84773,Uganda
+84774,Nigeria
+84775,Côte d'Ivoire
+84776,Tanzania
+84777,Zambia
+84778,Côte d'Ivoire
+84779,Uganda
+84780,Zimbabwe
+84781,Zimbabwe
+84782,Zimbabwe
+84783,Nigeria
+84784,Nigeria
+84785,Uganda
+84786,Uganda
+84787,Haiti
+84788,Côte d'Ivoire
+84789,Zimbabwe
+84790,Zimbabwe
+84791,Uganda
+84792,Haiti
+84793,Haiti
+84794,Haiti
+84795,Côte d'Ivoire
+84796,Zimbabwe
+84797,Zambia
+84859,Guyana
+84798,Zimbabwe
+84799,Mozambique
+84800,Uganda
+84801,South Sudan
+84802,Zimbabwe
+84803,Burundi
+84804,Dominican Republic
+84805,Côte d'Ivoire
+84806,Guyana
+84808,Mozambique
+84809,Mozambique
+84810,Uganda
+84811,Uganda
+84812,Zimbabwe
+84813,South Sudan
+84814,Nigeria
+84816,Uganda
+84817,Tanzania
+84819,Zambia
+84820,Nigeria
+84821,Zambia
+84822,Mozambique
+84824,Nigeria
+84825,Côte d'Ivoire
+84826,Zambia
+84827,Nigeria
+84828,Uganda
+84829,Cameroon
+84830,Cameroon
+84831,Zimbabwe
+84832,Côte d'Ivoire
+84833,Côte d'Ivoire
+84835,Nigeria
+84836,Nigeria
+84837,Nigeria
+84838,South Sudan
+84839,Burundi
+84841,Uganda
+84842,"Congo, DRC"
+84843,Côte d'Ivoire
+84844,Mozambique
+84846,Tanzania
+84847,Tanzania
+84848,Uganda
+84849,Zimbabwe
+84850,Tanzania
+84851,Zambia
+84852,Zambia
+84853,Mozambique
+84854,Nigeria
+84855,Côte d'Ivoire
+84856,Guyana
+84857,Zimbabwe
+84858,Mozambique
+84860,Tanzania
+84863,Zambia
+84864,Zambia
+84865,Nigeria
+84866,Zambia
+84867,Nigeria
+84868,Rwanda
+84869,Guyana
+84870,Mozambique
+84873,Rwanda
+84874,Tanzania
+84875,Tanzania
+84876,Côte d'Ivoire
+84877,Burundi
+84879,Mozambique
+84880,Zimbabwe
+84883,Nigeria
+84884,Côte d'Ivoire
+84887,"Congo, DRC"
+84889,Tanzania
+84890,Tanzania
+84891,Uganda
+84893,Côte d'Ivoire
+84894,Côte d'Ivoire
+84895,Nigeria
+84896,Zimbabwe
+84898,Mozambique
+84899,"Congo, DRC"
+84900,"Congo, DRC"
+84901,"Congo, DRC"
+84903,Zambia
+84904,Côte d'Ivoire
+84905,South Sudan
+84906,Guyana
+84907,Guyana
+84908,Haiti
+84909,Uganda
+84910,Tanzania
+84911,Côte d'Ivoire
+84913,Nigeria
+84914,Guyana
+84915,Guyana
+84916,Côte d'Ivoire
+84917,Côte d'Ivoire
+84918,Guyana
+84919,Zambia
+84920,Côte d'Ivoire
+84921,Côte d'Ivoire
+84922,Côte d'Ivoire
+84925,Haiti
+84926,Rwanda
+84927,Côte d'Ivoire
+84928,Zimbabwe
+84929,Rwanda
+84930,Nigeria
+84931,Nigeria
+84934,Guyana
+84935,Burundi
+84936,Zambia
+84937,Mozambique
+84938,Mozambique
+84939,Mozambique
+84940,Tanzania
+84942,Tanzania
+84943,Zimbabwe
+84944,Zimbabwe
+84945,Zimbabwe
+84947,Mozambique
+84949,Mozambique
+84950,Mozambique
+84951,Zimbabwe
+84952,Mozambique
+84953,Zambia
+84955,Zambia
+84956,South Sudan
+84957,"Congo, DRC"
+84966,Rwanda
+84967,Mozambique
+84968,Tanzania
+84969,Zambia
+84970,Mozambique
+84971,"Congo, DRC"
+84972,Rwanda
+84974,"Congo, DRC"
+85074,Côte d'Ivoire
+84975,Nigeria
+84978,Uganda
+84979,Mozambique
+84980,Zambia
+84981,Zambia
+84982,Guyana
+84984,Burundi
+84988,Zimbabwe
+84991,"Congo, DRC"
+84992,"Congo, DRC"
+84994,Nigeria
+84995,Tanzania
+84996,Côte d'Ivoire
+84997,Côte d'Ivoire
+84999,Côte d'Ivoire
+85000,Mozambique
+85001,Mozambique
+85002,Uganda
+85003,Uganda
+85004,Nigeria
+85005,Nigeria
+85007,Côte d'Ivoire
+85008,Zambia
+85009,Nigeria
+85010,Uganda
+85011,Tanzania
+85012,Nigeria
+85013,Uganda
+85018,Burundi
+85019,Rwanda
+85020,Nigeria
+85022,Zambia
+85024,Nigeria
+85025,"Congo, DRC"
+85026,Uganda
+85027,Nigeria
+85029,Côte d'Ivoire
+85030,Côte d'Ivoire
+85031,Côte d'Ivoire
+85032,Nigeria
+85035,Côte d'Ivoire
+85164,Zambia
+85036,Nigeria
+85037,Nigeria
+85038,Uganda
+85039,Cameroon
+85041,Zimbabwe
+85042,Zimbabwe
+85043,Uganda
+85044,Zambia
+85045,Zambia
+85047,Uganda
+85048,Zambia
+85051,Mozambique
+85064,Nigeria
+85065,Uganda
+85066,Nigeria
+85067,Nigeria
+85068,Nigeria
+85069,Haiti
+85070,Côte d'Ivoire
+85071,Côte d'Ivoire
+85072,Côte d'Ivoire
+85073,Haiti
+85075,Nigeria
+85076,Uganda
+85077,Nigeria
+85078,Nigeria
+85079,Haiti
+85080,Uganda
+85081,Nigeria
+85082,Sudan
+85084,Haiti
+85085,Uganda
+85086,Uganda
+85087,Uganda
+85088,Côte d'Ivoire
+85089,Côte d'Ivoire
+85090,Zimbabwe
+85091,Zimbabwe
+85092,Haiti
+85093,Haiti
+85094,Uganda
+85095,Nigeria
+85096,Nigeria
+85097,Mozambique
+85098,Nigeria
+85099,Nigeria
+85100,Nigeria
+85101,Uganda
+85102,Uganda
+85103,Uganda
+85104,Nigeria
+85105,Nigeria
+85106,Nigeria
+85107,Nigeria
+85108,Nigeria
+85109,Guyana
+85110,Uganda
+85111,Uganda
+85112,Tanzania
+85113,Côte d'Ivoire
+85114,Côte d'Ivoire
+85115,Côte d'Ivoire
+85116,Côte d'Ivoire
+85117,Guyana
+85118,Haiti
+85119,Haiti
+85120,Haiti
+85121,Uganda
+85122,Nigeria
+85123,Uganda
+85124,Nigeria
+85125,Nigeria
+85126,Nigeria
+85127,Nigeria
+85128,Nigeria
+85129,Nigeria
+85130,Uganda
+85131,Nigeria
+85132,Zimbabwe
+85133,Uganda
+85134,Uganda
+85135,Nigeria
+85136,Nigeria
+85137,Côte d'Ivoire
+85138,Côte d'Ivoire
+85139,Uganda
+85140,Nigeria
+85141,Nigeria
+85142,Uganda
+85143,Uganda
+85144,Côte d'Ivoire
+85145,Uganda
+85146,Zambia
+85147,Zambia
+85148,Côte d'Ivoire
+85149,Côte d'Ivoire
+85150,Haiti
+85151,Zambia
+85152,Zimbabwe
+85153,Haiti
+85154,Uganda
+85155,Uganda
+85156,Zambia
+85157,Nigeria
+85158,Nigeria
+85159,Zambia
+85160,Côte d'Ivoire
+85161,Mozambique
+85162,Côte d'Ivoire
+85163,Zimbabwe
+85165,Côte d'Ivoire
+85167,Haiti
+85168,Côte d'Ivoire
+85169,Uganda
+85171,Guatemala
+85172,Nigeria
+85173,Nigeria
+85174,Guatemala
+85175,Guatemala
+85176,Tanzania
+85177,Côte d'Ivoire
+85178,Côte d'Ivoire
+85179,Uganda
+85180,Côte d'Ivoire
+85181,Uganda
+85183,Nigeria
+85184,Uganda
+85185,Zimbabwe
+85186,Uganda
+85187,Zimbabwe
+85188,Tanzania
+85189,Nigeria
+85190,Ethiopia
+85191,Ethiopia
+85192,Belize
+85193,Ghana
+85194,Mozambique
+85195,Zimbabwe
+85196,Haiti
+85198,Côte d'Ivoire
+85200,Zimbabwe
+85201,Guyana
+85202,Tanzania
+85203,Zimbabwe
+85204,Zimbabwe
+85205,Swaziland
+85206,Côte d'Ivoire
+85207,Mozambique
+85208,Tanzania
+85209,Haiti
+85210,Rwanda
+85211,Zambia
+85212,Kenya
+85213,Rwanda
+85214,Zimbabwe
+85215,Nigeria
+85216,Côte d'Ivoire
+85217,Côte d'Ivoire
+85219,Guyana
+85220,Haiti
+85221,"Congo, DRC"
+85222,"Congo, DRC"
+85223,"Congo, DRC"
+85224,"Congo, DRC"
+85226,"Congo, DRC"
+85227,"Congo, DRC"
+85228,"Congo, DRC"
+85229,"Congo, DRC"
+85230,"Congo, DRC"
+85232,Mozambique
+85233,Zimbabwe
+85234,"Congo, DRC"
+85235,Haiti
+85236,Tanzania
+85237,Côte d'Ivoire
+85238,Tanzania
+85239,Nigeria
+85240,Nigeria
+85241,Nigeria
+85242,Tanzania
+85243,Zambia
+85244,Burundi
+85245,Uganda
+85246,Côte d'Ivoire
+85280,Uganda
+85247,Zimbabwe
+85248,Zimbabwe
+85249,Uganda
+85250,Zambia
+85251,Mozambique
+85252,Zimbabwe
+85253,Zambia
+85254,Zambia
+85255,Zambia
+85256,Nigeria
+85257,Dominican Republic
+85258,Dominican Republic
+85259,Libya
+85260,Nigeria
+85261,Zimbabwe
+85262,Côte d'Ivoire
+85263,Haiti
+85264,Zambia
+85265,Zimbabwe
+85266,Zimbabwe
+85267,"Congo, DRC"
+85268,"Congo, DRC"
+85269,Côte d'Ivoire
+85270,Guyana
+85271,Zambia
+85272,Nigeria
+85273,Nigeria
+85274,Libya
+85275,Côte d'Ivoire
+85276,Uganda
+85277,Nigeria
+85278,Zimbabwe
+85279,Uganda
+85281,Zambia
+85282,Côte d'Ivoire
+85283,Tanzania
+85284,Nigeria
+85287,Côte d'Ivoire
+85288,Rwanda
+85289,Nigeria
+85291,Zimbabwe
+85292,Zimbabwe
+85293,Guyana
+85294,Guyana
+85295,Guyana
+85296,Guyana
+85297,"Congo, DRC"
+85298,"Congo, DRC"
+85299,Zimbabwe
+85300,Zambia
+85301,Côte d'Ivoire
+85302,Uganda
+85303,Uganda
+85304,Rwanda
+85305,South Sudan
+85306,Rwanda
+85307,Mozambique
+85308,Mozambique
+85309,Zimbabwe
+85310,Côte d'Ivoire
+85311,Côte d'Ivoire
+85312,Zambia
+85313,Nigeria
+85314,Nigeria
+85315,Côte d'Ivoire
+85316,Zambia
+85317,Nigeria
+85318,Zimbabwe
+85319,Uganda
+85320,Tanzania
+85321,Mozambique
+85323,"Congo, DRC"
+85324,"Congo, DRC"
+85325,"Congo, DRC"
+85326,Zimbabwe
+85328,Nigeria
+85330,Mozambique
+85331,"Congo, DRC"
+85332,Uganda
+85333,Zimbabwe
+85334,Haiti
+85335,Haiti
+85336,Haiti
+85337,Haiti
+85338,Uganda
+85340,Zimbabwe
+85341,Guyana
+85342,Guyana
+85343,Uganda
+85345,Guyana
+85346,Zimbabwe
+85347,Côte d'Ivoire
+85348,Guyana
+85349,Tanzania
+85350,Uganda
+85351,Tanzania
+85352,Dominican Republic
+85353,Burundi
+85354,Uganda
+85355,Uganda
+85356,South Sudan
+85357,Uganda
+85358,Mozambique
+85359,Uganda
+85360,Nigeria
+85361,Nigeria
+85362,Rwanda
+85363,Nigeria
+85365,Mozambique
+85367,Zambia
+85368,Mozambique
+85369,Nigeria
+85370,Nigeria
+85371,Zambia
+85373,Zambia
+85376,Zimbabwe
+85377,Zimbabwe
+85378,Zimbabwe
+85381,Tanzania
+85382,Zambia
+85383,South Sudan
+85384,Tanzania
+85385,Uganda
+85386,"Congo, DRC"
+85387,"Congo, DRC"
+85388,Burundi
+85389,Burundi
+85390,"Congo, DRC"
+85391,"Congo, DRC"
+85392,"Congo, DRC"
+85393,Uganda
+85394,Uganda
+85396,Mozambique
+85397,Burundi
+85398,Tanzania
+85399,Nigeria
+85400,Zambia
+85401,Côte d'Ivoire
+85402,Guyana
+85407,Dominican Republic
+85408,Zambia
+85409,Zambia
+85410,Nigeria
+85412,Côte d'Ivoire
+85413,Zambia
+85414,Burundi
+85415,Uganda
+85419,Tanzania
+85420,Tanzania
+85421,Côte d'Ivoire
+85422,Guyana
+85423,Mozambique
+85426,Côte d'Ivoire
+85427,Tanzania
+85428,Zimbabwe
+85429,Côte d'Ivoire
+85430,Burundi
+85431,Mozambique
+85432,South Sudan
+85433,Nigeria
+85436,Côte d'Ivoire
+85437,Mozambique
+85438,Uganda
+85440,Mozambique
+85444,Côte d'Ivoire
+85445,Zimbabwe
+85446,Ghana
+85447,Ghana
+85448,Rwanda
+85449,Mozambique
+85451,Ghana
+85452,Côte d'Ivoire
+85453,Côte d'Ivoire
+85454,Mozambique
+85455,Zambia
+85456,Guyana
+85457,Tanzania
+85458,Côte d'Ivoire
+85459,Côte d'Ivoire
+85460,Côte d'Ivoire
+85461,Tanzania
+85462,Zambia
+85463,Mozambique
+85464,Mozambique
+85465,Côte d'Ivoire
+85466,Côte d'Ivoire
+85467,Zambia
+85468,Uganda
+85472,Tanzania
+85473,Côte d'Ivoire
+85474,Tanzania
+85475,Mozambique
+85476,Côte d'Ivoire
+85477,Nigeria
+85478,Côte d'Ivoire
+85480,Uganda
+85481,Guyana
+85483,Mozambique
+85488,Zimbabwe
+85490,Côte d'Ivoire
+85491,Côte d'Ivoire
+85492,Mozambique
+85493,Mozambique
+85494,Mozambique
+85496,Nigeria
+85497,Nigeria
+85499,Burundi
+85500,Rwanda
+85501,Côte d'Ivoire
+85502,Nigeria
+85503,Tanzania
+85504,Guyana
+85505,Mozambique
+85506,Zambia
+85507,Zambia
+85508,Zimbabwe
+85509,Mozambique
+85637,Côte d'Ivoire
+85510,Mozambique
+85511,"Congo, DRC"
+85518,Mozambique
+85519,Mozambique
+85520,Tanzania
+85521,Mozambique
+85523,Nigeria
+85527,Tanzania
+85528,"Congo, DRC"
+85529,Tanzania
+85530,Uganda
+85531,Namibia
+85534,Tanzania
+85536,Zambia
+85539,Zimbabwe
+85541,Uganda
+85542,Côte d'Ivoire
+85547,Côte d'Ivoire
+85551,Zambia
+85554,Nigeria
+85555,Zimbabwe
+85556,Zimbabwe
+85557,Zimbabwe
+85558,Zimbabwe
+85559,Zimbabwe
+85560,Zambia
+85561,Nigeria
+85562,Nigeria
+85564,Mozambique
+85565,Zimbabwe
+85566,Burundi
+85567,Rwanda
+85569,Côte d'Ivoire
+85570,Nigeria
+85572,Burundi
+86138,Zambia
+85573,Nigeria
+85574,Nigeria
+85575,Nigeria
+85577,Swaziland
+85578,"Congo, DRC"
+85579,Mozambique
+85580,Rwanda
+85584,Burundi
+85585,Burundi
+85586,Uganda
+85587,Uganda
+85589,Nigeria
+85590,Mozambique
+85591,Zimbabwe
+85592,Nigeria
+85593,Mozambique
+85594,Côte d'Ivoire
+85638,Uganda
+85595,Côte d'Ivoire
+85596,Nigeria
+85599,Rwanda
+85600,Nigeria
+85601,South Sudan
+85602,Rwanda
+85603,Rwanda
+85626,Nigeria
+85627,Mozambique
+85628,Uganda
+85629,Uganda
+85630,Nigeria
+85631,Haiti
+85632,Côte d'Ivoire
+85633,Uganda
+85634,Haiti
+85635,Haiti
+85636,Haiti
+85639,Uganda
+85640,Zimbabwe
+85641,Zambia
+85642,Côte d'Ivoire
+85643,Uganda
+85644,Côte d'Ivoire
+85645,Mozambique
+85646,Haiti
+85647,Haiti
+85648,Uganda
+85649,Uganda
+85650,Mozambique
+85651,Uganda
+85652,Côte d'Ivoire
+85653,Zambia
+85670,Nigeria
+85654,Uganda
+85655,Côte d'Ivoire
+85656,Zimbabwe
+85657,Haiti
+85658,Haiti
+85659,Côte d'Ivoire
+85660,Haiti
+85661,Nigeria
+85662,Nigeria
+85663,Nigeria
+85664,Nigeria
+85665,Nigeria
+85666,Nigeria
+85667,Nigeria
+85668,Nigeria
+85669,Uganda
+85671,Nigeria
+85672,Zimbabwe
+85673,Haiti
+85674,Haiti
+85675,Haiti
+85749,Côte d'Ivoire
+85676,Uganda
+85677,Nigeria
+85678,Côte d'Ivoire
+85679,Côte d'Ivoire
+85680,Tanzania
+85681,Nigeria
+85682,Nigeria
+85683,Nigeria
+85684,Nigeria
+85685,Nigeria
+85686,Nigeria
+85703,Côte d'Ivoire
+85687,Nigeria
+85688,Nigeria
+85689,Nigeria
+85690,Nigeria
+85691,Nigeria
+85692,Nigeria
+85693,Uganda
+85694,Nigeria
+85695,Haiti
+85696,Nigeria
+85697,Nigeria
+85698,Nigeria
+85699,Nigeria
+85700,Côte d'Ivoire
+85702,Uganda
+85704,Zambia
+85705,Ethiopia
+85706,Côte d'Ivoire
+85707,Côte d'Ivoire
+85708,Mozambique
+85709,Zimbabwe
+85710,Haiti
+85711,Nigeria
+85712,Uganda
+85713,Zambia
+85714,Tanzania
+85715,Côte d'Ivoire
+85716,Côte d'Ivoire
+85717,Côte d'Ivoire
+85718,Côte d'Ivoire
+85719,Zimbabwe
+85720,Nigeria
+85721,Uganda
+85722,Ethiopia
+85723,Zambia
+85724,Côte d'Ivoire
+85725,Côte d'Ivoire
+85726,Dominican Republic
+85727,Dominican Republic
+85728,Zambia
+85729,Haiti
+85730,Haiti
+86254,Ethiopia
+85731,Nigeria
+85732,Nigeria
+85733,Côte d'Ivoire
+85734,Côte d'Ivoire
+85735,Nigeria
+85736,Tanzania
+85737,Tanzania
+85738,Côte d'Ivoire
+85739,Haiti
+85740,Zambia
+85741,Zambia
+85742,Zimbabwe
+85743,Zimbabwe
+85744,Zimbabwe
+85745,Zimbabwe
+85746,Ethiopia
+85747,Uganda
+85748,Côte d'Ivoire
+85750,Côte d'Ivoire
+85751,Côte d'Ivoire
+85752,Nigeria
+85753,Nigeria
+85754,Nigeria
+85755,Zimbabwe
+85756,Mozambique
+85757,Nigeria
+85758,Zambia
+85759,Zambia
+85760,Mozambique
+85761,Uganda
+85762,Nigeria
+85763,Côte d'Ivoire
+85764,Haiti
+85765,Guyana
+85766,Guyana
+85767,Zambia
+85810,Côte d'Ivoire
+85768,Mozambique
+85769,Côte d'Ivoire
+85770,Benin
+85771,Ghana
+85772,Haiti
+85773,Haiti
+85774,Haiti
+85775,Zambia
+85776,Mozambique
+85777,Côte d'Ivoire
+85778,Côte d'Ivoire
+85779,Zimbabwe
+85780,Uganda
+85781,Tanzania
+85782,Uganda
+85783,Mozambique
+85784,Zambia
+85786,Mozambique
+85787,Zambia
+85788,Zambia
+85789,Uganda
+85790,Zambia
+85791,Guyana
+85792,Zimbabwe
+85795,Tanzania
+85796,Guyana
+85797,Nigeria
+85798,Nigeria
+85799,Côte d'Ivoire
+85800,Haiti
+85801,Zimbabwe
+85802,Zimbabwe
+85803,Côte d'Ivoire
+85804,Zambia
+85805,Zambia
+85806,Zimbabwe
+85807,Zimbabwe
+85808,Nigeria
+85809,Zambia
+85812,Mozambique
+85813,"Congo, DRC"
+85814,"Congo, DRC"
+85815,"Congo, DRC"
+85816,"Congo, DRC"
+85817,"Congo, DRC"
+85819,Guyana
+85820,"Congo, DRC"
+85821,"Congo, DRC"
+85822,"Congo, DRC"
+85999,Nigeria
+85823,Zimbabwe
+85824,"Congo, DRC"
+85825,Côte d'Ivoire
+85826,Zambia
+85827,Haiti
+85828,Tanzania
+85829,Côte d'Ivoire
+85968,Nigeria
+85830,Côte d'Ivoire
+85831,Côte d'Ivoire
+85832,Nigeria
+85833,Nigeria
+85834,Nigeria
+85835,Uganda
+85836,Zambia
+85837,Uganda
+85838,South Sudan
+85839,Tanzania
+85840,Zambia
+85841,Rwanda
+85843,Tanzania
+85844,Burundi
+85845,Burundi
+85846,Tanzania
+85847,Uganda
+85848,Zimbabwe
+86136,Tanzania
+85849,Uganda
+85850,Zambia
+85851,Zambia
+85852,Côte d'Ivoire
+85853,Zambia
+85854,Dominican Republic
+85855,Nigeria
+85856,Uganda
+85857,Uganda
+85859,Mozambique
+85861,"Congo, DRC"
+85862,Nigeria
+85863,Nigeria
+85864,Nigeria
+85865,Zambia
+85866,"Congo, DRC"
+85867,"Congo, DRC"
+85868,"Congo, DRC"
+85869,Zimbabwe
+85870,Nigeria
+85871,Mozambique
+85872,Tanzania
+85873,Tanzania
+85874,Nigeria
+85875,Mozambique
+85876,Uganda
+85877,Zimbabwe
+85878,Côte d'Ivoire
+85879,Tanzania
+85880,Nigeria
+85881,Nigeria
+85882,Rwanda
+85883,Côte d'Ivoire
+85884,Uganda
+85885,Rwanda
+85886,Nigeria
+85887,Nigeria
+85888,Côte d'Ivoire
+85889,Rwanda
+85890,Zimbabwe
+85891,Côte d'Ivoire
+85892,"Congo, DRC"
+85893,Côte d'Ivoire
+85894,Nigeria
+85895,Côte d'Ivoire
+85896,Uganda
+85897,Uganda
+85898,Zambia
+85899,Rwanda
+85900,Côte d'Ivoire
+85901,Côte d'Ivoire
+85902,Côte d'Ivoire
+85903,South Sudan
+85904,Côte d'Ivoire
+85905,Cameroon
+85906,Cameroon
+85907,Cameroon
+85908,Tanzania
+85909,Uganda
+85910,Mozambique
+85911,Mozambique
+85912,Zambia
+85913,Rwanda
+85914,Rwanda
+85915,Zimbabwe
+85916,Nigeria
+85917,Nigeria
+85918,Nigeria
+85919,Uganda
+85920,Mozambique
+85921,Côte d'Ivoire
+85922,Uganda
+85923,Zimbabwe
+85924,Uganda
+85925,"Congo, DRC"
+85926,Tanzania
+85927,Uganda
+85928,Zambia
+85929,Nigeria
+85930,Nigeria
+85931,Nigeria
+85932,Uganda
+85936,Uganda
+85938,"Congo, DRC"
+85939,Côte d'Ivoire
+85940,Zimbabwe
+85941,Zimbabwe
+85942,Uganda
+85943,Haiti
+85944,Haiti
+85945,Nigeria
+85947,Zimbabwe
+85948,Mozambique
+85951,Côte d'Ivoire
+85952,Zimbabwe
+85953,Mozambique
+85955,Côte d'Ivoire
+85956,Tanzania
+85958,Mozambique
+85959,Mozambique
+85960,South Sudan
+85961,South Sudan
+85962,Zimbabwe
+85963,Côte d'Ivoire
+85964,Nigeria
+85965,Uganda
+85966,Nigeria
+85967,Uganda
+85969,Nigeria
+85970,Nigeria
+85971,Zambia
+85972,Tanzania
+85974,Zambia
+85975,Mozambique
+85977,Cameroon
+85978,Zimbabwe
+85979,Zimbabwe
+85980,Côte d'Ivoire
+85981,Côte d'Ivoire
+85982,Nigeria
+85983,Côte d'Ivoire
+85985,Nigeria
+85986,Burundi
+85987,Uganda
+85989,Mozambique
+85990,Mozambique
+85991,Mozambique
+85992,Mozambique
+85993,Uganda
+85994,Tanzania
+85995,Zambia
+85996,Côte d'Ivoire
+85997,Tanzania
+85998,Nigeria
+86000,Nigeria
+86001,Zambia
+86003,Rwanda
+86005,Uganda
+86007,Dominican Republic
+86008,Tanzania
+86009,Zimbabwe
+86010,Nigeria
+86014,Zimbabwe
+86015,Uganda
+86017,Zimbabwe
+86018,Uganda
+86019,Burundi
+86020,Guyana
+86021,Mozambique
+86022,Côte d'Ivoire
+86023,Nigeria
+86024,Mozambique
+86025,Rwanda
+86027,Tanzania
+86028,Zimbabwe
+86029,Tanzania
+86030,South Sudan
+86031,Rwanda
+86032,Côte d'Ivoire
+86033,Tanzania
+86034,Uganda
+86040,Zimbabwe
+86041,Côte d'Ivoire
+86042,Tanzania
+86043,Rwanda
+86044,Côte d'Ivoire
+86045,Côte d'Ivoire
+86046,Côte d'Ivoire
+86047,Côte d'Ivoire
+86048,Nigeria
+86049,Côte d'Ivoire
+86050,Côte d'Ivoire
+86051,"Congo, DRC"
+86052,"Congo, DRC"
+86054,Zambia
+86056,Côte d'Ivoire
+86058,Rwanda
+86059,Uganda
+86060,Guyana
+86061,Haiti
+86062,Haiti
+86081,Mozambique
+86063,Uganda
+86064,Kenya
+86065,Côte d'Ivoire
+86066,Nigeria
+86067,Uganda
+86068,Zambia
+86069,Nigeria
+86070,Guyana
+86071,Guyana
+86072,Mozambique
+86073,Rwanda
+86074,Mozambique
+86075,Zimbabwe
+86076,Mozambique
+86077,Côte d'Ivoire
+86078,Rwanda
+86082,Tanzania
+86083,Zimbabwe
+86084,Zimbabwe
+86086,Nigeria
+86089,Uganda
+86090,Uganda
+86093,Mozambique
+86094,Côte d'Ivoire
+86095,Zambia
+86096,Mozambique
+86097,Zambia
+86102,Zambia
+86103,South Sudan
+86104,Zambia
+86106,Côte d'Ivoire
+86131,Mozambique
+86107,Mozambique
+86137,Uganda
+86108,"Congo, DRC"
+86110,Rwanda
+86111,Côte d'Ivoire
+86112,Côte d'Ivoire
+86113,Rwanda
+86114,Zambia
+86115,Zambia
+86116,Mozambique
+86117,Mozambique
+86118,"Congo, DRC"
+86119,"Congo, DRC"
+86120,"Congo, DRC"
+86121,Mozambique
+86129,Burundi
+86130,Mozambique
+86133,Tanzania
+86134,Nigeria
+86135,Namibia
+86139,Côte d'Ivoire
+86140,Côte d'Ivoire
+86141,Zambia
+86142,"Congo, DRC"
+86143,Nigeria
+86144,Burundi
+86147,Côte d'Ivoire
+86148,Zimbabwe
+86151,Uganda
+86154,Uganda
+86155,Uganda
+86156,Zimbabwe
+86158,Côte d'Ivoire
+86159,Mozambique
+86161,Côte d'Ivoire
+86162,Uganda
+86163,Zambia
+86164,Nigeria
+86167,Côte d'Ivoire
+86168,Côte d'Ivoire
+86170,Mozambique
+86171,Zambia
+86172,Zimbabwe
+86173,Zimbabwe
+86174,Burundi
+86179,Nigeria
+86181,Togo
+86183,Zambia
+86185,"Congo, DRC"
+86186,"Congo, DRC"
+86187,"Congo, DRC"
+86188,Uganda
+86189,Uganda
+86192,Nigeria
+86193,Rwanda
+86195,Nigeria
+86196,Zambia
+86197,Côte d'Ivoire
+86198,Côte d'Ivoire
+86199,Zambia
+86200,Nigeria
+86203,Nigeria
+86204,Nigeria
+86205,Nigeria
+86206,Nigeria
+86207,"Congo, DRC"
+86208,Uganda
+86209,Zambia
+86210,Zambia
+86211,Rwanda
+86212,Côte d'Ivoire
+86213,Zimbabwe
+86216,Rwanda
+86235,Nigeria
+86236,Nigeria
+86237,Nigeria
+86238,Nigeria
+86239,Nigeria
+86240,Nigeria
+86241,Nigeria
+86242,Nigeria
+86243,Côte d'Ivoire
+86244,Côte d'Ivoire
+86245,Uganda
+86246,Uganda
+86247,Zimbabwe
+86248,Mozambique
+86249,Nigeria
+86250,Uganda
+86251,Uganda
+86252,Uganda
+86253,Zambia
+86256,Haiti
+86257,Côte d'Ivoire
+86258,Sudan
+86259,Uganda
+86260,Uganda
+86261,Uganda
+86262,Haiti
+86263,Uganda
+86265,Côte d'Ivoire
+86266,Uganda
+86267,Uganda
+86268,Zambia
+86269,Côte d'Ivoire
+86270,Zimbabwe
+86271,Zimbabwe
+86272,Haiti
+86273,Haiti
+86274,Haiti
+86275,Mozambique
+86276,Mozambique
+86277,Nigeria
+86278,Uganda
+86279,Nigeria
+86280,Nigeria
+86281,Nigeria
+86282,Nigeria
+86283,Nigeria
+86284,Nigeria
+86285,Nigeria
+86286,Nigeria
+86287,Nigeria
+86288,Uganda
+86289,Côte d'Ivoire
+86290,Tanzania
+86291,Tanzania
+86293,Zambia
+86294,Nigeria
+86295,Nigeria
+86296,Mozambique
+86297,Mozambique
+86298,Nigeria
+86299,Nigeria
+86300,Nigeria
+86301,Nigeria
+86302,Haiti
+86303,Nigeria
+86304,Côte d'Ivoire
+86305,Zimbabwe
+86306,Mozambique
+86307,Côte d'Ivoire
+86308,Ethiopia
+86309,Zambia
+86310,Côte d'Ivoire
+86311,Côte d'Ivoire
+86312,Nigeria
+86313,Nigeria
+86314,Nigeria
+86315,Nigeria
+86316,Nigeria
+86317,Zimbabwe
+86318,Nigeria
+86319,Ethiopia
+86320,Nigeria
+86321,Haiti
+86322,Nigeria
+86323,Nigeria
+86324,Nigeria
+86325,Nigeria
+86326,Côte d'Ivoire
+86327,Côte d'Ivoire
+86328,Côte d'Ivoire
+86329,Nigeria
+86330,Uganda
+86331,Ethiopia
+86332,Zambia
+86333,Côte d'Ivoire
+86334,Tanzania
+86335,Côte d'Ivoire
+86336,Mozambique
+86337,Haiti
+86338,Guyana
+86339,Guyana
+86340,Zambia
+86341,Nigeria
+86342,Nigeria
+86343,Zambia
+86344,Uganda
+86345,Nigeria
+86346,Côte d'Ivoire
+86347,Côte d'Ivoire
+86348,Nigeria
+86349,Nigeria
+86350,Mozambique
+86351,Zambia
+86352,Zambia
+86353,Uganda
+86354,Côte d'Ivoire
+86355,Dominican Republic
+86356,Dominican Republic
+86357,Uganda
+86358,Côte d'Ivoire
+86359,Zambia
+86360,Guatemala
+86361,Nigeria
+86362,Nigeria
+86363,Nigeria
+86364,Nigeria
+86365,Uganda
+86366,Zambia
+86367,Côte d'Ivoire
+86368,Côte d'Ivoire
+86369,Côte d'Ivoire
+86371,Côte d'Ivoire
+86372,Zambia
+86373,Uganda
+86391,Zambia
+86374,Côte d'Ivoire
+86375,Tanzania
+86376,Nigeria
+86377,Nigeria
+86378,Zimbabwe
+86379,Mozambique
+86380,Zambia
+86381,Uganda
+86382,Uganda
+86384,Zimbabwe
+86385,Nigeria
+86386,Zambia
+86387,Nigeria
+86388,Nigeria
+86389,Guyana
+86390,Benin
+86392,Côte d'Ivoire
+86393,Haiti
+86394,Mozambique
+86395,Nigeria
+86396,Uganda
+86397,Mozambique
+86398,Côte d'Ivoire
+86399,Nigeria
+86400,Uganda
+86401,Côte d'Ivoire
+86402,Ghana
+86403,Zambia
+86404,Zimbabwe
+86405,Uganda
+86406,Mozambique
+86408,Uganda
+86409,Côte d'Ivoire
+86410,Zimbabwe
+86411,Uganda
+86412,Guyana
+86413,Guyana
+86414,Nigeria
+86415,Nigeria
+86417,Zambia
+86418,Ghana
+86419,Tanzania
+86420,Mozambique
+86421,Zambia
+86422,Zambia
+86423,Uganda
+86424,Uganda
+86425,Rwanda
+86426,Côte d'Ivoire
+86427,Côte d'Ivoire
+86428,Nigeria
+86429,Nigeria
+86430,Nigeria
+86431,Haiti
+86432,Guyana
+86433,Uganda
+86435,"Congo, DRC"
+86436,"Congo, DRC"
+86437,"Congo, DRC"
+86438,"Congo, DRC"
+86439,"Congo, DRC"
+86440,"Congo, DRC"
+86441,"Congo, DRC"
+86442,"Congo, DRC"
+86443,"Congo, DRC"
+86444,Guyana
+86445,"Congo, DRC"
+86446,"Congo, DRC"
+86447,"Congo, DRC"
+86448,"Congo, DRC"
+86449,Zambia
+86450,Zambia
+86451,Haiti
+86452,Haiti
+86453,Tanzania
+86454,Uganda
+86455,Nigeria
+86456,Nigeria
+86457,Tanzania
+86458,Mozambique
+86459,Burundi
+86477,Rwanda
+86460,Burundi
+86461,Uganda
+86463,Uganda
+86464,Zimbabwe
+86465,Zimbabwe
+86466,Zimbabwe
+86467,Zambia
+86468,Mozambique
+86469,Rwanda
+86470,Libya
+86471,Nigeria
+86472,Zimbabwe
+86473,Zimbabwe
+86474,Zambia
+86475,Côte d'Ivoire
+86476,Zambia
+86478,Uganda
+86479,Zimbabwe
+86480,Nigeria
+86481,Côte d'Ivoire
+86482,Zimbabwe
+86483,Zimbabwe
+86484,Mozambique
+86485,Zimbabwe
+86486,Nigeria
+86487,Nigeria
+86488,Tanzania
+86489,Mozambique
+86490,Zambia
+86491,Zambia
+86492,Zambia
+86493,Côte d'Ivoire
+86494,Tanzania
+86496,Nigeria
+86497,Nigeria
+86498,Nigeria
+86499,Côte d'Ivoire
+86500,Rwanda
+86501,Uganda
+86502,Côte d'Ivoire
+86503,Rwanda
+86504,Ethiopia
+86505,Nigeria
+86506,Nigeria
+86507,Guyana
+86508,"Congo, DRC"
+86509,"Congo, DRC"
+86510,Nigeria
+86511,Uganda
+86512,Uganda
+86513,Tanzania
+86514,South Sudan
+86515,Mozambique
+86516,Zambia
+86517,Zimbabwe
+86518,South Sudan
+86519,Côte d'Ivoire
+86520,Zimbabwe
+86521,Zimbabwe
+86522,Tanzania
+86523,Zambia
+86524,Tanzania
+86525,Uganda
+86526,Côte d'Ivoire
+86527,Zambia
+86528,Zambia
+86529,Uganda
+86530,Uganda
+86531,Mozambique
+86532,Nigeria
+86533,Côte d'Ivoire
+86534,Côte d'Ivoire
+86535,Côte d'Ivoire
+86536,Côte d'Ivoire
+86537,Tanzania
+86538,Mozambique
+86539,Côte d'Ivoire
+86540,Zimbabwe
+86541,"Congo, DRC"
+86543,Uganda
+86544,Uganda
+86545,Mozambique
+86548,"Congo, DRC"
+86549,"Congo, DRC"
+86550,Côte d'Ivoire
+86551,Nigeria
+86552,Nigeria
+86553,Zimbabwe
+86554,Zimbabwe
+86555,Zambia
+86556,Guyana
+86558,Zimbabwe
+86559,Burundi
+86561,Mozambique
+86562,Mozambique
+86563,Uganda
+86564,South Sudan
+86565,South Sudan
+86566,Nigeria
+86567,Zambia
+86568,Mozambique
+86569,Nigeria
+86572,Nigeria
+86573,Tanzania
+86574,Mozambique
+86575,Zambia
+86576,Nigeria
+86577,Nigeria
+86579,Tanzania
+86580,Zambia
+86581,Uganda
+86582,Cameroon
+86584,Mozambique
+86585,Mozambique
+86586,Nigeria
+86587,Nigeria
+86588,Nigeria
+86589,Burundi
+86590,Uganda
+86591,Uganda
+86592,"Congo, DRC"
+86593,"Congo, DRC"
+86595,Côte d'Ivoire
+86596,Burundi
+86597,Mozambique
+86598,Zimbabwe
+86599,Mozambique
+86600,Burundi
+86601,Côte d'Ivoire
+86602,Nigeria
+86603,Nigeria
+86711,Zambia
+86604,Dominican Republic
+86605,Guyana
+86606,Burundi
+86607,Mozambique
+86610,Dominican Republic
+86611,Côte d'Ivoire
+86612,Zambia
+86613,Zambia
+86614,Côte d'Ivoire
+86615,"Congo, DRC"
+86616,Mozambique
+86617,Uganda
+86618,Uganda
+86621,Zambia
+86622,Zambia
+86625,Zimbabwe
+86626,Côte d'Ivoire
+86627,Uganda
+86629,Guyana
+86630,Guyana
+86631,Guyana
+86632,Zambia
+86634,Tanzania
+86635,Mozambique
+86637,Tanzania
+86639,South Sudan
+86643,Tanzania
+86644,Tanzania
+86650,Côte d'Ivoire
+86651,Côte d'Ivoire
+86652,Rwanda
+86653,Nigeria
+86654,Nigeria
+86655,Nigeria
+86657,"Congo, DRC"
+86659,Zambia
+86660,Mozambique
+86661,Mozambique
+86662,Zimbabwe
+86663,Tanzania
+86664,Côte d'Ivoire
+86665,Côte d'Ivoire
+86749,Uganda
+86666,Nigeria
+86668,Tanzania
+86669,Guyana
+86670,Mozambique
+86671,Mozambique
+86672,Côte d'Ivoire
+86673,Côte d'Ivoire
+86674,Côte d'Ivoire
+86675,Côte d'Ivoire
+86676,Mozambique
+86677,Zambia
+86678,Mozambique
+86679,"Congo, DRC"
+86680,Tanzania
+86683,Uganda
+86684,Guyana
+86685,Nigeria
+86686,Nigeria
+86691,Mozambique
+86694,Zimbabwe
+86695,Zimbabwe
+86698,Mozambique
+86699,South Sudan
+86701,Uganda
+86703,Rwanda
+86704,Nigeria
+86706,Mozambique
+86709,Zimbabwe
+86718,Mozambique
+86719,Mozambique
+86750,Côte d'Ivoire
+86720,Tanzania
+86721,Mozambique
+86723,Nigeria
+86724,Nigeria
+86727,Mozambique
+86728,Guyana
+86729,Mozambique
+86730,Mozambique
+86735,Mozambique
+86737,Côte d'Ivoire
+86739,"Congo, DRC"
+86740,"Congo, DRC"
+86741,"Congo, DRC"
+86743,Nigeria
+86746,Rwanda
+86747,Rwanda
+86751,Côte d'Ivoire
+86756,Zambia
+86757,Nigeria
+86758,Côte d'Ivoire
+86772,Nigeria
+86773,Uganda
+86774,"Congo, DRC"
+86781,Uganda
+86782,Mozambique
+86784,Zambia
+86785,Rwanda
+86786,Uganda
+86787,Rwanda
+86788,Burundi
+86789,Burundi
+86790,Nigeria
+86791,"Congo, DRC"
+86795,Burundi
+86796,Côte d'Ivoire
+86797,Uganda
+86798,Uganda
+86799,Zimbabwe
+86800,Mozambique
+86801,Mozambique
+86802,Mozambique
+86803,Mozambique
+86805,Zimbabwe
+86806,Zambia
+86807,Zambia
+86808,Uganda
+86809,Uganda
+86810,Uganda
+86812,Côte d'Ivoire
+86813,Nigeria
+86814,Nigeria
+86815,Nigeria
+86816,Nigeria
+86817,Zimbabwe
+86818,Zimbabwe
+86819,Côte d'Ivoire
+86821,Zambia
+86822,Zimbabwe
+86823,Zimbabwe

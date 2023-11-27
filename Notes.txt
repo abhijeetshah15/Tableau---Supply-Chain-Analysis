@@ -1,0 +1,23 @@
+------- CSV/SQL Tables -------
+
+1. Identification: id, project code
+
+2. Geographical Information: id, country
+
+3. Management and Fulfillment: id, managed by, fulfill via
+
+4. Transaction Details: id, vendor inco term, shipment mode, po sent to vendor date, scheduled delivery date, delivered to client date, delivery recorded date
+
+5. Product Details: id, product group, sub classification, vendor, molecule/test type ,brand, dosage ,dosage form, unit of measure (per pack)
+
+6. Financial Information: id, line item quantity, line item value, pack price, unit price, weight (kilograms), freight cost (usd), line item insurance (usd)
+
+7. Manufacturing Information: id, manufacturing site, first line designation
+
+
+
+------- Tableau Analysis -------
+
+1. Shipment Mode Map
+
+2. 
